@@ -1,0 +1,1159 @@
+{
+ "versio": 1,
+ "actualitzat": "2026-10-30T08:45:00+01:00",
+ "seguiments": [
+  {
+   "slug": "aldarulls-placa-catalunya",
+   "titol": "Aldarulls a plaça Catalunya",
+   "kicker": "Seguiment · aldarulls",
+   "inici": "2026-10-24",
+   "substitueix": {
+    "principal": "aldarulls-placa-catalunya-que-se-sap",
+    "prefix": "Aldarulls a plaça Catalunya: actualització"
+   },
+   "estat": "obert",
+   "dies": [
+    {
+     "data": "2026-10-25",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 25 d’octubre",
+     "resum": "Els Mossos d’Esquadra han elevat a 128 les persones detingudes pels aldarulls de dissabte al centre de Barcelona. 73 són menors d’edat.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "La cap dels Mossos, Sílvia Catà, ha xifrat diumenge al matí en 128 els detinguts, 73 dels quals menors, en una entrevista a Catalunya Ràdio (<a href=\"https://naciodigital.cat/societat/els-mossos-eleven-a-128-els-detinguts-pels-aldarulls-a-barcelona-73-dels-quals-menors.html\">NacióDigital</a>, <a href=\"https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941\">3Cat</a>). El primer balanç de dissabte a la nit parlava d’un centenar.",
+        "Catà diu que els Mossos analitzen el perfil dels detinguts per entendre què hi ha darrere dels incidents (<a href=\"https://naciodigital.cat/societat/els-mossos-eleven-a-128-els-detinguts-pels-aldarulls-a-barcelona-73-dels-quals-menors.html\">NacióDigital</a>).",
+        "Segons 3Cat, 14 agents dels Mossos van resultar ferits i es van obrir 68 actes administratives per portar armes blanques, esprais, passamuntanyes, material pirotècnic o pedres (<a href=\"https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941\">3Cat</a>).",
+        "La consellera d’Interior, Núria Parlon, va dir dissabte que el dispositiu continuava obert i que no es descartaven més detencions (<a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\">VilaWeb</a>, <a href=\"https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html\">elDiario.es</a>).",
+        "L’alcalde, Jaume Collboni, va anunciar que l’Ajuntament es personarà en les causes judicials i reclamarà els danys. Va dir que hi haurà conseqüències per als adults i per als responsables legals dels menors (<a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\">VilaWeb</a>, <a href=\"https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941\">3Cat</a>).",
+        "Bombers va apagar 33 focs al centre (<a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\">VilaWeb</a>, <a href=\"https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941\">3Cat</a>). La xifra oficial de comerços saquejats o vandalitzats que va donar Parlon és de 14. 3Cat en compta 23.",
+        "El president Salvador Illa va condemnar els fets a X. Diversos partits també hi han reaccionat (<a href=\"https://elnacional.cat/ca/politica/illa-condemna-aldarulls-barcelona-nogueras-demana-explicacions-aixo-no-es-franca_1714564_102.html\">El Nacional</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç oficial",
+       "items": [
+        "Detinguts: 128, segons els Mossos. 73 són menors.",
+        "Ferits: 14 agents dels Mossos, segons 3Cat. No hi ha cap xifra oficial de ferits entre els participants o els vianants.",
+        "Participants: uns 500 en el pic dels incidents, segons Interior."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Seguiment judicial",
+       "items": [],
+       "text": "Encara no hi ha dades oficials sobre quants detinguts han passat a disposició judicial o de la Fiscalia de Menors, ni sobre quants han quedat en llibertat."
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Quants detinguts passaran a disposició judicial i amb quins delictes.",
+        "Si hi ha ferits entre els participants o els vianants.",
+        "Qui va impulsar la convocatòria a les xarxes. Els Mossos ho investiguen.",
+        "El cost dels danys a comerços i a l’espai públic."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Bulos",
+       "items": [],
+       "text": "De moment, ni Maldita.es, ni Newtral, ni Verificat, ni 3Cat Verifica han publicat cap verificació sobre aquests fets."
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "NacióDigital: Els Mossos eleven a 128 els detinguts pels aldarulls a Barcelona, 73 dels quals menors",
+       "url": "https://naciodigital.cat/societat/els-mossos-eleven-a-128-els-detinguts-pels-aldarulls-a-barcelona-73-dels-quals-menors.html"
+      },
+      {
+       "nom": "3Cat: 128 detinguts, 73 menors, pels aldarulls i saquejos d’aquest dissabte al centre de Barcelona",
+       "url": "https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941"
+      },
+      {
+       "nom": "Crónica Global: La violència juvenil sacseja Barcelona: 128 detinguts",
+       "url": "https://www.cronicaglobal.cat/vida/20261025/violencia-juvenil-sacseja-barcelona-detinguts-menors-dedat/1003742805918_0.html"
+      },
+      {
+       "nom": "VilaWeb: Collboni i Parlon condemnen els aldarulls",
+       "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+      },
+      {
+       "nom": "elDiario.es: Altercados, saqueos y cargas en el centro de Barcelona",
+       "url": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html"
+      },
+      {
+       "nom": "El Nacional: Illa condemna els aldarulls a Barcelona",
+       "url": "https://elnacional.cat/ca/politica/illa-condemna-aldarulls-barcelona-nogueras-demana-explicacions-aixo-no-es-franca_1714564_102.html"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-26",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 26 d’octubre",
+     "resum": "Els Mossos d’Esquadra eleven a 128 els detinguts pels aldarulls de dissabte al centre de Barcelona. 72 són menors d’edat.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "El balanç definitiu dels Mossos és de 128 detinguts, dels quals 72 són menors. El primer balanç parlava d’un centenar (3Cat, Línia Xarxa).",
+        "Els comerços saquejats o vandalitzats són 23, segons els Mossos. El primer balanç en comptava 14 (3Cat, Metròpoli).",
+        "Els Bombers van fer 33 serveis per focs a la via pública (3Cat, Metròpoli).",
+        "La policia va identificar centenars de persones i va aixecar 68 actes administratives per armes blanques i altres objectes (3Cat, Metròpoli).",
+        "L’alcalde, Jaume Collboni, va anunciar que l’Ajuntament es personarà a la causa per defensar els béns públics i que reclamarà responsabilitats als majors d’edat i als progenitors dels menors (betevé, NacióDigital).",
+        "Els danys al mobiliari urbà s’estimen en uns 36.000 euros en un primer recompte municipal. L’Ajuntament es reuneix aquest dilluns amb el sector comercial per tractar les reclamacions i possibles ajuts (betevé, Metròpoli).",
+        "Els Mossos investiguen qui hi ha darrere dels perfils anònims que van difondre la convocatòria per TikTok, WhatsApp i Telegram. La comissària en cap diu que no han trobat cap organització al capdavant ni grups criminals (VilaWeb, Diari Públic).",
+        "Circulen per xarxes noves crides a concentrar-se el dissabte 31 d’octubre a plaça Catalunya (VilaWeb, Crónica Global).",
+        "L’acampada per l’habitatge de la plaça es desvincula dels aldarulls. La consellera d’Interior, Núria Parlon, també els en va desvincular (EFE, VilaWeb)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç oficial",
+       "items": [
+        "Detinguts: 128, dels quals 72 menors d’edat (Mossos d’Esquadra).",
+        "Agents ferits: 14, quatre de gravetat (Mossos d’Esquadra).",
+        "Comerços afectats: 23. Focs: 33.",
+        "Dispositiu: uns 500 agents dels Mossos i de la Guàrdia Urbana."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Seguiment judicial",
+       "items": [],
+       "text": "Cap font oficial no ha publicat encara quants detinguts han passat a disposició judicial, quants han quedat en llibertat amb càrrecs ni si se n’ha decretat presó provisional. Els menors depenen de la Fiscalia de Menors."
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Qui gestiona els comptes que van fer la convocatòria.",
+        "Quina resposta judicial tindran els detinguts.",
+        "Si hi haurà un dispositiu policial específic per al 31 d’octubre."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "3Cat: 128 detinguts, 72 menors",
+       "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/"
+      },
+      {
+       "nom": "3Cat: el perfil dels autors",
+       "url": "https://www.3cat.cat/3catinfo/aldarulls-a-barcelona-el-perfil-dels-autors-no-es-el-dels-sospitosos-habituals-per-desordres-publics/noticia/3436035/"
+      },
+      {
+       "nom": "Línia Xarxa: 128 detinguts i 23 comerços",
+       "url": "https://liniaxarxa.cat/noticies/fotos-nit-daldarulls-barcelona-deixa-128-detinguts-23-comercos-vandalitzats/"
+      },
+      {
+       "nom": "Metròpoli: els aldarulls en xifres",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261025/aldarulls-dissabte-barcelona-xifres-mes-agents-desplegats-incendis-menors-detinguts/1003742805986_0.html"
+      },
+      {
+       "nom": "betevé: Collboni l’endemà dels aldarulls",
+       "url": "https://beteve.cat/politica/collboni-endema-aldarulls-no-es-pot-repetir/"
+      },
+      {
+       "nom": "NacióDigital: l’Ajuntament es persona",
+       "url": "https://naciodigital.cat/societat/lajuntament-de-barcelona-es-persona-contra-els-detinguts-pels-aldarulls-i-fa-costat-als-comerciants.html"
+      },
+      {
+       "nom": "VilaWeb: Blocus i comptes anònims",
+       "url": "https://www.vilaweb.cat/noticies/blocus-tiktok-comptes-anonims-aldarulls-saqueigs-barcelona/"
+      },
+      {
+       "nom": "VilaWeb: Collboni i Parlon",
+       "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+      },
+      {
+       "nom": "Crónica Global: la investigació sobre Blocus",
+       "url": "https://www.cronicaglobal.cat/vida/20261025/investigacio-contrarellotge-mossos-rastreja-blocus-convocatoria-barcelona/1003742805989_0.html"
+      },
+      {
+       "nom": "Diari Públic: qui hi ha darrere",
+       "url": "https://www.diaripublic.cat/societat/qui-hi-darrera-els-aldarulls-barcelona-s-han-saldat-amb-128-detinguts-comercos-vandalitzats.html"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-27",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 27 d’octubre",
+     "resum": "Els Mossos d’Esquadra han elevat a 130 les persones detingudes pels aldarulls de dissabte al centre de Barcelona. 76 són menors. Els jutjats han començat a dictar mesures.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Els Mossos han actualitzat el balanç: 130 detinguts (abans, 128). 76 són menors i 54, majors d’edat (3Cat, VilaWeb, Ara). El primer balanç parlava d’un centenar de detinguts i d’una quarta part de menors.",
+        "La Fiscalia xifra en unes 89 els menors que han passat pel seu servei de guàrdia. No s’ha explicat la diferència amb la xifra policial (VilaWeb, El Nacional).",
+        "El Departament d’Interior demanarà autorització judicial per identificar els administradors dels comptes i grups de missatgeria que van difondre la crida, i perquè es tanquin (3Cat, Ara).",
+        "Circula per xarxes una nova crida anònima per a dissabte 31 d’octubre. Els Mossos investiguen qui hi ha al darrere i preparen un dispositiu (3Cat, El Nacional)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç oficial",
+       "items": [
+        "Detinguts: 130, segons els Mossos.",
+        "Ferits: 14 mossos i un agent de la Guàrdia Urbana, segons l’Ara.",
+        "Els Bombers van atendre 33 incendis a la via pública."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Seguiment judicial",
+       "items": [
+        "Majors d’edat: 51 han passat a disposició judicial. 30 han quedat en llibertat provisional amb l’obligació de comparèixer periòdicament al jutjat. Els altres 21 estaven pendents dilluns a la nit (TSJC, segons Crònica Global i VilaWeb). Segons El Nacional, la Fiscalia no va demanar presó provisional per a cap adult.",
+        "Menors: la Fiscalia de Menors va demanar l’internament de 6 i mesures per a 29 més, com la prohibició d’acostar-se a menys de 1.000 metres de reunions o manifestacions (3Cat, Ara).",
+        "Els jutges han ordenat l’internament en règim tancat de 3 menors. La resta ha rebut mesures com la llibertat vigilada o la prohibició d’anar a manifestacions (VilaWeb, NacióDigital, Metròpoli).",
+        "Les causes obertes són per desordres públics, danys, robatori amb força i atemptat contra agents de l’autoritat, entre altres delictes (TSJC)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Qui va fer la crida. Els Mossos tenen un equip d’investigació per identificar-ne els responsables.",
+        "Què han decidit els jutges sobre els 21 adults pendents.",
+        "La situació completa dels menors: el TSJC diu que encara no en té xifres tancades.",
+        "Per què no coincideixen les xifres de menors dels Mossos i de la Fiscalia."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "3Cat: Interior vol tancar els grups de missatgeria",
+       "url": "https://www.3cat.cat/3catinfo/els-mossos-demanen-permis-al-jutge-per-identificar-a-les-xarxes-els-instigadors-els-aldarulls-a-barcelona/noticia/3436079/"
+      },
+      {
+       "nom": "VilaWeb: internament en règim tancat per a tres menors",
+       "url": "https://www.vilaweb.cat/noticies/internament-regim-tancat-detinguts-aldarulls-dissabte-barcelona/"
+      },
+      {
+       "nom": "VilaWeb: detinguts a disposició judicial",
+       "url": "https://www.vilaweb.cat/noticies/detinguts-aldarulls-dissabte-disposicio-judicial/"
+      },
+      {
+       "nom": "Ara: la Fiscalia demana internar 6 menors",
+       "url": "https://www.ara.cat/societat/successos/fiscalia-demana-internar-6-menors-pels-aldarulls-barcelona-detinguts-s-eleven-130_1_5890834.html"
+      },
+      {
+       "nom": "El Nacional: mesures cautelars als detinguts",
+       "url": "https://www.elnacional.cat/ca/societat/els-primers-30-detinguts-aldarulls-barcelona-en-llibertat-poden-anar-a-manifestacions_1715905_102.html"
+      },
+      {
+       "nom": "Crònica Global: 30 detinguts en llibertat provisional",
+       "url": "https://www.cronicaglobal.cat/vida/20261026/llibertat-provisional-detinguts-interna-menors-aldarulls-barcelona/1003742806474_0.html"
+      },
+      {
+       "nom": "NacióDigital: internament de tres menors",
+       "url": "https://naciodigital.cat/societat/internament-en-regim-tancat-per-a-tres-dels-menors-detinguts-pels-aldarulls-de-dissabte-a-barcelona.html"
+      },
+      {
+       "nom": "Metròpoli: tres menors internats",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261026/tres-menors-detinguts-aldarulls-dissabte-barcelona-internats-regim-tancat/1003742806480_0.html"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-28",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 28 d’octubre",
+     "resum": "Els Mossos d’Esquadra eleven a 132 els detinguts pels aldarulls del 24 d’octubre i vigilen noves convocatòries a les xarxes per al dissabte 31 d’octubre.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "El darrer recompte dels Mossos és de 132 persones detingudes (<a href=\"https://laciutat.cat/laciutatdebarcelona/els-mossos-eleven-a-132-els-detinguts-pels-aldarulls-de-barcelona-i-vigilen-noves-convocatories-a-les-xarxes_903815_102.html\">La Ciutat</a>, <a href=\"https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html\">ElNacional.cat</a>).",
+        "Telegram ha bloquejat dos grups de «Blocus BCN» on es feien les crides, per incomplir les condicions de la plataforma. N’han aparegut de nous (<a href=\"https://laciutat.cat/laciutatdebarcelona/els-mossos-eleven-a-132-els-detinguts-pels-aldarulls-de-barcelona-i-vigilen-noves-convocatories-a-les-xarxes_903815_102.html\">La Ciutat</a>, <a href=\"https://naciodigital.cat/societat/qui-hi-ha-darrere-de-blocus-i-per-que-es-un-moviment-imprevisible-pels-mossos.html\">Nació Digital</a>, <a href=\"https://www.elliberal.cat/2026/10/27/barcelona-alerta-saqueos-blocus-halloween-telegram/\">El Liberal</a>).",
+        "Circulen crides per tornar a concentrar-se a Barcelona i altres ciutats el dissabte 31 d’octubre. Els Mossos activen un dispositiu específic per a cada convocatòria (<a href=\"https://laciutat.cat/laciutatdebarcelona/els-mossos-eleven-a-132-els-detinguts-pels-aldarulls-de-barcelona-i-vigilen-noves-convocatories-a-les-xarxes_903815_102.html\">La Ciutat</a>, <a href=\"https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa\">Maldita.es</a>, <a href=\"https://www.newtral.es/31-octubre-blocus-disturbios-convocatoria-protesta/20261025/\">Newtral</a>).",
+        "Les convocatòries de dilluns a la zona de plaça d’Espanya i Sants, i les de diumenge a Granollers, Mataró i Girona, no van acabar amb incidents (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://naciodigital.cat/societat/qui-hi-ha-darrere-de-blocus-i-per-que-es-un-moviment-imprevisible-pels-mossos.html\">Nació Digital</a>).",
+        "Els Mossos preparen diligències per identificar els administradors dels canals de Telegram i WhatsApp i han demanat permís judicial per identificar els instigadors a les xarxes (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://www.elliberal.cat/2026/10/27/barcelona-alerta-saqueos-blocus-halloween-telegram/\">El Liberal</a>).",
+        "La consellera d’Interior, Núria Parlon, compareix aquest dimecres a la comissió d’Interior del Parlament per explicar els fets (<a href=\"https://naciodigital.cat/politica/parlon-compareixera-aquest-dimecres-al-parlament-pels-aldarulls-a-barcelona.html\">Nació Digital</a>, <a href=\"https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html\">ElNacional.cat</a>).",
+        "Segons Nació Digital, la Generalitat i l’Ajuntament es personaran com a acusació particular a les causes (<a href=\"https://naciodigital.cat/societat/qui-hi-ha-darrere-de-blocus-i-per-que-es-un-moviment-imprevisible-pels-mossos.html\">Nació Digital</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç oficial",
+       "items": [
+        "Detinguts: 132, segons els Mossos. Segons la Fiscalia, uns 89 menors han passat pel jutjat de guàrdia de menors (<a href=\"https://laciutat.cat/laciutatdebarcelona/els-mossos-eleven-a-132-els-detinguts-pels-aldarulls-de-barcelona-i-vigilen-noves-convocatories-a-les-xarxes_903815_102.html\">La Ciutat</a>, <a href=\"https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html\">ElNacional.cat</a>).",
+        "Ferits: 14 agents dels Mossos, segons els balanços recollits per l’Ara i Metròpoli Abierta. L’Ara hi suma un agent de la Guàrdia Urbana (<a href=\"https://www.ara.cat/societat/successos/fiscalia-demana-internar-6-menors-pels-aldarulls-barcelona-detinguts-s-eleven-130_1_5890834.html\">Ara</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261025/aldarulls-dissabte-barcelona-xifres-mes-agents-desplegats-incendis-menors-detinguts/1003742805986_0.html\">Metròpoli Abierta</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Seguiment judicial",
+       "items": [
+        "Adults: 51 han passat a disposició judicial. Tots han quedat en llibertat provisional amb mesures cautelars, com la prohibició d’anar a manifestacions i reunions. Cap és en presó provisional; la Fiscalia no la va demanar (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://www.elnacional.cat/ca/societat/els-primers-30-detinguts-aldarulls-barcelona-en-llibertat-poden-anar-a-manifestacions_1715905_102.html\">ElNacional.cat</a>).",
+        "Menors: la Fiscalia de Menors va demanar l’internament per a 6. Els jutges l’han ordenat en règim tancat per a 3 (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://www.vilaweb.cat/noticies/internament-regim-tancat-detinguts-aldarulls-dissabte-barcelona/\">VilaWeb</a>).",
+        "Altres menors tenen mesures cautelars que van de la llibertat vigilada a la prohibició d’anar a manifestacions. La situació de la resta es resoldrà de manera progressiva, segons el TSJC (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>).",
+        "Delictes investigats: desordres públics, danys, robatori amb força i atemptat contra l’autoritat (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://www.elnacional.cat/ca/societat/els-primers-30-detinguts-aldarulls-barcelona-en-llibertat-poden-anar-a-manifestacions_1715905_102.html\">ElNacional.cat</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Qui administra els canals que van fer les crides. Els Mossos no han informat d’avenços de la investigació.",
+        "La situació judicial de tots els menors detinguts.",
+        "El nombre definitiu de comerços afectats: les xifres publicades van de 23 a una trentena.",
+        "Si les crides per al 31 d’octubre tindran resposta."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Bulos",
+       "items": [],
+       "text": "Els verificadors no han publicat cap desmentiment sobre aquests fets en les últimes 24 hores. Maldita.es i Newtral han documentat les noves convocatòries per al 31 d’octubre (<a href=\"https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa\">Maldita.es</a>, <a href=\"https://www.newtral.es/31-octubre-blocus-disturbios-convocatoria-protesta/20261025/\">Newtral</a>)."
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "La Ciutat: Els Mossos eleven a 132 els detinguts",
+       "url": "https://laciutat.cat/laciutatdebarcelona/els-mossos-eleven-a-132-els-detinguts-pels-aldarulls-de-barcelona-i-vigilen-noves-convocatories-a-les-xarxes_903815_102.html"
+      },
+      {
+       "nom": "ElNacional.cat: Una magistrada avisa que hi ha noves crides",
+       "url": "https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html"
+      },
+      {
+       "nom": "ElNacional.cat: Els detinguts en llibertat amb prohibició de manifestar-se",
+       "url": "https://www.elnacional.cat/ca/societat/els-primers-30-detinguts-aldarulls-barcelona-en-llibertat-poden-anar-a-manifestacions_1715905_102.html"
+      },
+      {
+       "nom": "3Cat: Internament en règim tancat per a tres menors",
+       "url": "https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/"
+      },
+      {
+       "nom": "VilaWeb: Internament en règim tancat per a tres dels menors",
+       "url": "https://www.vilaweb.cat/noticies/internament-regim-tancat-detinguts-aldarulls-dissabte-barcelona/"
+      },
+      {
+       "nom": "Nació Digital: Qui hi ha darrere de Blocus",
+       "url": "https://naciodigital.cat/societat/qui-hi-ha-darrere-de-blocus-i-per-que-es-un-moviment-imprevisible-pels-mossos.html"
+      },
+      {
+       "nom": "Nació Digital: Parlon compareixerà dimecres al Parlament",
+       "url": "https://naciodigital.cat/politica/parlon-compareixera-aquest-dimecres-al-parlament-pels-aldarulls-a-barcelona.html"
+      },
+      {
+       "nom": "El Liberal: Telegram tanca els grups de Blocus",
+       "url": "https://www.elliberal.cat/2026/10/27/barcelona-alerta-saqueos-blocus-halloween-telegram/"
+      },
+      {
+       "nom": "Ara: La Fiscalia demana internar 6 menors",
+       "url": "https://www.ara.cat/societat/successos/fiscalia-demana-internar-6-menors-pels-aldarulls-barcelona-detinguts-s-eleven-130_1_5890834.html"
+      },
+      {
+       "nom": "Metròpoli Abierta: Els aldarulls, en xifres",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261025/aldarulls-dissabte-barcelona-xifres-mes-agents-desplegats-incendis-menors-detinguts/1003742805986_0.html"
+      },
+      {
+       "nom": "Maldita.es: Convocatòries del 31 d’octubre",
+       "url": "https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa"
+      },
+      {
+       "nom": "Newtral: Noves convocatòries de Blocus per al 31 d’octubre",
+       "url": "https://www.newtral.es/31-octubre-blocus-disturbios-convocatoria-protesta/20261025/"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-29",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 29 d’octubre",
+     "resum": "Els Mossos eleven a 133 els detinguts pels aldarulls del 24 d’octubre, 85 dels quals menors. Ho van explicar ahir al Parlament la consellera d’Interior, Núria Parlon, i la cúpula policial. Interior es prepara per a una nova convocatòria el dissabte 31 d’octubre.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "La consellera d’Interior, el director general de la Policia, Ferran López, i la comissària en cap, Sílvia Catà, van comparèixer dimecres a la tarda a la comissió d’Interior del Parlament (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>, <a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html\">Metròpoli Abierta</a>).",
+        "El balanç oficial és de 133 detinguts: 85 menors i 48 majors d’edat. El 74% no tenia antecedents policials (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>, <a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>).",
+        "La policia va fer unes 300 identificacions durant la primera fase dels incidents, que ara analitza (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html\">Metròpoli Abierta</a>).",
+        "López va admetre que els Mossos no van preveure el nivell de violència i va avançar que hi haurà més detencions (<a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html\">Metròpoli Abierta</a>).",
+        "S’han tancat dos canals de Telegram vinculats a les crides. Els Mossos han demanat al CITCO, del Ministeri de l’Interior, que ajudi a bloquejar nous grups de Blocus (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html\">Metròpoli Abierta</a>).",
+        "Interior preveu una nova convocatòria a Barcelona el 31 d’octubre. Parlon va dir que s’hi destinaran tots els mitjans disponibles (<a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html\">Metròpoli Abierta</a>, <a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>).",
+        "La Generalitat s’ha personat en els procediments judicials (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç i seguiment judicial",
+       "items": [
+        "Detinguts: 133 (85 menors i 48 majors), segons els Mossos.",
+        "Ferits: 14 agents dels Mossos, quatre amb lesions més greus (<a href=\"https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html\">El Nacional</a>).",
+        "Majors d’edat: els que han passat a disposició judicial han quedat en llibertat provisional amb mesures cautelars, com la prohibició d’anar a manifestacions. La Fiscalia no va demanar presó provisional per a cap d’ells (<a href=\"https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/\">3Cat</a>, <a href=\"https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html\">El Nacional</a>).",
+        "Menors: la Fiscalia de Menors demana l’internament en règim tancat per a 6 i la llibertat vigilada per a 46, amb la prohibició d’acostar-se a menys de 1.000 metres de manifestacions (<a href=\"https://www.infobae.com/espana/agencias/2026/10/28/fiscalia-pide-6-internamientos-y-46-libertades-vigiladas-para-los-menores-detenidos-en-los-disturbios-de-barcelona/\">Europa Press</a>, <a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Quants internaments en règim tancat han acordat els jutges de menors fins ara. No hi ha cap xifra oficial actualitzada.",
+        "Qui hi ha darrere de les convocatòries de Blocus. Els Mossos diuen que encara no ho saben (<a href=\"https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html\">Ara</a>).",
+        "Com serà el dispositiu policial concret per al 31 d’octubre."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Bulos",
+       "items": [],
+       "text": "Circula un vídeo d’un manifestant amb una bandera palestina presentat com a imatges dels aldarulls de Barcelona. És fals: Maldita.es ha comprovat que està gravat a París i circulava des del 19 d’octubre (<a href=\"https://maldita.es/desinfo/20261027/esta-foto-muestra-manifestante-bandera-palestina-durante-disturbios-barcelona-24-octubre-2026/\">Maldita.es</a>)."
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "El Nacional: compareixença al Parlament (28/10)",
+       "url": "https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html"
+      },
+      {
+       "nom": "Ara: els Mossos admeten que la presència policial no va dissuadir (28/10)",
+       "url": "https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html"
+      },
+      {
+       "nom": "Metròpoli Abierta: Parlon alerta d’un nou episodi de violència (28/10)",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html"
+      },
+      {
+       "nom": "Europa Press (via Infobae): peticions de la Fiscalia de Menors (28/10)",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/28/fiscalia-pide-6-internamientos-y-46-libertades-vigiladas-para-los-menores-detenidos-en-los-disturbios-de-barcelona/"
+      },
+      {
+       "nom": "3Cat: internaments i mesures cautelars (26/10)",
+       "url": "https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/"
+      },
+      {
+       "nom": "El Nacional: resolució judicial (27/10)",
+       "url": "https://www.elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html"
+      },
+      {
+       "nom": "Maldita.es: el vídeo és de París (27/10)",
+       "url": "https://maldita.es/desinfo/20261027/esta-foto-muestra-manifestante-bandera-palestina-durante-disturbios-barcelona-24-octubre-2026/"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-30",
+     "titol": "Aldarulls a plaça Catalunya: actualització del 30 d’octubre",
+     "resum": "L’Ajuntament, la Generalitat, la Delegació del Govern i la judicatura han acordat «tolerància zero» i un dispositiu especial davant la nova convocatòria per xarxes de dissabte 31 d’octubre a Barcelona.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Dijous 29 a la tarda es va reunir de manera extraordinària la Junta Local de Seguretat, presidida per l’alcalde Jaume Collboni. Hi van assistir la consellera d’Interior, Núria Parlon, el delegat del Govern espanyol, la presidenta del Tribunal d’Instància de Barcelona, representants de la Fiscalia i comandaments de la Guàrdia Urbana, els Mossos, la Policia Nacional i la Guàrdia Civil (Ajuntament, betevé, El Nacional).",
+        "L’acord: «tolerància zero envers qualsevol actitud violenta» i un dispositiu especial amb actuacions preventives i seguiment continu els propers dies. Els cossos continuaran exigint responsabilitats als tutors legals dels menors implicats. No s’han fet públiques xifres d’agents (Ajuntament, betevé).",
+        "Segons Metrópoli Abierta, que cita fonts del cos, els Mossos han activat una bossa extraordinària d’hores per dissabte i les unitats d’ordre públic (ARRO i Brimo) doblen torns.",
+        "Els Mossos van explicar al Parlament que la convocatòria del 31 és l’única que els preocupa perquè té un canal que la dinamitza. Telegram ha tancat dos canals de la convocatòria, de més de 2.000 membres cadascun, i els Mossos han demanat ajuda al CITCO, del Ministeri de l’Interior (betevé, 3Cat, Línia)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Balanç oficial",
+       "items": [
+        "Detinguts: 133, dels quals 85 són menors, segons el balanç que els Mossos van donar al Parlament el 28 d’octubre. El primer balanç parlava d’un centenar. El director general de la Policia preveu que la xifra augmenti (betevé, 3Cat, Metrópoli Abierta).",
+        "Ferits: 15 agents (14 dels Mossos i 1 de la Guàrdia Urbana, segons l’Ara).",
+        "Els Bombers van atendre 33 incendis a la via pública."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Seguiment judicial",
+       "items": [
+        "Menors: la Fiscalia de Menors va demanar 6 internaments en règim tancat. El jutjat n’ha ordenat 3 (3Cat, Metrópoli Abierta).",
+        "Majors d’edat: segons El Nacional, que ha tingut accés a resolucions judicials, els detinguts que han passat pel jutjat de guàrdia han quedat en llibertat amb mesures cautelars, com la prohibició d’anar a concentracions a Barcelona. La Fiscalia no va demanar presó provisional per a cap.",
+        "No hi ha cap balanç judicial nou en les últimes 24 hores."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Quants agents hi haurà dissabte i on es desplegaran.",
+        "Si la convocatòria del 31 es manté als canals que encara són actius.",
+        "El balanç definitiu de detinguts i quants han passat a disposició judicial en total."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Bulos",
+       "items": [],
+       "text": "No hem trobat cap verificació nova de Maldita.es, Newtral, Verificat o 3Cat Verifica sobre aquests fets."
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "Diari de Barcelona (nota de l’Ajuntament): la Junta Local de Seguretat reforça la coordinació",
+       "url": "https://diaribarcelona.cat/la-junta-local-de-seguretat-de-barcelona-reforca-la-coordinacio-per-garantir-lordre-public-davant-possibles-incidents/"
+      },
+      {
+       "nom": "betevé: Urbana, Mossos i jutges intensifiquen la pressió",
+       "url": "https://beteve.cat/politica/guardia-urbana-mossos-jutges-intensifiquen-pressio-evitar-aldarulls-blocus-nit-dissabte-barcelona/"
+      },
+      {
+       "nom": "El Nacional: Collboni i Parlon, Junta Local de Seguretat",
+       "url": "https://www.elnacional.cat/es/politica/collboni-parlon-se-conjuran-dar-respuesta-robusta-blocus-este-sabado-en-barcelona_1717900_102.html"
+      },
+      {
+       "nom": "Metrópoli Abierta: màxima activació als Mossos",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261030/maxima-activacio-mossos-desquadra-arro-brimo-doblen-torns-cobrir-barcelona-dissabte/1003742807237_0.html"
+      },
+      {
+       "nom": "betevé: els Mossos, previnguts davant possibles nous aldarulls",
+       "url": "https://beteve.cat/societat/mossos-preocupats-possibles-nous-aldarulls-31-octubre/"
+      },
+      {
+       "nom": "3Cat: els Mossos admeten preocupació",
+       "url": "https://www.3cat.cat/3catinfo/els-mossos-admeten-preocupacio-pels-aldarulls-estem-davant-dun-nou-fenomen-de-violencia-juvenil/noticia/3436686/"
+      },
+      {
+       "nom": "Metrópoli Abierta: Parlon alerta d’un nou episodi",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261028/consellera-parlon-alerta-dun-nou-episodi-violencia-carrers-barcelona/1003742807162_0.html"
+      },
+      {
+       "nom": "3Cat: internament en règim tancat per a tres menors",
+       "url": "https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/"
+      },
+      {
+       "nom": "Ara: la Fiscalia demana internar 6 menors",
+       "url": "https://www.ara.cat/societat/successos/fiscalia-demana-internar-6-menors-pels-aldarulls-barcelona-detinguts-s-eleven-130_1_5890834.html"
+      },
+      {
+       "nom": "El Nacional: una magistrada avisa de noves crides",
+       "url": "https://elnacional.cat/ca/societat/magistrada-avisa-hi-ha-noves-crides-saquejar-establiments-cal-evitar-aquest-risc_1716448_102.html"
+      }
+     ]
+    }
+   ],
+   "fonts": [],
+   "context": "\n<p class=\"wp-block-paragraph\">Dissabte 24 d’octubre a la tarda, una concentració de joves convocada per xarxes socials va acabar amb aldarulls, botigues saquejades i contenidors cremats al voltant de plaça Catalunya. Dels aldarulls a plaça Catalunya, aquí recollim només el que confirmen les autoritats i els mitjans, i ho actualitzem cada matí.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Les xifres</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Uns 100 detinguts</strong>, una quarta part menors d’edat, segons el primer balanç. És una xifra provisional: la consellera d’Interior no descarta més detencions.</li>\n\n\n\n<li><strong>14 botigues saquejades</strong>, segons la consellera d’Interior, Núria Parlon.</li>\n\n\n\n<li><strong>33 focs</strong> apagats pels Bombers.</li>\n\n\n\n<li><strong>Unes 500 persones</strong> en el moment de més gent, sense cap organització al darrere, segons Interior.</li>\n\n\n\n<li><strong>Uns 200 agents</strong> de la Brigada Mòbil dels Mossos i d’unitats de paisà, amb el suport de la Guàrdia Urbana.</li>\n\n\n\n<li><strong>Almenys 10 agents ferits</strong> dels Mossos i de la Guàrdia Urbana, la majoria lleus, segons ElNacional.cat. Interior encara no n’ha donat el balanç oficial, ni dels civils.</li>\n</ul>\n\n\n\n<figure class=\"ca-figure\"><svg viewBox=\"0 0 420 200\" role=\"img\" aria-label=\"Detinguts i agents ferits per jornada d’aldarulls al centre de Barcelona, octubre de 2026: 13 detinguts i uns 30 mossos ferits el 5 d’octubre; uns 100 detinguts i almenys 10 agents ferits el 24 d’octubre\" style=\"font-family:Inter,system-ui,sans-serif\"><line x1=\"2.0\" x2=\"2.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"2.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">0</text><line x1=\"126.0\" x2=\"126.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"126.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">50</text><line x1=\"250.0\" x2=\"250.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"250.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">100</text><text x=\"0\" y=\"18\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">5 oct · Habitatge</text><rect x=\"2\" y=\"26\" width=\"32.2\" height=\"22\" rx=\"4\" fill=\"#16a99b\"/><text x=\"42.2\" y=\"41.5\" font-size=\"13\" fill=\"#111820\">13 detinguts</text><rect x=\"2\" y=\"54\" width=\"74.4\" height=\"22\" rx=\"4\" fill=\"#e98a4c\"/><text x=\"84.4\" y=\"69.5\" font-size=\"13\" fill=\"#111820\">~30 ferits</text><text x=\"0\" y=\"108\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">24 oct · Pl. Catalunya</text><rect x=\"2\" y=\"116\" width=\"248.0\" height=\"22\" rx=\"4\" fill=\"#16a99b\"/><text x=\"258.0\" y=\"131.5\" font-size=\"13\" fill=\"#111820\">~100 detinguts</text><rect x=\"2\" y=\"144\" width=\"24.8\" height=\"22\" rx=\"4\" fill=\"#e98a4c\"/><text x=\"34.8\" y=\"159.5\" font-size=\"13\" fill=\"#111820\">≥10 agents ferits (provisional)</text></svg><div class=\"ca-legend\"><span><i style=\"background:#16a99b\"></i>Detinguts</span><span><i style=\"background:#e98a4c\"></i>Agents ferits</span></div><figcaption>Balanç per jornada d’aldarulls al centre, octubre de 2026. Dades dels Mossos i d’Interior recollides per la premsa. La del 24 d’octubre és provisional.</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Què va passar: cronologia dels aldarulls a plaça Catalunya</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Divendres i dissabte al matí.</strong> L’Ajuntament retira contenidors i altres objectes del centre després de veure les crides a les xarxes.</li>\n\n\n\n<li><strong>17 h.</strong> Centenars de joves, molts encaputxats, es concentren a plaça Catalunya. La crida havia circulat a TikTok com una «convocatòria internacional de vaga i mobilitzacions estudiantils i juvenils». Els Mossos la consideren no autoritzada perquè no s’havia comunicat.</li>\n\n\n\n<li><strong>Tarda.</strong> Llançament d’objectes contra el cordó policial i primeres càrregues. Contenidors i papereres cremats, motos tombades, un semàfor, marquesines i part de la terrassa del Bar Zúrich destrossats. Diverses botigues abaixen la persiana amb clients a dins.</li>\n\n\n\n<li><strong>Vespre.</strong> Saquejos de botigues. La Guàrdia Urbana tanca els accessos a la plaça entre Urquinaona i Universitat, i es tanca l’estació de metro de Catalunya. Dos helicòpters sobrevolen la zona.</li>\n\n\n\n<li><strong>Nit.</strong> Primer balanç: uns 100 detinguts.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Què diuen les autoritats</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El president Salvador Illa i la consellera d’Interior, Núria Parlon, van condemnar la violència. Parlon va dir que els fets van ser obra de grups no organitzats i que no formaven part de cap manifestació.</p>\n\n\n\n<p class=\"wp-block-paragraph\">L’alcalde Jaume Collboni va anunciar que l’Ajuntament es personarà a la causa per defensar els béns públics, que reclamarà els danys i que demanarà responsabilitats als pares dels menors. També va desvincular els fets de l’acampada per l’habitatge que fa setmanes que hi ha a la mateixa plaça.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Què no se sap encara</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Qui va fer la crida inicial i amb quin objectiu.</li>\n\n\n\n<li>Quantes persones han resultat ferides, agents i civils.</li>\n\n\n\n<li>Quants detinguts passen a disposició judicial, quants queden en llibertat amb càrrecs i quants en presó provisional.</li>\n\n\n\n<li>Si hi haurà noves convocatòries els pròxims dies.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Les dades de les persones detingudes, només en xifres agregades: no publiquem noms, cares ni orígens de persones concretes.</p>\n\n\n\n<h2 class=\"wp-block-heading\">No és l’acampada</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Els aldarulls van passar a la mateixa plaça que l’acampada per l’habitatge, però els mitjans i l’alcalde els descriuen com una concentració diferent. En fem un <a href=\"/la-ciutat-avui/\">seguiment a part</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Abans de compartir un vídeo</h2>\n\n\n\n<p class=\"wp-block-paragraph\">En aldarulls anteriors van circular vídeos d’altres anys presentats com a actuals. Mira la data i la font, i comprova l’<a href=\"/arxiu-de-bulos/\">arxiu de bulos</a>. Si no entens algun terme, com ara «presó provisional» o «desordres públics», el tens al <a href=\"/glossari/\">glossari</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">No és la primera vegada aquest mes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El 5 d’octubre, la manifestació per l’habitatge també va acabar amb aldarulls al centre: 13 detinguts, una trentena de mossos ferits lleus, 28 barricades i 22 incendis apagats pels Bombers.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Preguntes freqüents sobre els aldarulls a plaça Catalunya</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Quantes persones van ser detingudes?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Uns 100, segons el primer balanç dels Mossos i d’Interior. Una quarta part eren menors d’edat. La xifra pot créixer: la consellera Parlon no descarta més detencions.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Els aldarulls tenen relació amb l’acampada per l’habitatge?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No, segons l’alcalde Jaume Collboni i la consellera d’Interior. La concentració es va convocar per TikTok i Interior diu que no tenia cap organització al darrere. L’acampada per l’habitatge, que fa setmanes que és a la plaça, no la va convocar. En parlem a <a href=\"/acampada-habitatge-placa-catalunya/\">l’acampada per l’habitatge de plaça Catalunya</a>.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Quants danys hi va haver?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">14 botigues saquejades i 33 focs apagats pels Bombers, sobretot contenidors. L’Ajuntament es personarà a la causa i reclamarà els danys.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Fonts</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\" target=\"_blank\" rel=\"noopener\">VilaWeb</a>, 25 d’octubre de 2026: balanç i declaracions de Collboni i Parlon</li>\n\n\n\n<li><a href=\"https://www.elnacional.cat/es/sociedad/tension-en-centro-barcelona-concentracion-jovenes-provoca-estampidas-cierre-comercios_1714510_102.html\" target=\"_blank\" rel=\"noopener\">ElNacional.cat</a>, 24 d’octubre de 2026: la convocatòria a TikTok</li>\n\n\n\n<li><a href=\"https://www.ara.cat/societat/tensio-centre-barcelona-manifestacio-convocada-xarxes-socials_1_5889607.html\" target=\"_blank\" rel=\"noopener\">Ara</a>, 24 d’octubre de 2026</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261024/manifestacio-destudiants-acaba-aldarulls-centre-barcelona-carregues-policials-barricades-incendiades-destrosses-mobiliari-urba/1003742805849_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 24 d’octubre de 2026: destrosses</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/mobilitat/20261024/tanquen-lestacio-catalunya-metro-barcelona-aldarulls-centre/1003742805876_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 24 d’octubre de 2026: tancament del metro</li>\n\n\n\n<li><a href=\"https://www.infobae.com/espana/2026/10/24/una-protesta-juvenil-en-barcelona-deriva-en-saqueos-incendios-y-choques-con-los-mossos/\" target=\"_blank\" rel=\"noopener\">Infobae / EFE</a>, 24 d’octubre de 2026: talls d’accés</li>\n\n\n\n<li><a href=\"https://www.cronicaglobal.cat/vida/20261006/trentena-mossos-detinguts-disturbis-despres-manifestacio-lhabitatge/1003742800184_0.html\" target=\"_blank\" rel=\"noopener\">Crònica Global</a>, 6 d’octubre de 2026: balanç del 5 d’octubre</li>\n\n\n\n<li><a href=\"https://www.elnacional.cat/ca/societat/caos-barcelona-500-encaputxats-saquejar-botigues-incendis-centre_1714573_102.html\" target=\"_blank\" rel=\"noopener\">ElNacional.cat</a>, 25 d’octubre de 2026: agents ferits i botigues saquejades</li>\n</ul>\n",
+   "resum": "Uns 100 detinguts, 14 botigues saquejades i 33 focs: el balanç dels aldarulls del 24 d’octubre a plaça Catalunya, amb la font de cada xifra i el que encara no se sap.",
+   "fonts_context": [
+    {
+     "nom": "VilaWeb",
+     "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+    },
+    {
+     "nom": "ElNacional.cat",
+     "url": "https://www.elnacional.cat/es/sociedad/tension-en-centro-barcelona-concentracion-jovenes-provoca-estampidas-cierre-comercios_1714510_102.html"
+    },
+    {
+     "nom": "Ara",
+     "url": "https://www.ara.cat/societat/tensio-centre-barcelona-manifestacio-convocada-xarxes-socials_1_5889607.html"
+    },
+    {
+     "nom": "Metròpoli Abierta",
+     "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261024/manifestacio-destudiants-acaba-aldarulls-centre-barcelona-carregues-policials-barricades-incendiades-destrosses-mobiliari-urba/1003742805849_0.html"
+    },
+    {
+     "nom": "Metròpoli Abierta",
+     "url": "https://www.metropoliabierta.cat/mobilitat/20261024/tanquen-lestacio-catalunya-metro-barcelona-aldarulls-centre/1003742805876_0.html"
+    },
+    {
+     "nom": "Infobae / EFE",
+     "url": "https://www.infobae.com/espana/2026/10/24/una-protesta-juvenil-en-barcelona-deriva-en-saqueos-incendios-y-choques-con-los-mossos/"
+    },
+    {
+     "nom": "Crònica Global",
+     "url": "https://www.cronicaglobal.cat/vida/20261006/trentena-mossos-detinguts-disturbis-despres-manifestacio-lhabitatge/1003742800184_0.html"
+    },
+    {
+     "nom": "ElNacional.cat",
+     "url": "https://www.elnacional.cat/ca/societat/caos-barcelona-500-encaputxats-saquejar-botigues-incendis-centre_1714573_102.html"
+    }
+   ],
+   "xifres": {
+    "Detinguts": [
+     {
+      "data": "2026-10-24",
+      "valor": 100,
+      "nota": "primer balanç, «un centenar»"
+     },
+     {
+      "data": "2026-10-25",
+      "valor": 128,
+      "nota": "Mossos"
+     },
+     {
+      "data": "2026-10-27",
+      "valor": 130,
+      "nota": "Mossos"
+     },
+     {
+      "data": "2026-10-28",
+      "valor": 133,
+      "nota": "Mossos al Parlament"
+     }
+    ],
+    "Menors detinguts": [
+     {
+      "data": "2026-10-25",
+      "valor": 73
+     },
+     {
+      "data": "2026-10-26",
+      "valor": 72
+     },
+     {
+      "data": "2026-10-27",
+      "valor": 76
+     },
+     {
+      "data": "2026-10-28",
+      "valor": 85
+     }
+    ]
+   },
+   "ara": [
+    {
+     "etiqueta": "Detinguts",
+     "valor": "133",
+     "detall": "85 menors i 48 adults",
+     "font": {
+      "nom": "Mossos al Parlament, 28/10",
+      "url": "https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html"
+     }
+    },
+    {
+     "etiqueta": "Agents ferits",
+     "valor": "15",
+     "detall": "14 dels Mossos i 1 de la Guàrdia Urbana",
+     "font": {
+      "nom": "Ara",
+      "url": "https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html"
+     }
+    },
+    {
+     "etiqueta": "Adults en presó provisional",
+     "valor": "0",
+     "detall": "la Fiscalia no la va demanar",
+     "font": {
+      "nom": "3Cat",
+      "url": "https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/"
+     }
+    },
+    {
+     "etiqueta": "Focs apagats",
+     "valor": "33",
+     "detall": "Bombers",
+     "font": {
+      "nom": "3Cat",
+      "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/"
+     }
+    }
+   ],
+   "imatges": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Placa_de_Catalunya_%285836808650%29.jpg/1280px-Placa_de_Catalunya_%285836808650%29.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Placa_de_Catalunya_(5836808650).jpg",
+     "autor": "Tony Hisgett",
+     "llicencia": "CC BY 2.0",
+     "llicencia_url": "https://creativecommons.org/licenses/by/2.0",
+     "descripcio": "La plaça de Catalunya en un dia normal. Imatge d’arxiu",
+     "any": "2011"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brigada_Mobil_%281%29.jpg/1280px-Brigada_Mobil_%281%29.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Brigada_Mobil_(1).jpg",
+     "autor": "Jove",
+     "llicencia": "Domini públic",
+     "llicencia_url": "",
+     "descripcio": "Un agent de la Brigada Mòbil dels Mossos en una manifestació a Barcelona. Imatge d’arxiu",
+     "any": "2007"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Placa_Catalunya%2C_Barcelona_%28P1170661%29.jpg/1280px-Placa_Catalunya%2C_Barcelona_%28P1170661%29.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Placa_Catalunya,_Barcelona_(P1170661).jpg",
+     "autor": "Matti Blume",
+     "llicencia": "CC BY-SA 4.0",
+     "llicencia_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "descripcio": "La plaça de nit. Imatge d’arxiu",
+     "any": "2024"
+    }
+   ],
+   "grafics": [
+    {
+     "titol": "Dues jornades d’aldarulls al centre, octubre de 2026",
+     "unitat": "",
+     "nota": "Detinguts segons els Mossos. Agents ferits: el 5 d’octubre, «una trentena» lleus; el 24, 14 dels Mossos i 1 de la Guàrdia Urbana.",
+     "fonts": [
+      {
+       "nom": "El Nacional (compareixença al Parlament)",
+       "url": "https://www.elnacional.cat/ca/politica/mossos-van-detectar-blocus-20-octubre-dies-abans-aldarulls-pero-no-van-preveure-tanta-violencia_1717180_102.html"
+      }
+     ],
+     "punts": [
+      {
+       "etiqueta": "5 d’octubre",
+       "serie": "Detinguts",
+       "valor": 13
+      },
+      {
+       "etiqueta": "24 d’octubre",
+       "serie": "Detinguts",
+       "valor": 133
+      },
+      {
+       "etiqueta": "5 d’octubre",
+       "serie": "Agents ferits",
+       "valor": 30,
+       "nota": "aprox."
+      },
+      {
+       "etiqueta": "24 d’octubre",
+       "serie": "Agents ferits",
+       "valor": 15
+      }
+     ]
+    },
+    {
+     "titol": "Detinguts el 24 d’octubre, per edat",
+     "unitat": "",
+     "nota": "Balanç dels Mossos al Parlament el 28 d’octubre.",
+     "fonts": [
+      {
+       "nom": "Ara",
+       "url": "https://ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html"
+      }
+     ],
+     "punts": [
+      {
+       "etiqueta": "Menors",
+       "valor": 85
+      },
+      {
+       "etiqueta": "Majors d’edat",
+       "valor": 48
+      }
+     ]
+    },
+    {
+     "titol": "Què ha passat amb els adults detinguts",
+     "unitat": "",
+     "nota": "Xifres agregades del TSJC i la Fiscalia recollides per la premsa fins al 28 d’octubre.",
+     "fonts": [
+      {
+       "nom": "3Cat",
+       "url": "https://www.3cat.cat/3catinfo/ordenen-linternament-en-regim-tancat-per-a-tres-dels-menors-detinguts-als-aldarulls-de-barcelona/noticia/3436242/"
+      }
+     ],
+     "punts": [
+      {
+       "etiqueta": "Han passat pel jutjat",
+       "valor": 51
+      },
+      {
+       "etiqueta": "En llibertat amb mesures cautelars",
+       "valor": 51
+      },
+      {
+       "etiqueta": "En presó provisional",
+       "valor": 0
+      }
+     ]
+    }
+   ],
+   "fons": [
+    "delictes"
+   ]
+  },
+  {
+   "slug": "acampada-habitatge-placa-catalunya",
+   "titol": "L’acampada per l’habitatge de plaça Catalunya",
+   "kicker": "Seguiment · habitatge",
+   "inici": "2026-09-29",
+   "substitueix": {
+    "principal": "acampada-habitatge-placa-catalunya",
+    "prefix": "L’acampada per l’habitatge: actualització"
+   },
+   "estat": "obert",
+   "dies": [
+    {
+     "data": "2026-10-25",
+     "titol": "L’acampada per l’habitatge: actualització del 25 d’octubre",
+     "resum": "L’acampada per l’habitatge s’ha desmarcat dels aldarulls de dissabte a plaça Catalunya. El PP demanarà dilluns que se’n faci el desallotjament.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Una portaveu de l’acampada es va desvincular de la violència de dissabte a la tarda (<a href=\"https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941\">3Cat</a>, <a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261024/mes-dun-centenar-detinguts-menors-dedat-despres-aldarulls-daquest-dissabte-barcelona/1003742805896_0.html\">Metròpoli Abierta</a>).",
+        "L’acampada, a la part central de la plaça, va continuar mentre hi havia els incidents als carrers del voltant (<a href=\"https://www.catalunyapress.cat/article/barcelona/2026-10-25/6065002-fotos-detingudes-100-persones-despres-dels-disturbis-i-saquejos-barcelona-protesta-convocada-per-xarxes-socials\">Catalunya Press</a>).",
+        "L’alcalde Collboni i la consellera Parlon també van separar els aldarulls de l’acampada (<a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\">VilaWeb</a>, <a href=\"https://www.cronicaglobal.cat/vida/20261025/instituts-indignats-exporta-vandalisme-frances-espanya-barcelona/1003742805900_0.html\">Crónica Global</a>).",
+        "El líder del PP a l’Ajuntament, Daniel Sirera, va anunciar que dilluns demanarà per escrit a la Generalitat i a l’Ajuntament que desallotgin la plaça. Si no ho fan, diu que el PP anirà als tribunals (<a href=\"https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20261024/daniel-sirera-pp-acampada-plaza-catalunya-barcelona-lunes-voy-exigir-desalojen/1003742805838_0.html\">Metrópoli Abierta</a>, <a href=\"https://www.periodistadigital.com/politica/20261024/sirera-exige-illa-collboni-desalojen-acampada-plaza-catalunya-amenaza-acudir-tribunales-noticia-689405260018/\">Periodista Digital</a>)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Si l’Ajuntament o la Generalitat respondran a la petició del PP.",
+        "Si l’acampada canviarà alguna cosa després dels aldarulls.",
+        "Quantes tendes hi ha ara. L’última xifra de l’Ajuntament era de 360."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "3Cat: 128 detinguts, 73 menors, pels aldarulls i saquejos",
+       "url": "https://3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941"
+      },
+      {
+       "nom": "Metròpoli Abierta: Més d’un centenar de detinguts després dels aldarulls",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261024/mes-dun-centenar-detinguts-menors-dedat-despres-aldarulls-daquest-dissabte-barcelona/1003742805896_0.html"
+      },
+      {
+       "nom": "Catalunya Press: Detingudes 100 persones després dels disturbis",
+       "url": "https://www.catalunyapress.cat/article/barcelona/2026-10-25/6065002-fotos-detingudes-100-persones-despres-dels-disturbis-i-saquejos-barcelona-protesta-convocada-per-xarxes-socials"
+      },
+      {
+       "nom": "VilaWeb: Collboni i Parlon condemnen els aldarulls",
+       "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+      },
+      {
+       "nom": "Metrópoli Abierta: Daniel Sirera (PP), sobre la acampada de plaza Catalunya",
+       "url": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20261024/daniel-sirera-pp-acampada-plaza-catalunya-barcelona-lunes-voy-exigir-desalojen/1003742805838_0.html"
+      },
+      {
+       "nom": "Periodista Digital: Sirera exige a Illa y Collboni que desalojen la acampada",
+       "url": "https://www.periodistadigital.com/politica/20261024/sirera-exige-illa-collboni-desalojen-acampada-plaza-catalunya-amenaza-acudir-tribunales-noticia-689405260018/"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-26",
+     "titol": "L’acampada per l’habitatge: actualització del 26 d’octubre",
+     "resum": "L’acampada per l’habitatge de plaça Catalunya es desvincula dels aldarulls de dissabte al centre de Barcelona.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Una portaveu de l’acampada va declarar a EFE que els aldarulls no tenen cap relació amb la protesta per l’habitatge (EFE).",
+        "Segons l’acampada, dissabte a la tarda van tancar l’espai per evitar destrosses i hi van deixar entrar famílies i gent gran que buscaven refugi (EFE).",
+        "La consellera d’Interior, Núria Parlon, també va desvincular els aldarulls de l’acampada (VilaWeb, 3Cat).",
+        "L’acampada reclama a l’Ajuntament que restableixi l’enllumenat o una font d’energia a la zona. L’Ajuntament hi va tallar el subministrament elèctric per risc de connexions irregulars (EFE)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Si els aldarulls tindran conseqüències sobre la continuïtat de l’acampada.",
+        "Si l’Ajuntament restablirà l’enllumenat a la plaça."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "EFE (via Infobae): l’acampada es desmarca dels aldarulls",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/25/la-acampada-por-la-vivienda-se-desmarca-de-los-altercados-en-el-centro-de-barcelona/"
+      },
+      {
+       "nom": "3Cat: balanç dels aldarulls",
+       "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/"
+      },
+      {
+       "nom": "VilaWeb: Collboni i Parlon",
+       "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+      }
+     ]
+    }
+   ],
+   "fonts": [],
+   "context": "\n<p class=\"wp-block-paragraph\">Des de finals de setembre, l’acampada de plaça Catalunya reuneix centenars de tendes per reclamar habitatge assequible. És el fil que porta fins a la vaga general de l’11 de novembre. Aquí recollim el que se’n sap, amb la font de cada xifra.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Les xifres</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Gairebé quatre setmanes</strong> d’acampada: el 10 d’octubre ja feia dotze dies que hi era.</li>\n\n\n\n<li><strong>360 tendes</strong> segons l’Ajuntament, <strong>més de 600</strong> segons l’organització. Les dues fonts no coincideixen i les donem totes dues.</li>\n\n\n\n<li><strong>Un edifici ocupat i desallotjat</strong>: el bloc buit del carrer de Calàbria, 177, a l’Eixample.</li>\n\n\n\n<li><strong>11 de novembre</strong>: vaga general per l’habitatge.</li>\n</ul>\n\n\n\n<figure class=\"ca-figure\"><svg viewBox=\"0 0 420 206\" role=\"img\" aria-label=\"Tendes a l’acampada per l’habitatge de plaça Catalunya: unes 40 el 30 de setembre; a finals d’octubre, 360 segons l’Ajuntament i més de 600 segons l’organització\" style=\"font-family:Inter,system-ui,sans-serif\"><line x1=\"2.0\" x2=\"2.0\" y1=\"0\" y2=\"184\" stroke=\"#dfe5e9\"/><text x=\"2.0\" y=\"200\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">0</text><line x1=\"126.0\" x2=\"126.0\" y1=\"0\" y2=\"184\" stroke=\"#dfe5e9\"/><text x=\"126.0\" y=\"200\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">300</text><line x1=\"250.0\" x2=\"250.0\" y1=\"0\" y2=\"184\" stroke=\"#dfe5e9\"/><text x=\"250.0\" y=\"200\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">600</text><text x=\"0\" y=\"18\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">30 set</text><rect x=\"2\" y=\"26\" width=\"16.5\" height=\"22\" rx=\"4\" fill=\"#7c8aa5\"/><text x=\"26.5\" y=\"41.5\" font-size=\"13\" fill=\"#111820\">unes 40</text><text x=\"0\" y=\"80\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">Oct · Ajuntament</text><rect x=\"2\" y=\"88\" width=\"148.8\" height=\"22\" rx=\"4\" fill=\"#16a99b\"/><text x=\"158.8\" y=\"103.5\" font-size=\"13\" fill=\"#111820\">360</text><text x=\"0\" y=\"142\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">Oct · Organització</text><rect x=\"2\" y=\"150\" width=\"248.0\" height=\"22\" rx=\"4\" fill=\"#e98a4c\"/><text x=\"258.0\" y=\"165.5\" font-size=\"13\" fill=\"#111820\">més de 600</text></svg><figcaption>Tendes a l’acampada de plaça Catalunya. Les dues xifres d’octubre són de finals de mes, recollides per Moncloa.com el 23 d’octubre.</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Què ha passat</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>26 de setembre.</strong> Després d’una manifestació a Madrid, comencen les acampades per l’habitatge a la Puerta del Sol. Pocs dies després, n’hi ha una a plaça Catalunya.</li>\n\n\n\n<li><strong>30 de setembre.</strong> L’acampada de Barcelona ja té unes 40 tendes.</li>\n\n\n\n<li><strong>5 d’octubre.</strong> Manifestació per l’habitatge. Es reclama congelar els lloguers i es convoca una vaga general per al novembre.</li>\n\n\n\n<li><strong>20 d’octubre.</strong> L’Ajuntament talla la llum a una part de la plaça seguint un informe dels Bombers, que alertava d’una connexió elèctrica punxada i precària. Els acampats creuen que és una manera de forçar-ne el final.</li>\n\n\n\n<li><strong>21 d’octubre.</strong> El tinent d’alcalde de Seguretat, Albert Batlle, descarta un desallotjament imminent: diu que seria «irresponsable», però que la Guàrdia Urbana està preparada per actuar si cal.</li>\n\n\n\n<li><strong>23 i 24 d’octubre.</strong> Membres de l’acampada entren al bloc buit de Calàbria, 177. Els Mossos el desallotgen per delicte flagrant.</li>\n\n\n\n<li><strong>24 d’octubre.</strong> Aldarulls d’una concentració juvenil a la mateixa plaça. L’alcalde els desvincula de l’acampada.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Com funciona l’acampada de plaça Catalunya</h2>\n\n\n\n<p class=\"wp-block-paragraph\">És autogestionada. Els participants fan torns per compaginar-ho amb la feina o els estudis, i es reparteixen la cuina, la infermeria, el material, les activitats i el punt d’informació. Un tauler recull el que cal (bateries, garrafes, roba d’abric) i una part arriba de donacions de veïns.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Què demanen</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Els cartells parlen contra l’especulació i el turisme massiu. Encara no hem trobat una llista formal de reivindicacions publicada per l’acampada: l’afegirem quan n’hi hagi un comunicat.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Per què ara: les dades</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El 2025 hi va haver 1.373 desnonaments a Barcelona, vuit de cada deu per lloguer. Són menys que fa deu anys, però la PAH creu que la baixada amaga un tap als jutjats. Els preus del lloguer per barri són a <a href=\"/lloguer-i-preus/\">Lloguer i preus</a>. Els desnonaments, a <a href=\"/desnonaments-i-pisos-buits/\">Desnonaments, pisos buits i obra nova</a>, i qui és propietari dels pisos de cada barri, a <a href=\"/qui-guanya-amb-l-habitatge/\">Qui viu de l’habitatge</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Què no se sap encara</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>La llista de reivindicacions i qui parla en nom de l’acampada.</li>\n\n\n\n<li>Fins quan durarà: l’Ajuntament descarta desallotjar-la ara, però no ha dit què farà després de la vaga.</li>\n\n\n\n<li>L’àmbit de la vaga de l’11 de novembre, els serveis mínims i els recorreguts.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Preguntes freqüents sobre l’acampada de plaça Catalunya</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Quantes tendes hi ha a plaça Catalunya?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depèn de la font. L’Ajuntament en comptava unes 360 a finals d’octubre i l’organització en diu més de 600. El 30 de setembre n’hi havia unes 40.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Des de quan hi ha l’acampada?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Des del 29 de setembre, pocs dies després que comencés la de la Puerta del Sol de Madrid.</p>\n\n\n\n<h3 class=\"wp-block-heading\">L’acampada té relació amb els aldarulls del 24 d’octubre?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No, segons l’alcalde i la consellera d’Interior. Ho expliquem a <a href=\"/aldarulls-placa-catalunya-que-se-sap/\">Aldarulls a plaça Catalunya: què se sap i què no</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Fonts</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.moncloa.com/2026/10/23/acampada-vivienda-barcelona-desalojo-3454279/\" target=\"_blank\" rel=\"noopener\">Moncloa.com</a>, 23 d’octubre de 2026: tendes i Calàbria 177</li>\n\n\n\n<li><a href=\"https://www.moncloa.com/2026/09/30/acampada-vivienda-barcelona-plaza-catalunya-3440288\" target=\"_blank\" rel=\"noopener\">Moncloa.com</a>, 30 de setembre de 2026</li>\n\n\n\n<li><a href=\"https://www.infobae.com/america/agencias/2026/10/10/turnos-asambleas-y-reparto-de-tareas-un-dia-en-la-acampada-por-la-vivienda-de-barcelona/\" target=\"_blank\" rel=\"noopener\">Infobae / EFE</a>, 10 d’octubre de 2026: com funciona</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/successos/20261024/desallotgen-edifici-ocupat-acampats-lhabitatge-placa-catalunya-barcelona/1003742805775_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 24 d’octubre de 2026: desallotjament</li>\n\n\n\n<li><a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\" target=\"_blank\" rel=\"noopener\">VilaWeb</a>, 25 d’octubre de 2026: l’alcalde desvincula els aldarulls de l’acampada</li>\n\n\n\n<li><a href=\"https://www.cronicaglobal.cat/vida/20261006/trentena-mossos-detinguts-disturbis-despres-manifestacio-lhabitatge/1003742800184_0.html\" target=\"_blank\" rel=\"noopener\">Crònica Global</a>, 6 d’octubre de 2026: la manifestació del 5 d’octubre</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261020/lajuntament-barcelona-talla-llum-acampats-placa-catalunya-davant-risc-tenir-subministrament-punxat/1003742804628_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 20 d’octubre de 2026: tall de llum</li>\n\n\n\n<li><a href=\"https://beteve.cat/politica/collboni-no-desallotjara-acampada-habitatge-guardia-urbana-preparada/\" target=\"_blank\" rel=\"noopener\">Betevé</a>, 21 d’octubre de 2026: no hi haurà desallotjament imminent</li>\n</ul>\n",
+   "resum": "Centenars de tendes a plaça Catalunya per reclamar habitatge assequible: xifres, cronologia, com funciona i què demana l’acampada, amb la font de cada dada.",
+   "fonts_context": [
+    {
+     "nom": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/23/acampada-vivienda-barcelona-desalojo-3454279/"
+    },
+    {
+     "nom": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/09/30/acampada-vivienda-barcelona-plaza-catalunya-3440288"
+    },
+    {
+     "nom": "Infobae / EFE",
+     "url": "https://www.infobae.com/america/agencias/2026/10/10/turnos-asambleas-y-reparto-de-tareas-un-dia-en-la-acampada-por-la-vivienda-de-barcelona/"
+    },
+    {
+     "nom": "Metròpoli Abierta",
+     "url": "https://www.metropoliabierta.cat/successos/20261024/desallotgen-edifici-ocupat-acampats-lhabitatge-placa-catalunya-barcelona/1003742805775_0.html"
+    },
+    {
+     "nom": "VilaWeb",
+     "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/"
+    },
+    {
+     "nom": "Crònica Global",
+     "url": "https://www.cronicaglobal.cat/vida/20261006/trentena-mossos-detinguts-disturbis-despres-manifestacio-lhabitatge/1003742800184_0.html"
+    },
+    {
+     "nom": "Metròpoli Abierta",
+     "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261020/lajuntament-barcelona-talla-llum-acampats-placa-catalunya-davant-risc-tenir-subministrament-punxat/1003742804628_0.html"
+    },
+    {
+     "nom": "Betevé",
+     "url": "https://beteve.cat/politica/collboni-no-desallotjara-acampada-habitatge-guardia-urbana-preparada/"
+    }
+   ],
+   "ara": [
+    {
+     "etiqueta": "Tendes (Ajuntament)",
+     "valor": "360",
+     "detall": "més de 600 segons l’organització",
+     "font": {
+      "nom": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/23/acampada-vivienda-barcelona-desalojo-3454279/"
+     }
+    }
+   ],
+   "imatges": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Barcelona_15M_2011.jpg/1280px-Barcelona_15M_2011.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Barcelona_15M_2011.jpg",
+     "autor": "Farmengol",
+     "llicencia": "CC BY-SA 4.0",
+     "llicencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "descripcio": "L’acampada del 15-M a la mateixa plaça, el juny del 2011. Imatge d’arxiu",
+     "any": "2011"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Barcelona_15M_2011_1.jpg/1280px-Barcelona_15M_2011_1.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Barcelona_15M_2011_1.jpg",
+     "autor": "Farmengol",
+     "llicencia": "CC BY-SA 4.0",
+     "llicencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "descripcio": "Tendes a plaça de Catalunya durant el 15-M. Imatge d’arxiu",
+     "any": "2011"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/041_Pla%C3%A7a_de_Catalunya_%28Barcelona%29%2C_Nadal_2025%2C_al_fons_El_Corte_Ingl%C3%A9s.jpg/1280px-041_Pla%C3%A7a_de_Catalunya_%28Barcelona%29%2C_Nadal_2025%2C_al_fons_El_Corte_Ingl%C3%A9s.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:041_Pla%C3%A7a_de_Catalunya_(Barcelona),_Nadal_2025,_al_fons_El_Corte_Ingl%C3%A9s.jpg",
+     "autor": "Enric",
+     "llicencia": "CC BY-SA 4.0",
+     "llicencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "descripcio": "La plaça abans de l’acampada, el novembre del 2025. Imatge d’arxiu",
+     "any": "2025"
+    }
+   ],
+   "grafics": [
+    {
+     "titol": "Tendes a l’acampada de plaça de Catalunya",
+     "unitat": "tendes",
+     "nota": "Les dues xifres d’octubre no coincideixen: les donem totes dues.",
+     "fonts": [
+      {
+       "nom": "Moncloa.com",
+       "url": "https://www.moncloa.com/2026/10/23/acampada-vivienda-barcelona-desalojo-3454279/"
+      }
+     ],
+     "punts": [
+      {
+       "etiqueta": "30 de setembre",
+       "valor": 40,
+       "nota": "unes"
+      },
+      {
+       "etiqueta": "Octubre, segons l’Ajuntament",
+       "valor": 360
+      },
+      {
+       "etiqueta": "Octubre, segons l’organització",
+       "valor": 600,
+       "nota": "més de"
+      }
+     ]
+    }
+   ],
+   "fons": [
+    "lloguer",
+    "desnonaments"
+   ]
+  },
+  {
+   "slug": "vaga-general-11-n",
+   "titol": "Vaga general de l’11-N",
+   "kicker": "Seguiment · vaga 11-N",
+   "inici": "2026-10-05",
+   "substitueix": {
+    "principal": "",
+    "prefix": "Vaga general de l’11-N: actualització"
+   },
+   "estat": "obert",
+   "dies": [
+    {
+     "data": "2026-10-27",
+     "titol": "Vaga general de l’11-N: actualització del 27 d’octubre",
+     "resum": "CCOO i UGT van reunir dilluns uns 2.000 delegats a Getafe (Madrid) per preparar la vaga general de 24 hores de l’11 de novembre.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Assemblea de 2.000 delegats de CCOO i UGT el 26 d’octubre a Getafe per organitzar la vaga (The Objective, Aragón Digital).",
+        "Segons UGT, més de 2.500 comitès d’empresa s’han adherit a la convocatòria.",
+        "Els sindicats hi van repetir les reivindicacions: un pacte per abaratir l’habitatge, invertir-hi l’1% del PIB, i pujades salarials d’entre el 4% i el 7% als convenis (The Objective, Aragón Digital)."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Serveis mínims i talls",
+       "items": [
+        "Encara no s’han publicat serveis mínims per al transport, la salut ni les escoles. Els fixen les administracions i les empreses de serveis essencials.",
+        "El 22 d’octubre, CCOO i UGT van demanar al Ministeri de Transports negociar uns serveis mínims de transport «proporcionats» (Infobae, The Objective).",
+        "Segons l’Ara, la manifestació central a Barcelona serà a les 17.30 als Jardinets de Gràcia. La convoquen Ens Costa la Vida, el Sindicat de Llogateres i la Taula Sindical de Catalunya; CCOO hi va convocar també. El recorregut no s’ha fet públic.",
+        "No s’han anunciat talls de carrer."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Els serveis mínims de Rodalies, metro, autobusos, hospitals i escoles.",
+        "El recorregut de la manifestació i si hi haurà altres concentracions durant el dia a Barcelona."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "The Objective: CCOO i UGT reuneixen 2.000 delegats",
+       "url": "https://theobjective.com/economia/2026-10-26/ccoo-ugt-huelga-general-noviembre/"
+      },
+      {
+       "nom": "Aragón Digital: més de 2.500 comitès adherits",
+       "url": "https://www.aragondigital.es/articulo/espana/mas-2500-comites-empresas-han-adherido-huelga-general-11-n/202610261908011018049.html"
+      },
+      {
+       "nom": "Infobae: serveis mínims de transport «proporcionats»",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/22/ugt-y-ccoo-piden-servicios-minimos-en-transporte-proporcionados-para-la-huelga-del-11-n/"
+      },
+      {
+       "nom": "The Objective: petició de serveis mínims",
+       "url": "https://theobjective.com/economia/2026-10-22/ugt-ccoo-fijar-servicios-minimos-transporte-huelga/"
+      },
+      {
+       "nom": "Ara: la manifestació central serà als Jardinets de Gràcia",
+       "url": "https://en.ara.cat/economy/the-central-demonstration-of-the-general-strike-of-november-11th-will-be-at-jardinets-gracia_1_5883961.html"
+      },
+      {
+       "nom": "11n.cat (CCOO de Catalunya): preguntes freqüents",
+       "url": "https://11n.cat/"
+      }
+     ]
+    },
+    {
+     "data": "2026-10-30",
+     "titol": "Vaga general de l’11-N: actualització del 30 d’octubre",
+     "resum": "La majoria dels sindicats de la plantilla municipal de Barcelona secundarà la vaga general de l’11 de novembre, segons Metrópoli Abierta. Encara no s’han fixat serveis mínims.",
+     "seccions": [
+      {
+       "titol": "Què hi ha de nou",
+       "items": [
+        "Segons Metrópoli Abierta, CGT, La Intersindical i Àbacos, que formen l’Escut Social, s’adhereixen a la vaga a l’Ajuntament de Barcelona. CCOO i UGT també, amb assemblees a principis de novembre. CSIF és l’únic sindicat municipal que no la secunda.",
+        "La vaga dura 24 hores i comença a les 0 h de l’11 de novembre. On hi ha torns de nit, comença amb el primer torn i acaba amb l’últim (CCOO).",
+        "La convoquen CCOO i UGT a tot l’Estat, amb CGT, IAC, CO.BAS, la PAH i el Sindicat de Llogateres, per l’habitatge i els salaris."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Serveis mínims i talls",
+       "items": [
+        "Serveis mínims: encara no s’han publicat. A Catalunya els fixa el Departament d’Empresa i Treball de la Generalitat, després d’escoltar els sindicats, per als serveis essencials (Nació, CCOO).",
+        "Transport: als autobusos de Barcelona i l’àrea metropolitana la majoria de comitès d’empresa secunden la vaga. Les empreses diuen que s’adequaran als serveis mínims que fixi la Generalitat (Metrópoli Abierta).",
+        "Manifestació: els convocants han anunciat la manifestació central a les 17.30 h als Jardinets de Gràcia (ACN). El recorregut no s’ha fet públic.",
+        "Talls de trànsit: no n’hi ha cap d’anunciat."
+       ],
+       "text": ""
+      },
+      {
+       "titol": "Què no se sap encara",
+       "items": [
+        "Els serveis mínims de metro, bus, Rodalies, sanitat i escoles.",
+        "El recorregut de la manifestació i els talls de carrers.",
+        "Quins serveis municipals quedaran afectats."
+       ],
+       "text": ""
+      }
+     ],
+     "fonts": [
+      {
+       "nom": "Metrópoli Abierta: la plantilla municipal farà vaga l’11N",
+       "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261030/plantilla-municipal-barcelona-fara-vaga-l11n-suport-majoritari-sindicats-general/1003742806712_0.html"
+      },
+      {
+       "nom": "Nació: tot el que cal saber sobre la vaga de l’11-N",
+       "url": "https://naciodigital.cat/societat/tot-el-que-cal-saber-sobre-la-vaga-de-l11-n-qui-pot-participar-i-com-afecta-el-sou.html"
+      },
+      {
+       "nom": "CCOO de Catalunya: 11N",
+       "url": "https://11n.cat/"
+      },
+      {
+       "nom": "Metrópoli Abierta: els autobusos s’aturaran l’11 de novembre",
+       "url": "https://www.metropoliabierta.cat/mobilitat/20261024/autobusos-barcelona-larea-metropolitana-saturaran-l11-novembre-suport-majoritari-treballadors-vaga/1003742802615_0.html"
+      },
+      {
+       "nom": "Línia Gràcia (ACN): on serà la manifestació",
+       "url": "https://liniaxarxa.cat/liniagracia/noticies/manifestacio-vaga-general-11n-jardinets-gracia/"
+      },
+      {
+       "nom": "UGT Catalunya: l’11-N, vaga general",
+       "url": "https://www.ugt.cat/l11-n-vaga-general-per-uns-salaris-dignes-un-habitatge-assequible-i-una-vida-millor/"
+      }
+     ]
+    }
+   ],
+   "fonts": [],
+   "context": "<p>La vaga general de l’11 de novembre de 2026 dura 24 hores i és a tot l’Estat. La convoquen CCOO i UGT, amb CGT, IAC, CO.BAS, la PAH i el Sindicat de Llogateres, per l’habitatge i els salaris. Es va anunciar a la manifestació per l’habitatge del 5 d’octubre a Barcelona.</p><p>Aquí recollim cada matí què se sap dels serveis mínims, les manifestacions i els talls a Barcelona, i el dia de la vaga, com va.</p>",
+   "resum": "Vaga general de 24 hores a tot l’Estat el dimecres 11 de novembre, per l’habitatge i els salaris. Serveis mínims, manifestacions i talls a Barcelona.",
+   "ara": [
+    {
+     "etiqueta": "Durada",
+     "valor": "24 h",
+     "detall": "des de les 0 h de l’11 de novembre",
+     "font": {
+      "nom": "CCOO de Catalunya (11n.cat)",
+      "url": "https://11n.cat/"
+     }
+    },
+    {
+     "etiqueta": "Manifestació central",
+     "valor": "17.30",
+     "detall": "Jardinets de Gràcia; recorregut pendent",
+     "font": {
+      "nom": "Línia Gràcia (ACN)",
+      "url": "https://liniaxarxa.cat/liniagracia/noticies/manifestacio-vaga-general-11n-jardinets-gracia/"
+     }
+    }
+   ],
+   "imatges": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Foto_pla%C3%A7a_Catalunya_%2811-09-2023%29.jpg/1280px-Foto_pla%C3%A7a_Catalunya_%2811-09-2023%29.jpg",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Foto_pla%C3%A7a_Catalunya_(11-09-2023).jpg",
+     "autor": "Govern de Catalunya",
+     "llicencia": "Reconeixement",
+     "llicencia_url": "",
+     "descripcio": "Plaça de Catalunya. Imatge d’arxiu",
+     "any": "2023"
+    }
+   ],
+   "fons": [
+    "lloguer",
+    "desnonaments"
+   ]
+  }
+ ],
+ "calendari": [
+  {
+   "data": "2026-11-11",
+   "titol": "Vaga general per l’habitatge i els salaris",
+   "text": "24 hores a tot l’Estat. Manifestació central a Barcelona a les 17.30 als Jardinets de Gràcia. Serveis mínims: pendents.",
+   "font": {
+    "nom": "Nació",
+    "url": "https://naciodigital.cat/societat/tot-el-que-cal-saber-sobre-la-vaga-de-l11-n-qui-pot-participar-i-com-afecta-el-sou.html"
+   }
+  }
+ ],
+ "bulos": []
+}
