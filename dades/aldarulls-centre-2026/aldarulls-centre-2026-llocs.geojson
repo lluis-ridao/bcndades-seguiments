@@ -1,0 +1,749 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17,
+     41.3903
+    ]
+   },
+   "properties": {
+    "id": 1,
+    "jornada": "2026-10-05",
+    "lloc": "Carrer de Casp",
+    "carrer": "Carrer de Casp",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 367,
+    "descripcio": "Contenidors cremats que van danyar un cotxe aparcat.",
+    "fonts": "https://www.aol.co.uk/articles/barcelona-housing-protest-erupts-clashes-063658000.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1705,
+     41.3858
+    ]
+   },
+   "properties": {
+    "id": 2,
+    "jornada": "2026-10-05",
+    "lloc": "La Rambla (Canaletes)",
+    "carrer": "La Rambla",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 140,
+    "descripcio": "Llançament de pedres i material de les obres de la Rambla contra els agents.",
+    "fonts": "https://beteve.cat/societat/13-detinguts-aldarulls-manifestacio-dret-habitatge/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1686,
+     41.3888
+    ]
+   },
+   "properties": {
+    "id": 3,
+    "jornada": "2026-10-05",
+    "lloc": "Passeig de Gràcia / Gran Via",
+    "carrer": "Passeig de Gràcia",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 232,
+    "descripcio": "Final de la manifestació. Contenidors cremats al mig del passeig, barricades i càrregues; taules i cadires d'una terrassa llançades contra els agents.",
+    "fonts": "https://www.cronicaglobal.cat/vida/20261005/aldarulls-barcelona-manifestacio-lhabitatge-contenidors-carregues-policials/1003742800161_0.html | https://beteve.cat/societat/13-detinguts-aldarulls-manifestacio-dret-habitatge/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1674,
+     41.3899
+    ]
+   },
+   "properties": {
+    "id": 4,
+    "jornada": "2026-10-05",
+    "lloc": "Passeig de Gràcia / Diputació",
+    "carrer": "Passeig de Gràcia",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 389,
+    "descripcio": "Un grup d'encaputxats intenta trencar la línia policial.",
+    "fonts": "https://www.vilaweb.cat/noticies/carregues-i-barricades-al-centre-de-barcelona-despres-de-la-manifestacio-per-lhabitatge/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.169,
+     41.3881
+    ]
+   },
+   "properties": {
+    "id": 5,
+    "jornada": "2026-10-05",
+    "lloc": "Passeig de Gràcia (Gran Via–pl. Catalunya)",
+    "carrer": "Passeig de Gràcia",
+    "foc": 0,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 148,
+    "descripcio": "Pedres contra aparadors de comerços entre el passeig de Gràcia i la plaça de Catalunya.",
+    "fonts": "https://beteve.cat/societat/13-detinguts-aldarulls-manifestacio-dret-habitatge/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17,
+     41.387
+    ]
+   },
+   "properties": {
+    "id": 6,
+    "jornada": "2026-10-05",
+    "lloc": "Plaça de Catalunya",
+    "carrer": "Plaça de Catalunya",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 0,
+    "descripcio": "Els Mossos fan avançar els manifestants fins a la plaça, on hi ha l'acampada; enfrontaments.",
+    "fonts": "https://www.vilaweb.cat/noticies/carregues-i-barricades-al-centre-de-barcelona-despres-de-la-manifestacio-per-lhabitatge/ | https://beteve.cat/societat/13-detinguts-aldarulls-manifestacio-dret-habitatge/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1656,
+     41.3874
+    ]
+   },
+   "properties": {
+    "id": 7,
+    "jornada": "2026-10-24",
+    "lloc": "Carrer de Balmes",
+    "carrer": "Carrer de Balmes",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 370,
+    "descripcio": "Els aldarulls s'hi estenen.",
+    "fonts": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/ | https://www.elnacional.cat/es/sociedad/caos-toma-barcelona-500-encapuchados-saquean-tiendas-provocan-incendios-en-centro_1714573_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1684,
+     41.3866
+    ]
+   },
+   "properties": {
+    "id": 8,
+    "jornada": "2026-10-24",
+    "lloc": "Plaça de Catalunya / Vergara",
+    "carrer": "Carrer de Vergara",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 141,
+    "descripcio": "Barricada amb petits contenidors i papereres.",
+    "fonts": "https://naciodigital.cat/societat/carregues-dels-mossos-i-contenidors-en-flames-en-una-protesta-al-centre-de-barcelona.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1711,
+     41.385
+    ]
+   },
+   "properties": {
+    "id": 9,
+    "jornada": "2026-10-24",
+    "lloc": "La Rambla",
+    "carrer": "La Rambla",
+    "foc": 0,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 241,
+    "descripcio": "Corredisses i atacs contra comerços fins a la Rambla.",
+    "fonts": "https://www.cronicaglobal.cat/vida/20261024/saquejos-violencia-diversos-detinguts-manifestacio-illegal-barcelona/1003742805880_0.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.169,
+     41.3881
+    ]
+   },
+   "properties": {
+    "id": 10,
+    "jornada": "2026-10-24",
+    "lloc": "Passeig de Gràcia (part baixa)",
+    "carrer": "Passeig de Gràcia",
+    "foc": 0,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 148,
+    "descripcio": "Corredisses i atacs contra comerços.",
+    "fonts": "https://www.cronicaglobal.cat/vida/20261024/saquejos-violencia-diversos-detinguts-manifestacio-illegal-barcelona/1003742805880_0.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17,
+     41.387
+    ]
+   },
+   "properties": {
+    "id": 11,
+    "jornada": "2026-10-24",
+    "lloc": "Plaça de Catalunya",
+    "carrer": "Plaça de Catalunya",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 0,
+    "descripcio": "Epicentre: papereres i para-sol d'una terrassa cremats, motos tombades, marquesines destrossades, càrregues.",
+    "fonts": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/ | https://naciodigital.cat/societat/carregues-dels-mossos-i-contenidors-en-flames-en-una-protesta-al-centre-de-barcelona.html | https://www.catalunyapress.cat/article/barcelona/2026-10-24/6064850-barcelona-viu-hores-caos-placa-catalunya-barricades-flames-saquejos-i-detinguts"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1695,
+     41.3862
+    ]
+   },
+   "properties": {
+    "id": 12,
+    "jornada": "2026-10-24",
+    "lloc": "Terrassa del Zurich (pl. Catalunya / la Rambla)",
+    "carrer": "Plaça de Catalunya",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 98,
+    "descripcio": "Foc a part de la terrassa del bar.",
+    "fonts": "https://www.catalunyapress.cat/article/barcelona/2026-10-24/6064850-barcelona-viu-hores-caos-placa-catalunya-barricades-flames-saquejos-i-detinguts"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1642,
+     41.3861
+    ]
+   },
+   "properties": {
+    "id": 13,
+    "jornada": "2026-10-24",
+    "lloc": "Plaça de la Universitat",
+    "carrer": "Plaça de la Universitat",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 495,
+    "descripcio": "Incidents a tocar de la plaça, al carrer de Balmes.",
+    "fonts": "https://www.elnacional.cat/es/sociedad/caos-toma-barcelona-500-encapuchados-saquean-tiendas-provocan-incendios-en-centro_1714573_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1726,
+     41.3856
+    ]
+   },
+   "properties": {
+    "id": 14,
+    "jornada": "2026-10-24",
+    "lloc": "Entorn del Portal de l'Àngel",
+    "carrer": "Portal de l'Àngel",
+    "foc": 0,
+    "aparadors": 1,
+    "saqueig": 1,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 267,
+    "descripcio": "Incidents a la part baixa de la plaça, a l'entorn del Portal de l'Àngel.",
+    "fonts": "https://www.elnacional.cat/es/sociedad/caos-toma-barcelona-500-encapuchados-saquean-tiendas-provocan-incendios-en-centro_1714573_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1668,
+     41.3885
+    ]
+   },
+   "properties": {
+    "id": 15,
+    "jornada": "2026-10-24",
+    "lloc": "Rambla de Catalunya",
+    "carrer": "Rambla de Catalunya",
+    "foc": 0,
+    "aparadors": 1,
+    "saqueig": 1,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 315,
+    "descripcio": "Saquejos en botigues de telefonia i electrònica, i de moda i joies.",
+    "fonts": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1664,
+     41.3868
+    ]
+   },
+   "properties": {
+    "id": 16,
+    "jornada": "2026-10-24",
+    "lloc": "Ronda de la Universitat",
+    "carrer": "Ronda de la Universitat",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 301,
+    "descripcio": "Els aldarulls s'hi estenen.",
+    "fonts": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1652,
+     41.3878
+    ]
+   },
+   "properties": {
+    "id": 17,
+    "jornada": "2026-11-11",
+    "lloc": "Carrer de Balmes (tram baix)",
+    "carrer": "Carrer de Balmes",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 411,
+    "descripcio": "Càrregues dels Mossos i barricades.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1619,
+     41.3862
+    ]
+   },
+   "properties": {
+    "id": 18,
+    "jornada": "2026-11-11",
+    "lloc": "Carrer de Muntaner (tram baix)",
+    "carrer": "Carrer de Muntaner",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 682,
+    "descripcio": "Barricades.",
+    "fonts": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.167,
+     41.3858
+    ]
+   },
+   "properties": {
+    "id": 19,
+    "jornada": "2026-11-11",
+    "lloc": "Carrer de Pelai",
+    "carrer": "Carrer de Pelai",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 284,
+    "descripcio": "Contenidors i mobiliari urbà cremats; barricades.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1676,
+     41.3884
+    ]
+   },
+   "properties": {
+    "id": 20,
+    "jornada": "2026-11-11",
+    "lloc": "Gran Via (Rambla de Catalunya–pg. de Gràcia)",
+    "carrer": "Gran Via",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 254,
+    "descripcio": "Botiga Geox amb els vidres trencats i foc a dins; una botiga de roba del costat, amb l'aparador trencat. Barricades. Els furgons dels Mossos van avançar en sentit Besòs.",
+    "fonts": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/ | https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://www.ara.cat/societat/nit-vandalisme-aldarulls-despres-manifestacio_1_5907787.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1667,
+     41.3878
+    ]
+   },
+   "properties": {
+    "id": 21,
+    "jornada": "2026-11-11",
+    "lloc": "Gran Via / Rambla de Catalunya",
+    "carrer": "Gran Via",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 290,
+    "descripcio": "Els aldarulls s'hi estenen. Els Mossos fan recular els manifestants i, després, reben llançament d'objectes i pirotècnia.",
+    "fonts": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.171,
+     41.3851
+    ]
+   },
+   "properties": {
+    "id": 22,
+    "jornada": "2026-11-11",
+    "lloc": "La Rambla (tram alt)",
+    "carrer": "La Rambla",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 227,
+    "descripcio": "Hi passen els manifestants; cap incident concret descrit.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1688,
+     41.3883
+    ]
+   },
+   "properties": {
+    "id": 23,
+    "jornada": "2026-11-11",
+    "lloc": "Passeig de Gràcia (Gran Via–pl. Catalunya)",
+    "carrer": "Passeig de Gràcia",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 1,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 176,
+    "descripcio": "Fogueres a banda i banda. Tots els comerços de la vorera Llobregat d'aquest tram, com a mínim vandalitzats, segons l'Ara. H&M i Lego: rètols arrencats i cremats, maniquins fora i productes robats.",
+    "fonts": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/ | https://www.ara.cat/societat/nit-vandalisme-aldarulls-despres-manifestacio_1_5907787.html | https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1736,
+     41.389
+    ]
+   },
+   "properties": {
+    "id": 24,
+    "jornada": "2026-11-11",
+    "lloc": "Plaça d'Urquinaona",
+    "carrer": "Plaça d'Urquinaona",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 374,
+    "descripcio": "Focs. Càrregues dels Mossos, ús de foam i desplegament de la Guàrdia Urbana, amb corredisses i llançament d'objectes.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17,
+     41.387
+    ]
+   },
+   "properties": {
+    "id": 25,
+    "jornada": "2026-11-11",
+    "lloc": "Plaça de Catalunya",
+    "carrer": "Plaça de Catalunya",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 0,
+    "descripcio": "Contenidors i mobiliari cremats al voltant de la plaça, barricades i danys a l'entrada d'un local. Línia dels Mossos durant uns trenta minuts amb llançament de pedres i pirotècnia; un agent ferit. Dispersió amb foam.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/ | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1694,
+     41.3876
+    ]
+   },
+   "properties": {
+    "id": 26,
+    "jornada": "2026-11-11",
+    "lloc": "Apple, plaça de Catalunya / passeig de Gràcia",
+    "carrer": "Plaça de Catalunya",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 1,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 84,
+    "descripcio": "Aparador trencat, foc a l'entrada i entrada a la botiga per endur-se productes. Les fonts la situen entre el passeig de Gràcia i la Gran Via; ubicació aproximada.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1642,
+     41.3861
+    ]
+   },
+   "properties": {
+    "id": 27,
+    "jornada": "2026-11-11",
+    "lloc": "Plaça de la Universitat",
+    "carrer": "Plaça de la Universitat",
+    "foc": 1,
+    "aparadors": 1,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 1,
+    "distancia_pl_catalunya_m": 495,
+    "descripcio": "Aparador del Lefties trencat i diversos focs. Els furgons dels Mossos hi passen per sobre; els encaputxats fugen per la Gran Via.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.166,
+     41.3891
+    ]
+   },
+   "properties": {
+    "id": 28,
+    "jornada": "2026-11-11",
+    "lloc": "Rambla de Catalunya",
+    "carrer": "Rambla de Catalunya",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 408,
+    "descripcio": "Barricades.",
+    "fonts": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1632,
+     41.3843
+    ]
+   },
+   "properties": {
+    "id": 29,
+    "jornada": "2026-11-11",
+    "lloc": "Ronda de Sant Antoni",
+    "carrer": "Ronda de Sant Antoni",
+    "foc": 0,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 643,
+    "descripcio": "Barricades.",
+    "fonts": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1746,
+     41.3895
+    ]
+   },
+   "properties": {
+    "id": 30,
+    "jornada": "2026-11-11",
+    "lloc": "Ronda de Sant Pere / Urquinaona",
+    "carrer": "Ronda de Sant Pere",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 0,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 474,
+    "descripcio": "Dues fogueres grans de contenidors.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1664,
+     41.3868
+    ]
+   },
+   "properties": {
+    "id": 31,
+    "jornada": "2026-11-11",
+    "lloc": "Ronda de la Universitat",
+    "carrer": "Ronda de la Universitat",
+    "foc": 1,
+    "aparadors": 0,
+    "saqueig": 0,
+    "barricades": 1,
+    "intervencio_policial": 0,
+    "distancia_pl_catalunya_m": 301,
+    "descripcio": "Contenidors i mobiliari urbà cremats; barricades.",
+    "fonts": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html | https://laciutat.cat/es/laciutatdebarcelona/batalla-campal-en-centro-barcelona-8-detenidos-por-disturbios-con-incendios-escaparates-rotos_905045_102.html | https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  }
+ ]
+}

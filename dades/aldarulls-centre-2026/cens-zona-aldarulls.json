@@ -1,0 +1,64 @@
+{
+ "font": "Open Data BCN, cens de locals en planta baixa 2024",
+ "zona": "locals a menys de 100 m dels 30 punts amb incidents (5-O, 24-O, 11-N)",
+ "locals_actius_zona": 763,
+ "locals_actius_ciutat": 39980,
+ "activitats": [
+  {
+   "activitat": "Hotels i allotjament",
+   "locals_zona": 57,
+   "locals_ciutat": 622,
+   "pct_zona": 7.5,
+   "pct_ciutat": 1.6,
+   "vegades": 4.8
+  },
+  {
+   "activitat": "Calçat i pell",
+   "locals_zona": 32,
+   "locals_ciutat": 499,
+   "pct_zona": 4.2,
+   "pct_ciutat": 1.2,
+   "vegades": 3.4
+  },
+  {
+   "activitat": "Roba",
+   "locals_zona": 101,
+   "locals_ciutat": 1860,
+   "pct_zona": 13.2,
+   "pct_ciutat": 4.7,
+   "vegades": 2.8
+  },
+  {
+   "activitat": "Joieria i rellotgeria",
+   "locals_zona": 20,
+   "locals_ciutat": 527,
+   "pct_zona": 2.6,
+   "pct_ciutat": 1.3,
+   "vegades": 2.0
+  },
+  {
+   "activitat": "Informàtica",
+   "locals_zona": 20,
+   "locals_ciutat": 590,
+   "pct_zona": 2.6,
+   "pct_ciutat": 1.5,
+   "vegades": 1.8
+  },
+  {
+   "activitat": "Restaurants",
+   "locals_zona": 105,
+   "locals_ciutat": 3350,
+   "pct_zona": 13.8,
+   "pct_ciutat": 8.4,
+   "vegades": 1.6
+  },
+  {
+   "activitat": "Supermercats",
+   "locals_zona": 31,
+   "locals_ciutat": 1719,
+   "pct_zona": 4.1,
+   "pct_ciutat": 4.3,
+   "vegades": 0.9
+  }
+ ]
+}
