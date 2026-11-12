@@ -203,39 +203,32 @@
    "punts": [
     {
      "etiqueta": "CCOO i UGT (Catalunya)",
-     "valor": 84,
-     "serie": "Seguiment"
+     "valor": 84
     },
     {
      "etiqueta": "Docents (Govern)",
-     "valor": 21.9,
-     "serie": "Seguiment"
+     "valor": 21.9
     },
     {
      "etiqueta": "Plantilla de l’Ajuntament de Barcelona",
-     "valor": 17.9,
-     "serie": "Seguiment"
+     "valor": 17.9
     },
     {
      "etiqueta": "Personal de la Generalitat",
      "valor": 12.6,
-     "serie": "Seguiment",
      "nota": "fins al migdia"
     },
     {
      "etiqueta": "Pimec",
-     "valor": 8.3,
-     "serie": "Seguiment"
+     "valor": 8.3
     },
     {
      "etiqueta": "Cecot",
-     "valor": 7.5,
-     "serie": "Seguiment"
+     "valor": 7.5
     },
     {
      "etiqueta": "Foment del Treball",
-     "valor": 7,
-     "serie": "Seguiment"
+     "valor": 7
     }
    ]
   },
