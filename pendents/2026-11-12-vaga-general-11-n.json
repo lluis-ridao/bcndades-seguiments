@@ -1,0 +1,296 @@
+{
+ "per_a": "seguiments.json",
+ "creat": "2026-11-12T05:55:00+01:00",
+ "slug": "vaga-general-11-n",
+ "instruccions": "Afegeix «dia» al final de dies del seguiment vaga-general-11-n (si ja hi ha un dia 2026-11-12, combina-hi les novetats noves). Substitueix «ara» i «resum». Afegeix els «grafics» al final dels que hi hagi. Treu del calendari l’esdeveniment del 2026-11-11. No toquis res més.",
+ "resum": "Vaga general de 24 hores per l’habitatge i els salaris. Seguiment del 84% segons CCOO i UGT i d’entre el 7% i el 8,3% segons les patronals; manifestació de 55.000 persones segons la Guàrdia Urbana i 400.000 segons els organitzadors, i aldarulls al centre després.",
+ "dia": {
+  "data": "2026-11-12",
+  "titol": "Vaga general de l’11-N: actualització del 12 de novembre",
+  "resum": "La vaga general va tenir un seguiment del 84% segons CCOO i UGT i d’entre el 7% i el 8,3% segons les patronals. La manifestació de Barcelona va reunir 55.000 persones segons la Guàrdia Urbana i 400.000 segons els organitzadors, i va acabar amb aldarulls al centre.",
+  "seccions": [
+   {
+    "titol": "Què hi ha de nou",
+    "text": "",
+    "items": [
+     "CCOO i UGT xifren el seguiment a Catalunya en un 84%, comptant els torns de nit i de matí i descomptant els serveis mínims (<a href=\"https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/\">L’Hdigital</a>, <a href=\"https://beteve.cat/economia/seguiment-vaga-general-11n-exit-sindicats\">betevé</a>).",
+     "Les patronals donen xifres molt més baixes: Foment, un 7%; Pimec, un 8,3% (9,6% a la demarcació de Barcelona); Cecot, un 7,5% (<a href=\"https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/\">L’Hdigital</a>, <a href=\"https://beteve.cat/economia/seguiment-vaga-general-11n-exit-sindicats\">betevé</a>).",
+     "Pimec diu que, tot i el seguiment baix, el 27,5% de les empreses van tenir l’activitat afectada (<a href=\"https://ebredigital.cat/2026/11/11/la-inevitable-guerra-de-xifres-sobre-el-seguimnt-de-la-vaga-general/\">EbreDigital</a>).",
+     "El Govern no dona una xifra global. Compta un 12,6% de seguiment al personal de la Generalitat fins al migdia i una baixada del consum elèctric d’aproximadament el 15% respecte de dimarts (<a href=\"https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/\">L’Hdigital</a>, <a href=\"https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html\">El Nacional</a>).",
+     "La manifestació unitària de Barcelona va reunir 55.000 persones segons la Guàrdia Urbana i 400.000 segons els organitzadors (<a href=\"https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/\">3Cat</a>).",
+     "Un cop desconvocada la manifestació, hi va haver aldarulls al centre: contenidors cremats, barricades i aparadors trencats. L’alcalde Jaume Collboni va xifrar els detinguts en una cinquantena; el balanç és provisional (<a href=\"https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/\">3Cat</a>, <a href=\"https://beteve.cat/economia/directe-vaga-general-barcelona-habitatge-salaris-11-novembre-2026/\">betevé</a>, <a href=\"https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html\">NacióDigital</a>)."
+    ]
+   },
+   {
+    "titol": "El seguiment, segons qui el mesura",
+    "text": "",
+    "items": [
+     "Educació: 21,9% dels docents, més de 19.000 persones, segons el Govern (<a href=\"https://lhdigital.cat/noticies/les-dades-del-seguiment-de-la-vaga-de-l11n-a-les-12h/\">L’Hdigital</a>).",
+     "Universitats: més del 80% de l’alumnat, però l’1,44% del personal docent i investigador i el 8,44% del personal tècnic i d’administració, segons el Govern (<a href=\"https://lhdigital.cat/noticies/les-dades-del-seguiment-de-la-vaga-de-l11n-a-les-12h/\">L’Hdigital</a>).",
+     "Salut: 6,9% dels professionals dels centres del SISCAT, amb dades del 64% de les entitats (<a href=\"https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/\">L’Hdigital</a>).",
+     "Ajuntament de Barcelona: 17,9% de la plantilla, amb dades de les 11.30 (<a href=\"https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html\">El Nacional</a>).",
+     "Comerç: Barcelona Comerç diu que entre el 50% i el 65% del petit comerç va fer vaga; els supermercats van obrir majoritàriament (<a href=\"https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/\">L’Hdigital</a>).",
+     "Per sectors, segons CCOO: 100% a les universitats, 92% a l’automoció i el transport industrial, 89% al metall, 80% a serveis i hostaleria i 72% a l’administració local (<a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261111/ccoo-xifra-mitjana-seguiment-total-vaga-general-catalunya/1003742810920_0.html\">Metròpoli Abierta</a>)."
+    ]
+   },
+   {
+    "titol": "Mobilitat",
+    "text": "",
+    "items": [
+     "El trànsit als accessos de Barcelona va caure un 43% i a les rondes, un 53%, segons l’Ajuntament (<a href=\"https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/\">VilaWeb</a>).",
+     "El metro i els autobusos de TMB es van quedar sense servei de 9.30 a 16.30, fora de les franges de serveis mínims del 25% (<a href=\"https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html\">El Nacional</a>).",
+     "El 112 va rebre 878 trucades per 494 incidents relacionats amb la vaga fins al migdia, segons el Govern (<a href=\"https://lhdigital.cat/noticies/les-dades-del-seguiment-de-la-vaga-de-l11n-a-les-12h/\">L’Hdigital</a>)."
+    ]
+   },
+   {
+    "titol": "Aldarulls al centre",
+    "text": "",
+    "items": [
+     "Els incidents van començar cap a les 19 h a la plaça de Catalunya i es van estendre per Pelai, les rondes de la Universitat i de Sant Antoni, la plaça de la Universitat, la Gran Via, el passeig de Gràcia, Balmes i la plaça d’Urquinaona (<a href=\"https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html\">NacióDigital</a>, <a href=\"https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/\">El Món</a>).",
+     "Detinguts: 18 segons l’últim comunicat dels Mossos de la nit; almenys 30 segons fonts del cos citades per l’Ara; una cinquantena segons l’alcalde (<a href=\"https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html\">NacióDigital</a>, <a href=\"https://www.ara.cat/societat/nit-vandalisme-aldarulls-despres-manifestacio_1_5907787.html\">Ara</a>, <a href=\"https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/\">3Cat</a>)."
+    ]
+   },
+   {
+    "titol": "Què no se sap encara",
+    "text": "",
+    "items": [
+     "El balanç definitiu de detinguts dels aldarulls i quants són menors.",
+     "El seguiment global segons el Govern: només ha donat xifres per sectors.",
+     "Quants comerços van quedar afectats pels aldarulls i quants ferits hi va haver."
+    ]
+   }
+  ],
+  "fonts": [
+   {
+    "nom": "L’Hdigital: balanç desigual segons sindicats i patronals",
+    "url": "https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/"
+   },
+   {
+    "nom": "L’Hdigital: dades del Govern a les 12 h",
+    "url": "https://lhdigital.cat/noticies/les-dades-del-seguiment-de-la-vaga-de-l11n-a-les-12h/"
+   },
+   {
+    "nom": "betevé: els sindicats parlen d’èxit i la patronal de baix seguiment",
+    "url": "https://beteve.cat/economia/seguiment-vaga-general-11n-exit-sindicats"
+   },
+   {
+    "nom": "EbreDigital: la guerra de xifres",
+    "url": "https://ebredigital.cat/2026/11/11/la-inevitable-guerra-de-xifres-sobre-el-seguimnt-de-la-vaga-general/"
+   },
+   {
+    "nom": "Metròpoli Abierta: CCOO xifra el seguiment en el 84%",
+    "url": "https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261111/ccoo-xifra-mitjana-seguiment-total-vaga-general-catalunya/1003742810920_0.html"
+   },
+   {
+    "nom": "El Nacional: la vaga, en directe",
+    "url": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html"
+   },
+   {
+    "nom": "VilaWeb: la vaga, en directe",
+    "url": "https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/"
+   },
+   {
+    "nom": "3Cat: la vaga, en directe",
+    "url": "https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/"
+   },
+   {
+    "nom": "betevé: la vaga, en directe",
+    "url": "https://beteve.cat/economia/directe-vaga-general-barcelona-habitatge-salaris-11-novembre-2026/"
+   },
+   {
+    "nom": "NacióDigital: detinguts pels aldarulls",
+    "url": "https://naciodigital.cat/societat/almenys-18-detinguts-a-barcelona-arran-dels-aldarulls-posteriors-a-la-manifestacio-per-la-vaga.html"
+   },
+   {
+    "nom": "Ara: nit d’aldarulls",
+    "url": "https://www.ara.cat/societat/nit-vandalisme-aldarulls-despres-manifestacio_1_5907787.html"
+   },
+   {
+    "nom": "El Món: aldarulls i detencions",
+    "url": "https://elmon.cat/societat/la-manifestacio-de-la-vaga-acaba-amb-aldarulls-vandalisme-i-detencions-1204508/"
+   }
+  ]
+ },
+ "ara": [
+  {
+   "etiqueta": "Seguiment (CCOO i UGT)",
+   "valor": "84%",
+   "detall": "Catalunya, descomptats els serveis mínims",
+   "font": {
+    "nom": "L’Hdigital",
+    "url": "https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/"
+   }
+  },
+  {
+   "etiqueta": "Seguiment (Pimec)",
+   "valor": "8,3%",
+   "detall": "Foment: 7%; Cecot: 7,5%",
+   "font": {
+    "nom": "L’Hdigital",
+    "url": "https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/"
+   }
+  },
+  {
+   "etiqueta": "Manifestació",
+   "valor": "55.000",
+   "detall": "segons la Guàrdia Urbana; 400.000 segons els organitzadors",
+   "font": {
+    "nom": "3Cat",
+    "url": "https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/"
+   }
+  },
+  {
+   "etiqueta": "Consum elèctric",
+   "valor": "−15%",
+   "detall": "a Catalunya, respecte de dimarts (Govern)",
+   "font": {
+    "nom": "El Nacional",
+    "url": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html"
+   }
+  },
+  {
+   "etiqueta": "Trànsit als accessos",
+   "valor": "−43%",
+   "detall": "rondes: −53% (Ajuntament)",
+   "font": {
+    "nom": "VilaWeb",
+    "url": "https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/"
+   }
+  },
+  {
+   "etiqueta": "Docents en vaga",
+   "valor": "21,9%",
+   "detall": "més de 19.000 (Govern)",
+   "font": {
+    "nom": "L’Hdigital",
+    "url": "https://lhdigital.cat/noticies/les-dades-del-seguiment-de-la-vaga-de-l11n-a-les-12h/"
+   }
+  },
+  {
+   "etiqueta": "Plantilla municipal",
+   "valor": "17,9%",
+   "detall": "Ajuntament de Barcelona, a les 11.30",
+   "font": {
+    "nom": "El Nacional",
+    "url": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html"
+   }
+  },
+  {
+   "etiqueta": "Detinguts als aldarulls",
+   "valor": "~50",
+   "detall": "segons l’alcalde; balanç provisional",
+   "font": {
+    "nom": "3Cat",
+    "url": "https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/"
+   }
+  }
+ ],
+ "grafics": [
+  {
+   "titol": "El seguiment de la vaga, segons qui el mesura",
+   "unitat": "%",
+   "nota": "Cada font mesura un univers diferent: els sindicats, les empreses on tenen presència; les patronals, les seves empreses associades; el Govern i l’Ajuntament, el seu personal. Per això no són comparables entre elles.",
+   "fonts": [
+    {
+     "nom": "L’Hdigital",
+     "url": "https://lhdigital.cat/noticies/la-vaga-de-l11-n-atura-poligons-de-lhospitalet-pero-es-tanca-amb-balanc-desigual-segons-sindicats-i-patronals/"
+    },
+    {
+     "nom": "El Nacional",
+     "url": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html"
+    }
+   ],
+   "punts": [
+    {
+     "etiqueta": "CCOO i UGT (Catalunya)",
+     "valor": 84,
+     "serie": "Seguiment"
+    },
+    {
+     "etiqueta": "Docents (Govern)",
+     "valor": 21.9,
+     "serie": "Seguiment"
+    },
+    {
+     "etiqueta": "Plantilla de l’Ajuntament de Barcelona",
+     "valor": 17.9,
+     "serie": "Seguiment"
+    },
+    {
+     "etiqueta": "Personal de la Generalitat",
+     "valor": 12.6,
+     "serie": "Seguiment",
+     "nota": "fins al migdia"
+    },
+    {
+     "etiqueta": "Pimec",
+     "valor": 8.3,
+     "serie": "Seguiment"
+    },
+    {
+     "etiqueta": "Cecot",
+     "valor": 7.5,
+     "serie": "Seguiment"
+    },
+    {
+     "etiqueta": "Foment del Treball",
+     "valor": 7,
+     "serie": "Seguiment"
+    }
+   ]
+  },
+  {
+   "titol": "Persones a la manifestació de Barcelona",
+   "unitat": "persones",
+   "nota": "Les dues xifres que es van donar. No hi ha cap recompte independent.",
+   "fonts": [
+    {
+     "nom": "3Cat",
+     "url": "https://www.3cat.cat/3catinfo/la-vaga-general-de-l11-de-novembre-en-directe-serveis-minims-i-mobilitzacions/directe/11170/"
+    }
+   ],
+   "punts": [
+    {
+     "etiqueta": "Guàrdia Urbana",
+     "valor": 55000
+    },
+    {
+     "etiqueta": "Organitzadors",
+     "valor": 400000
+    }
+   ]
+  },
+  {
+   "titol": "Com va baixar l’activitat",
+   "unitat": "% de baixada",
+   "nota": "Consum elèctric de Catalunya respecte de dimarts (Govern). Trànsit a Barcelona respecte d’un dia habitual (Ajuntament).",
+   "fonts": [
+    {
+     "nom": "El Nacional",
+     "url": "https://elnacional.cat/ca/societat/vaga-general-catalunya-estat-en-directe-minut-minut-mobilitzacions-avui_13346_126.html"
+    },
+    {
+     "nom": "VilaWeb",
+     "url": "https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/"
+    }
+   ],
+   "punts": [
+    {
+     "etiqueta": "Trànsit a les rondes",
+     "valor": 53
+    },
+    {
+     "etiqueta": "Trànsit als accessos",
+     "valor": 43
+    },
+    {
+     "etiqueta": "Consum elèctric",
+     "valor": 15
+    }
+   ]
+  }
+ ],
+ "calendari_treure": [
+  "2026-11-11"
+ ]
+}
