@@ -26,7 +26,10 @@ Aquest repositori té **un sol fitxer de dades**, `seguiments.json`, amb tots el
                "font": { "nom": "Mossos al Parlament, 28/10", "url": "https://…" } } ],   // fins a 8 xifres clau
     "xifres": { "Detinguts": [ { "data": "2026-10-24", "valor": 100, "nota": "primer balanç" } ] }, // com canvia cada xifra oficial
     "grafics": [ { "titol": "…", "unitat": "", "nota": "…", "fonts": [ { "nom": "…", "url": "…" } ],
-                   "punts": [ { "etiqueta": "24 d’octubre", "valor": 133, "serie": "Detinguts", "nota": "" } ] } ],
+                   "punts": [ { "etiqueta": "24 d’octubre", "valor": 133, "serie": "Detinguts", "nota": "" } ] } ],   // fins a 6 gràfics de 12 barres
+    "punts": [ { "lat": 41.3870, "lon": 2.1700, "data": "2026-11-11", "lloc": "Plaça de Catalunya",
+                 "tipus": ["foc", "barricades", "policia"], "text": "Què hi va passar, en una frase.",
+                 "font": { "nom": "Ara", "url": "https://…" } } ],   // tema 1.66.0: mapa «On ha passat» (fins a 300 punts)
     "fons": ["delictes"],                      // gràfics del web: "desnonaments", "lloguer", "delictes"
     "imatges": [ { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/…/1280px-….jpg",
                    "pagina": "https://commons.wikimedia.org/wiki/File:…", "autor": "…", "llicencia": "CC BY-SA 4.0",
@@ -62,3 +65,14 @@ Regles:
 - Mai noms, cares, edats concretes ni l'origen de persones detingudes o investigades: només xifres agregades.
 
 Si alguna cosa surt malament, a WordPress: **Eines → Seguiments** (amagar un dia, tancar un seguiment, pujar el fitxer a mà).
+
+## Mapa de punts (tema 1.66.0)
+
+- `punts` és opcional. Cada punt necessita `lat`, `lon` (dins de Barcelona) i `lloc`. `data` (AAAA-MM-DD) fa que cada dia surti d'un color i es pugui filtrar.
+- `tipus` accepta: `foc`, `aparadors`, `saqueig`, `barricades`, `policia`, `concentracio`, `tall`, `altre`. Sense cap tipus, el punt surt buit (pas de manifestants sense incidents).
+- Ubicacions per tram de carrer, mai adreces de particulars. Les mateixes normes de sempre: només llocs que citin fonts oficials o dos mitjans.
+- Si un fitxer porta `punts`, substitueix els que hi havia. Per afegir-ne, envia la llista sencera.
+
+## Fitxers més antics
+
+Des del tema 1.66.0, si arriba un fitxer amb un `actualitzat` més antic que el que ja té el web, només s'hi afegeixen els dies que falten: no torna enrere les xifres, el resum ni els gràfics.
