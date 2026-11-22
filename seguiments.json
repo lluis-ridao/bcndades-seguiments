@@ -1,6 +1,6 @@
 {
   "versio": 1,
-  "actualitzat": "2026-11-21T08:40:38+01:00",
+  "actualitzat": "2026-11-22T08:40:19+01:00",
   "seguiments": [
     {
       "slug": "aldarulls-placa-catalunya",
@@ -3922,15 +3922,6 @@
     }
   ],
   "calendari": [
-    {
-      "data": "2026-11-21",
-      "titol": "Manifestació per l’educació pública",
-      "text": "Manifestació a Barcelona de la comunitat educativa, dins de les mobilitzacions sindicals per l’escola pública.",
-      "font": {
-        "nom": "USTEC·STEs",
-        "url": "https://www.sindicat.net/2026/10/28/aquest-novembre-blindem-la-publica/"
-      }
-    },
     {
       "data": "2026-11-26",
       "titol": "Vaga a l’educació",
