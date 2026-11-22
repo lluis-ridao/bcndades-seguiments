@@ -1,0 +1,2679 @@
+{
+ "resumen": "Blocus es una etiqueta usada en TikTok y en grupos de Telegram, WhatsApp y Signal para convocar saqueos y disturbios en ciudades españolas. El 24 de octubre hubo saqueos en el centro de Barcelona, con 133 detenidos (85 menores) según Mossos, y un informe policial enviado al juzgado concluye que los chats se usaron sobre todo para planear robos. Las convocatorias posteriores, incluida la de Halloween, pasaron sin incidentes conocidos; según la Guardia Civil, desde la detención del presunto fundador el 30 de octubre Blocus no ha realizado ninguna de las movilizaciones violentas que anunció. El 19 de noviembre la Guardia Civil detuvo en Valencia a dos jóvenes de su círculo cercano. El derbi de Sevilla del 21 de noviembre, con el que la Policía Nacional relacionó un grupo de Blocus ya desactivado, se jugó sin que se haya informado de saqueos ligados a Blocus, aunque a primera hora del 22 no hay balance policial publicado.",
+ "actualizado": "2026-11-22T08:00:00+01:00",
+ "busqueda_noticias": "Blocus (disturbios OR saqueos OR convocatoria OR detenidos)",
+ "cifras": [
+  {
+   "etiqueta": "Detenidos en Barcelona por los disturbios del 24 de octubre",
+   "valor": 133,
+   "unidad": "personas",
+   "fecha": "2026-10-28",
+   "fuente_nombre": "Crónica Global (balance de Mossos d'Esquadra)",
+   "fuente_url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html",
+   "nota": "Último balance de Mossos encontrado. Balances anteriores: 128 (25 oct) y 130 (26-27 oct). Telemadrid recoge que 128 fueron detenidos en el mismo momento de los hechos.",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Menores entre los detenidos en Barcelona (24 oct)",
+   "valor": 85,
+   "unidad": "menores",
+   "fecha": "2026-10-28",
+   "fuente_nombre": "Crónica Global (balance de Mossos d'Esquadra)",
+   "fuente_url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html",
+   "nota": "Balances anteriores: 72 (25 oct), 74 y 76 (26-27 oct). Según Ara (2 nov), 79 menores pasaron ya ante el juez: 5 internados, 72 en libertad vigilada (32 de ellos con prohibición de ir a manifestaciones) y solo 2 sin medidas. La diferencia con 85 no está explicada en las fuentes."
+  },
+  {
+   "etiqueta": "Agentes heridos en Barcelona (24 oct)",
+   "valor": 15,
+   "unidad": "agentes",
+   "fecha": "2026-10-27",
+   "fuente_nombre": "Público (balance de Mossos)",
+   "fuente_url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html",
+   "nota": "14 de Mossos y 1 de Guardia Urbana, según Público. No hay cifra oficial de otros heridos.",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Comercios saqueados o dañados en Barcelona (24 oct)",
+   "valor": 23,
+   "unidad": "establecimientos",
+   "fecha": "2026-10-28",
+   "fuente_nombre": "Crónica Global (Mossos)",
+   "fuente_url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html",
+   "nota": "Otras fuentes hablan de unos 30 (Público, The Olive Press). Se usa la cifra atribuida a Mossos.",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Incendios en Barcelona (24 oct)",
+   "valor": 33,
+   "unidad": "incendios",
+   "fecha": "2026-10-26",
+   "fuente_nombre": "Maldita.es (citando El País)",
+   "fuente_url": "https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa/",
+   "nota": "Contenedores y mobiliario, según los medios citados."
+  },
+  {
+   "etiqueta": "Daños en mobiliario urbano de Barcelona (24 oct)",
+   "valor": 36000,
+   "unidad": "euros",
+   "fecha": "2026-10-27",
+   "fuente_nombre": "Canal Sur (datos del Ayuntamiento de Barcelona)",
+   "fuente_url": "https://www.canalsur.es/noticias/espana/graves-disturbios-bilbao-20-detenidos_1_1447154.html",
+   "nota": "Estimación inicial municipal, solo mobiliario urbano. No incluye pérdidas de comercios."
+  },
+  {
+   "etiqueta": "Fondo municipal de ayuda a comercios afectados (Barcelona)",
+   "valor": 500000,
+   "unidad": "euros",
+   "fecha": "2026-10-26",
+   "fuente_nombre": "Público",
+   "fuente_url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html",
+   "nota": "Anunciado por el alcalde Jaume Collboni."
+  },
+  {
+   "etiqueta": "Detenidos por los disturbios de Bilbao (26 oct)",
+   "valor": 17,
+   "unidad": "personas",
+   "fecha": "2026-10-27",
+   "fuente_nombre": "EFE vía Infobae (balance de la Ertzaintza)",
+   "fuente_url": "https://www.infobae.com/espana/agencias/2026/10/27/los-disturbios-de-bilbao-se-saldan-con-17-detenidos-10-de-ellos-menores-de-edad/",
+   "nota": "10 de ellos menores. Otras fuentes dan 19 detenidos y 3 investigados (Gobierno Vasco vía Canal Sur y Moncloa.com). No está confirmado que Blocus convocara esa noche. Euronews (27 oct) da también 17 detenidos, 10 menores, y una persona más investigada. El 17 de noviembre la Ertzaintza detuvo en Arrigorriaga a un joven de 19 años por desórdenes públicos en esos incidentes e investiga a un hombre de 28 años en Bilbao (Orain/EITB); no se ha publicado un balance actualizado, por lo que se mantiene la cifra de 17.",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Detenidos por la Policía Nacional por actividades ligadas a Blocus (última semana)",
+   "valor": 18,
+   "unidad": "personas",
+   "fecha": "2026-11-05",
+   "fuente_nombre": "Ministerio del Interior (nota de la Policía Nacional, 5 nov)",
+   "fuente_url": "https://www.interior.gob.es/opencms/es/detalle/articulo/La-Policia-Nacional-ha-detenido-a-un-total-de-18-personas-por-su-participacion-en-distintas-actividades-criminales-relacionadas-con-el-grupo-Blocus/",
+   "nota": "Cambia respecto al balance anterior (11, elDiario.es, 31 oct, que mezclaba varios cuerpos). Es la nota oficial de la Policía Nacional del 5 de noviembre, publicada en la web de Interior (antes se citaba a Europa Press vía Infobae; la cifra no cambia): 18 detenidos en siete ciudades (Palma 4, Málaga 4, Valencia 3, Barcelona 3, Lleida 2, Bilbao 1, Sevilla 1); 13 son menores; 16 varones y 2 mujeres. Delitos: conspiración para desórdenes públicos y contra el patrimonio y pertenencia a grupo organizado. No queda claro si incluye detenciones hechas solo por Mossos o por la Guardia Civil (por ejemplo, el presunto fundador detenido en Picanya), así que no es un total para toda España. A 17 de noviembre no hay balance oficial nuevo; desde entonces consta al menos una detención más (un menor en Castellón el 13 de noviembre).",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Detenidos de Blocus en prisión provisional",
+   "valor": 4,
+   "unidad": "personas",
+   "fecha": "2026-11-02",
+   "fuente_nombre": "Demócrata / agencias (nota del TSJC, 2 nov)",
+   "fuente_url": "https://www.democrata.es/en/courts/the-arrested-man-in-cabrera-d-anoia-is-sent-to-provisional-prison-for-his-alleged-link-with-blocus/",
+   "nota": "Cambia respecto al balance anterior (3). Se suma el joven de 21 años detenido en Cabrera d'Anoia, enviado a prisión provisional sin fianza el 2 de noviembre por el Juzgado de Instrucción 20 de Barcelona (desórdenes públicos y pertenencia a organización criminal). Los otros tres: el presunto fundador (juzgado de Torrent), un joven detenido en Alfafar (Catarroja) y un joven de 18 años en Barcelona (Instrucción 14). Además, al menos dos menores están internados (Barcelona y Valencia). Suma propia a partir de autos publicados; no hay un recuento oficial único. elDiario.es (10 nov) mantiene la cifra: cuatro adultos en prisión provisional, en Valencia y Barcelona."
+  },
+  {
+   "etiqueta": "Personas identificadas en Barcelona el 31 de octubre",
+   "valor": 1440,
+   "unidad": "personas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "CatalunyaPress (balance final de Mossos d'Esquadra)",
+   "fuente_url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona",
+   "nota": "Cambia respecto al balance anterior: antes se daba «al menos 1.000» (EFE, hasta las 19:30 del 31 de octubre). RTVE, citada por Euronews, da también 1.440.",
+   "destacada": true
+  },
+  {
+   "etiqueta": "Personas identificadas en Cataluña el 31 de octubre",
+   "valor": 2264,
+   "unidad": "personas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "Euronews (autoridades catalanas)",
+   "fuente_url": "https://es.euronews.com/2026/11/01/blocus-halloween-espana-despliegue-policial-detenidos-barcelona-valencia",
+   "nota": "Incluye Barcelona y otras localidades. ACN (vía Públic) habla de «más de 2.200» identificaciones y de que no hubo ninguna concentración significativa."
+  },
+  {
+   "etiqueta": "Detenidos en Barcelona la noche del 31 de octubre",
+   "valor": 3,
+   "unidad": "personas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "CatalunyaPress (balance final de Mossos d'Esquadra)",
+   "fuente_url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona",
+   "nota": "Uno de ellos tenía una orden de detención pendiente, según elDiario.es. RTVE, vía Euronews, da la misma cifra."
+  },
+  {
+   "etiqueta": "Detenidos en Valencia durante el operativo de Halloween",
+   "valor": 22,
+   "unidad": "personas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "Euronews (Policía Nacional)",
+   "fuente_url": "https://es.euronews.com/2026/11/01/blocus-halloween-espana-despliegue-policial-detenidos-barcelona-valencia",
+   "nota": "Por delitos de distinto tipo; no todos están relacionados con Blocus. El Español habla de «una veintena» de detenidos y más de 2.200 identificados en la noche, sin aclarar el ámbito; no se usa por ser poco preciso."
+  },
+  {
+   "etiqueta": "Actas por decomiso de objetos en Barcelona el 31 de octubre",
+   "valor": 127,
+   "unidad": "actas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "CatalunyaPress (balance final de Mossos d'Esquadra)",
+   "fuente_url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona",
+   "nota": "Cambia respecto al balance anterior (63, cifra parcial del 31 de octubre por la tarde). Son actas administrativas por utensilios potencialmente peligrosos y sustancias."
+  },
+  {
+   "etiqueta": "Agentes de Mossos en el dispositivo del 31 de octubre en Barcelona",
+   "valor": 300,
+   "unidad": "agentes (más de)",
+   "fecha": "2026-10-30",
+   "fuente_nombre": "Crónica Global",
+   "fuente_url": "https://cronicaglobal.elespanol.com/vida/20261030/dispositivo-maximos-blocus-mossos-blindan-accesos-barcelona/1003742807638_0.html",
+   "nota": "Nivel de riesgo 4, el máximo; solo aplicado antes en las protestas de febrero de 2021."
+  },
+  {
+   "etiqueta": "Policías municipales desplegados en Madrid el 31 de octubre",
+   "valor": 1700,
+   "unidad": "agentes",
+   "fecha": "2026-10-31",
+   "fuente_nombre": "Euronews",
+   "fuente_url": "https://es.euronews.com/2026/10/31/noche-disturbios-palma-espana-protestas-halloween-blocus",
+   "nota": "Cifra del Ayuntamiento para el puente. Euronews añade unos 200 antidisturbios de la Policía Nacional."
+  },
+  {
+   "etiqueta": "Localidades con señales de convocatorias en España",
+   "valor": 18,
+   "unidad": "localidades",
+   "fecha": "2026-10-26",
+   "fuente_nombre": "Informe de Golden Owl citado por Moncloa.com",
+   "fuente_url": "https://www.moncloa.com/2026/10/28/blocus-red-disturbios-espana-3456469/",
+   "nota": "Repartidas en 11 comunidades; dato de una consultora privada, no oficial."
+  },
+  {
+   "etiqueta": "Detenidos en Cataluña por organizar o alentar los saqueos del 24 de octubre",
+   "valor": 10,
+   "unidad": "personas",
+   "fecha": "2026-11-06",
+   "fuente_nombre": "EFE vía Infobae (comunicado de Mossos, 6 nov)",
+   "fuente_url": "https://www.infobae.com/espana/agencias/2026/11/06/los-mossos-detienen-en-barcelona-a-otro-menor-por-alentar-las-protestas-de-blocus/",
+   "nota": "Cambia respecto al balance anterior (9, Crónica Global, 5 nov). Se suma un menor detenido por Mossos en el Vallès Occidental el 6 de noviembre, acusado de desórdenes públicos y pertenencia a grupo criminal; su caso lo lleva la Fiscalía de Menores. Según Crónica Global, siete de los diez son menores (antes, seis de nueve). Las fuentes no detallan los diez casos uno a uno y no hay un balance oficial único de Mossos. Moncloa.com (8 nov) vuelve a dar diez; no consta ninguna detención nueva en Cataluña entre el 7 y el 10 de noviembre."
+  },
+  {
+   "etiqueta": "Menores del 24 de octubre en libertad vigilada",
+   "valor": 72,
+   "unidad": "menores",
+   "fecha": "2026-11-02",
+   "fuente_nombre": "Ara",
+   "fuente_url": "https://en.ara.cat/society/only-two-of-the-79-minors-arrested-for-the-riots-in-barcelona-remain-without-precautionary-measures_1_5897718.html",
+   "nota": "Nueva cifra. De 79 menores llevados ante el juez: 5 internados, 72 en libertad vigilada y 2 sin medidas cautelares. elDiario.es (10 nov) habla de unos 70 menores, la mayoría en libertad vigilada, y de cinco internados en Cataluña; se mantiene la cifra de Ara, que es más precisa."
+  },
+  {
+   "etiqueta": "Daños en bienes públicos en Bilbao (26 oct)",
+   "valor": 55000,
+   "unidad": "euros",
+   "fecha": "2026-10-27",
+   "fuente_nombre": "Euronews (datos del Ayuntamiento de Bilbao)",
+   "fuente_url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos",
+   "nota": "Nueva cifra (no estaba en el borrador anterior). Estimación municipal: 38 contenedores quemados y 5 coches particulares calcinados. No incluye daños privados."
+  },
+  {
+   "etiqueta": "Personas identificadas en Valencia el 31 de octubre",
+   "valor": 440,
+   "unidad": "personas",
+   "fecha": "2026-11-01",
+   "fuente_nombre": "Vozpópuli (Policía Nacional)",
+   "fuente_url": "https://www.vozpopuli.com/espana/la-fiscalia-de-menores-deja-en-libertad-al-joven-de-16-anos-detenido-por-su-relacion-con-el-movimiento-blocus-en-valencia.html",
+   "nota": "Nueva cifra. Además, 6 actas por armas, 7 por drogas y 1 por falta de respeto a un agente."
+  },
+  {
+   "etiqueta": "Menores detenidos en Palma por planear desórdenes ligados a Blocus",
+   "valor": 4,
+   "unidad": "menores",
+   "fecha": "2026-11-05",
+   "fuente_nombre": "Última Hora (Brigada de Información de la Policía Nacional)",
+   "fuente_url": "https://www.ultimahora.es/noticias/local/2026/11/05/2744033/policia-nacional-detiene-cuatro-integrantes-blocus-palma-les-acusa-tenencia-artefactos-incendiarios.html",
+   "nota": "Nueva cifra. Acusados de tenencia de artefactos incendiarios, desórdenes públicos y organización criminal; la Fiscalía de Menores lleva el caso. Están incluidos en el balance nacional de 18."
+  },
+  {
+   "etiqueta": "Personas identificadas en Terrassa en tres convocatorias (30 oct, 31 oct y 2 nov)",
+   "valor": 174,
+   "unidad": "personas",
+   "fecha": "2026-11-04",
+   "fuente_nombre": "Canal Terrassa (balance del Ayuntamiento, 4 nov)",
+   "fuente_url": "https://canalterrassa.cat/loperatiu-preventiu-sobre-blocus-acaba-amb-174-persones-identificades-pero-sense-incidents",
+   "nota": "Nueva cifra. Balance del Ayuntamiento: las tres jornadas pasaron sin incidentes; no constan detenidos. Hubo una denuncia por tenencia de una pistola eléctrica y se intervino una pistola de aire comprimido."
+  },
+  {
+   "etiqueta": "Personas identificadas en Elche en el dispositivo del 29 de octubre",
+   "valor": 15,
+   "unidad": "personas",
+   "fecha": "2026-11-02",
+   "fuente_nombre": "Alicante Plaza / EFE (Ayuntamiento de Elche, 2 nov)",
+   "fuente_url": "https://alicanteplaza.es/alicanteplaza/elcheplaza/elche-identifica-a-15-personas-en-el-dispositivo-preventivo-por-la-convocatoria-de-blocus",
+   "nota": "Nueva cifra. Dispositivo de Policía Nacional y Policía Local; sin incidentes ni daños, según el Ayuntamiento. Dos actas por tenencia de drogas."
+  },
+  {
+   "etiqueta": "Personas identificadas en Madrid el 7 de noviembre",
+   "valor": 200,
+   "unidad": "personas (unas)",
+   "fecha": "2026-11-08",
+   "fuente_nombre": "OKDiario (fuentes policiales)",
+   "fuente_url": "https://okdiario.com/sucesos/policia-impide-nuevos-saqueos-blocus-madrid-este-sabado-hay-200-identificados-20725339",
+   "nota": "Nueva cifra. Solo la publica OKDiario, citando fuentes policiales; no hay nota oficial de la Policía Nacional ni de la Delegación del Gobierno. Según ese medio, no hubo detenidos. Cifra pendiente de confirmar."
+  },
+  {
+   "etiqueta": "Detenidos en los disturbios del 11 de noviembre en Barcelona que ya habían sido arrestados por Blocus",
+   "valor": 2,
+   "unidad": "personas",
+   "fecha": "2026-11-12",
+   "fuente_nombre": "EFE vía Infobae (12 nov) (fuentes de la Fiscalía de Barcelona)",
+   "fuente_url": "https://www.infobae.com/espana/agencias/2026/11/12/fiscalia-pide-carcel-a-6-detenidos-por-los-disturbios-de-barcelona-e-internar-a-un-menor/",
+   "nota": "Nueva cifra. De 52 detenidos el 11 de noviembre, según EFE, dos ya lo habían sido por el 24 de octubre: un menor con prohibición de ir a manifestaciones y un adulto. Ara (12 nov) habla de un solo detenido con ese antecedente y la consellera de Interior considera la relación residual. Los disturbios del 11 de noviembre no se atribuyen a Blocus."
+  },
+  {
+   "etiqueta": "Miembros del grupo de WhatsApp enlazado en el cartel de la convocatoria del 24 de octubre",
+   "valor": 661,
+   "unidad": "personas",
+   "fecha": "2026-11-15",
+   "fuente_nombre": "EFE vía Infobae (15 nov)",
+   "fuente_url": "https://infobae.com/espana/agencias/2026/11/15/vestimenta-o-joyerias-los-subgrupos-de-blocus-para-planificar-el-pillaje-en-barcelona",
+   "nota": "Nueva cifra. Dato del informe de Mossos remitido al juzgado, según EFE: el grupo se creó el 20 de octubre y se enlazaba desde un cartel difundido en TikTok. Según la misma información, un subgrupo dedicado a joyerías tuvo al principio 64 miembros. No se sabe cuántos de ellos acudieron el 24 de octubre. 20minutos (15 nov) da la misma cifra de 661 miembros."
+  },
+  {
+   "etiqueta": "Miembros de los canales de «Blocus Sevilla»",
+   "valor": 100,
+   "unidad": "personas (cerca de)",
+   "fecha": "2026-11-16",
+   "fuente_nombre": "101TV Sevilla (16 nov)",
+   "fuente_url": "https://www.101tv.es/sevilla/identificado-el-lider-de-blocus-sevilla-el-grupo-que-planeaba-saqueos-masivos-durante-el-gran-derbi/",
+   "nota": "Nueva cifra. Dato atribuido a la Policía Nacional, que identificó al presunto creador y coordinador del grupo y ordenó cerrar sus perfiles. No se ha comunicado ninguna detención. H50 da la misma cifra. Canal Sur (17 nov) y Muchodeporte (16 nov) dan la misma cifra (un centenar)."
+  },
+  {
+   "etiqueta": "Detenidos del grupo «Blocus Vlc» (Policía Nacional)",
+   "valor": 4,
+   "unidad": "personas",
+   "fecha": "2026-11-13",
+   "fuente_nombre": "EFE vía elDiario.es (13 nov)",
+   "fuente_url": "https://www.eldiario.es/comunitat-valenciana/detenido-castellon-cuarto-miembro-blocus-vlc-menor-16-anos_1_13662746.html",
+   "nota": "Nueva cifra. El cuarto es un menor de 16 años detenido el 13 de noviembre en la provincia de Castellón, acusado de conspiración para desórdenes públicos y contra el patrimonio y pertenencia a grupo organizado; pasa a la Fiscalía de Menores. No incluye al presunto fundador detenido en Picanya por la Guardia Civil. Es posterior al balance nacional de 18 detenidos (5 nov), que no se ha actualizado oficialmente."
+  },
+  {
+   "etiqueta": "Detenidos por la Guardia Civil en la investigación sobre el presunto fundador de Blocus",
+   "valor": 3,
+   "unidad": "personas",
+   "fecha": "2026-11-19",
+   "fuente_nombre": "Guardia Civil (nota, 19 nov)",
+   "fuente_url": "https://web.guardiacivil.es/es/destacados/noticias/Detenidos-en-Valencia-dos-presuntos-dirigentes-de-la-red-que-sostenia-al-movimiento-violento-Blocus-en-Espana/",
+   "nota": "Nueva cifra. El presunto fundador, detenido el 30 de octubre en Picanya (en prisión provisional sin fianza), y dos jóvenes de 19 y 20 años detenidos en Valencia y comunicados el 19 de noviembre. La nota no concreta los delitos imputados a los dos nuevos detenidos ni las medidas judiciales. Estas detenciones no están incluidas en el balance de 18 de la Policía Nacional."
+  },
+  {
+   "etiqueta": "Policías nacionales en el dispositivo del derbi Sevilla-Betis (21 nov)",
+   "valor": 400,
+   "unidad": "agentes",
+   "fecha": "2026-11-19",
+   "fuente_nombre": "Subdelegación del Gobierno en Sevilla (vía Europa Press/Infobae)",
+   "fuente_url": "https://www.infobae.com/america/agencias/2026/11/19/400-agentes-de-policia-nacional-y-373-vigilantes-privados-velaran-por-la-seguridad-en-el-derbi-sevilla-betis/",
+   "nota": "Nueva cifra. Además, 373 vigilantes de seguridad privada, más Policía Local y sanitarios (sin cifra). Partido declarado de alto riesgo. La nota oficial no menciona a Blocus; se incluye como contexto porque la Policía Nacional vinculó el grupo «Blocus Sevilla» a un gran evento deportivo. Sustituye la previsión de unos 400 agentes que había publicado Futeros."
+  }
+ ],
+ "ciudades": [
+  {
+   "ciudad": "Barcelona",
+   "lat": 41.3851,
+   "lon": 2.1734,
+   "estado": "disturbios ocurridos",
+   "fecha": "2026-10-24",
+   "detenidos": 133,
+   "heridos_agentes": 15,
+   "heridos_otros": null,
+   "danos": "Unos 23 comercios saqueados o dañados, 33 incendios y unos 36.000 € en mobiliario urbano (estimación inicial).",
+   "descripcion": "Saqueos, barricadas e incendios en el centro el 24 de octubre tras convocatorias en TikTok y grupos de mensajería; 85 de los detenidos son menores. La nueva convocatoria del 31 de octubre no tuvo ninguna concentración significativa, según ACN: Mossos identificaron a 1.440 personas, levantaron 127 actas por objetos peligrosos y detuvieron a 3 personas. El 1 de noviembre un juzgado de Barcelona envió a prisión provisional a un joven de 18 años detenido el 30 de octubre como presunto ideólogo del grupo. Antes, Mossos detuvieron en la comarca del Anoia a un joven considerado instigador y un juzgado de menores internó a un menor de Sant Sadurní d'Anoia. El 2 de noviembre entró en prisión provisional el joven detenido en Cabrera d'Anoia, y Mossos detuvieron a dos menores de 14 y 17 años (Maresme y Bages) por administrar grupos; quedaron en libertad vigilada. El 4 de noviembre fue detenida una joven de 18 años por coordinar grupos de WhatsApp. De los 79 menores del 24 de octubre que han pasado por el juez, 72 están en libertad vigilada y 5 internados. Según Crónica Global, ya son nueve los detenidos en Cataluña por instigar los altercados, seis de ellos menores; el 6 de noviembre la cifra subió a diez (siete menores), según EFE y Crónica Global. El 10 de noviembre la defensa de un menor internado pidió a la Fiscalía de Menores que investigue los algoritmos de TikTok e Instagram (elDiario.es). El 11 de noviembre hubo disturbios tras la manifestación de la huelga general (52 detenidos, 36 agentes heridos según Mossos); la consellera de Interior los desvincula de Blocus, aunque la Fiscalía pidió internar a un menor ya detenido por Blocus por saltarse la prohibición de ir a manifestaciones.",
+   "fuentes": [
+    {
+     "nombre": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html"
+    },
+    {
+     "nombre": "Público",
+     "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+    },
+    {
+     "nombre": "CatalunyaPress (balance de Mossos, 1 nov)",
+     "url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona"
+    },
+    {
+     "nombre": "Públic / ACN (1 nov)",
+     "url": "https://www.diaripublic.cat/societat/preso-provisional-sense-fianca-per-dels-detinguts-com-ideoleg-blocus-barcelona.html"
+    },
+    {
+     "nombre": "elDiario.es (directo 31 oct)",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    },
+    {
+     "nombre": "Demócrata / agencias (2 nov)",
+     "url": "https://www.democrata.es/en/courts/the-arrested-man-in-cabrera-d-anoia-is-sent-to-provisional-prison-for-his-alleged-link-with-blocus/"
+    },
+    {
+     "nombre": "Última Hora / Europa Press (2 nov)",
+     "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/02/2741735/detenidos-dos-menores-por-presuntamente-promover-saqueos-barcelona-canales-blocus.html"
+    },
+    {
+     "nombre": "El Debate (4 nov)",
+     "url": "https://www.eldebate.com/espana/cataluna/20261104/detenida-otra-joven-vinculada-blocus-coordinar-saqueos-barcelona-traves-whatsapp_477134.html"
+    },
+    {
+     "nombre": "Ara (2 nov)",
+     "url": "https://en.ara.cat/society/only-two-of-the-79-minors-arrested-for-the-riots-in-barcelona-remain-without-precautionary-measures_1_5897718.html"
+    },
+    {
+     "nombre": "Crónica Global (Lleida, 5 nov)",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261105/detenidos-menores-lleida-vinculacion-disturbios-blocus-total/1003742809450_0.html"
+    },
+    {
+     "nombre": "elDiario.es (9-10 nov)",
+     "url": "https://www.eldiario.es/catalunya/menor-internado-blocus-pide-investigar-sistemas-algoritmicos-tiktok-viralizaron-convocatoria_1_13650600.html"
+    },
+    {
+     "nombre": "EFE vía Infobae (12 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/12/fiscalia-pide-carcel-a-6-detenidos-por-los-disturbios-de-barcelona-e-internar-a-un-menor/"
+    },
+    {
+     "nombre": "Ara (12 nov)",
+     "url": "https://es.ara.cat/sociedad/mossos-atribuyen-disturbios-movimientos-radicales-antisistema-desvinculan-blocus_1_5907956.html"
+    },
+    {
+     "nombre": "EFE vía Infobae (15 nov)",
+     "url": "https://infobae.com/espana/agencias/2026/11/15/vestimenta-o-joyerias-los-subgrupos-de-blocus-para-planificar-el-pillaje-en-barcelona"
+    }
+   ]
+  },
+  {
+   "ciudad": "Bilbao",
+   "lat": 43.263,
+   "lon": -2.935,
+   "estado": "disturbios ocurridos",
+   "fecha": "2026-10-26",
+   "detenidos": 17,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": "Unos 55.000 € en bienes públicos según el Ayuntamiento: 38 contenedores y 5 coches particulares quemados, además de una moto de la Policía Local.",
+   "descripcion": "Incidentes nocturnos en Deusto y Abando el 26 de octubre tras una protesta contra un acto de un agitador mediático. El Gobierno Vasco los atribuye a grupos organizados vascos; no está confirmado el vínculo con Blocus. El 30 de octubre la Policía Nacional detuvo a un joven de 20 años que administraba una cuenta ligada a Blocus; el juzgado de guardia lo dejó en libertad provisional sin fianza el 31, con obligación de comparecer. La convocatoria del 31 de octubre no tuvo asistentes ni incidentes, según la Cadena SER citada por Demócrata. El 17 de noviembre la Ertzaintza, con la Policía Municipal, detuvo en Arrigorriaga a un joven de 19 años acusado de desórdenes públicos por los incidentes del 26 de octubre, e investiga por daños y amenazas a un hombre de 28 años en Bilbao. La información de la Ertzaintza no menciona a Blocus.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (27 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/27/los-disturbios-de-bilbao-se-saldan-con-17-detenidos-10-de-ellos-menores-de-edad/"
+    },
+    {
+     "nombre": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/27/altercados-bilbao-gobierno-vasco-ertzaintza-3456600/"
+    },
+    {
+     "nombre": "EFE vía Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+    },
+    {
+     "nombre": "Euronews (Bilbao, 27 oct)",
+     "url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos"
+    },
+    {
+     "nombre": "Vozpópuli / agencias (31 oct)",
+     "url": "https://www.vozpopuli.com/espana/libertad-provisional-sin-fianza-para-el-presunto-administrador-de-blocus-en-bilbao.html"
+    },
+    {
+     "nombre": "Demócrata (Bilbao, 1 nov)",
+     "url": "https://www.democrata.es/actualidad/bilbao-se-blindo-pero-nadie-acudio-paso-con-convocatoria-blocus/"
+    },
+    {
+     "nombre": "Orain/EITB (balance de la Ertzaintza, 17 nov)",
+     "url": "https://orain.eus/en/current-events/society-and-social-news-now/2026/11/17/one-man-has-been-arrested-in-arrigorriaga-and-another-investigated-in-bilbao-for-incidents-in-the-byzantine-capital-on-26-october/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Palma",
+   "lat": 39.5696,
+   "lon": 2.6502,
+   "estado": "disturbios ocurridos",
+   "fecha": "2026-10-30",
+   "detenidos": 4,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "La noche del 30 de octubre, tras una convocatoria atribuida a Blocus Mallorca, hubo tensión y enfrentamientos verbales en el centro entre grupos de signo político opuesto; la policía se interpuso. Euronews informa de un menor detenido y seis identificados; Infobae, de unas 200 personas identificadas por la Policía Nacional y 40 actas administrativas. No se informó de saqueos ni heridos. El vínculo con Blocus no está confirmado oficialmente. El 5 de noviembre la Policía Nacional detuvo a cuatro menores señalados como integrantes del grupo en Palma, acusados de tener material para fabricar artefactos incendiarios, desórdenes públicos y organización criminal; la Fiscalía de Menores se hace cargo. Según la Policía, no se ha detectado una ideología definida. El dato de detenidos de este punto pasa de 1 a 4: son las detenciones ligadas a Blocus del balance policial; no está claro si el menor detenido el 30 de octubre es uno de ellos.",
+   "fuentes": [
+    {
+     "nombre": "Euronews (31 oct)",
+     "url": "https://es.euronews.com/2026/10/31/noche-disturbios-palma-espana-protestas-halloween-blocus"
+    },
+    {
+     "nombre": "Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/2026/10/31/comercios-de-varias-ciudades-se-blindan-en-halloween-por-temor-a-que-las-convocatorias-de-blocus-deriven-en-disturbios-y-saqueos-como-en-barcelona/"
+    },
+    {
+     "nombre": "Última Hora (Palma, 5 nov)",
+     "url": "https://www.ultimahora.es/noticias/local/2026/11/05/2744033/policia-nacional-detiene-cuatro-integrantes-blocus-palma-les-acusa-tenencia-artefactos-incendiarios.html"
+    },
+    {
+     "nombre": "Ara Balears (5 nov)",
+     "url": "https://en.arabalears.cat/society/four-arrested-from-blocus-for-riots-and-looting-in-palma_1_5901593.html"
+    },
+    {
+     "nombre": "Europa Press vía Infobae (balance de la Policía Nacional, 5 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/05/el-balance-de-detenidos-por-actividades-relacionadas-con-blocus-asciende-a-18-en-siete-ciudades-la-mayoria-menores/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Madrid",
+   "lat": 40.4168,
+   "lon": -3.7038,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-11-07",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "La convocatoria del 24 de octubre no tuvo repercusión, según Maldita. La del 31 de octubre transcurrió sin incidentes, con un gran despliegue de Policía Municipal y Policía Nacional; muchos comercios del centro protegieron escaparates o cerraron antes. El 7 de noviembre hubo otra convocatoria en el centro: según OKDiario, que cita fuentes policiales, la Policía Nacional rodeó e identificó a unos 200 jóvenes, requisó objetos peligrosos y no hubo detenidos. No hay nota oficial ni otras fuentes que lo detallen; El Boletín titula que transcurrió sin incidentes.",
+   "fuentes": [
+    {
+     "nombre": "Maldita.es",
+     "url": "https://maldita.es/investigaciones/20261026/convocatoria-fallida-madrid-cuentas-tiktok-blocus-espana/"
+    },
+    {
+     "nombre": "Telemadrid (1 nov)",
+     "url": "https://www.telemadrid.es/noticias/sociedad/llamada-blocus-saquear-vandalizar-comercios_1_2786065.html"
+    },
+    {
+     "nombre": "OKDiario",
+     "url": "https://okdiario.com/espana/concentraciones-blocus-transcurren-sin-incidentes-madrid-barcelona-despliegue-policial-detencion-sus-lideres-20677245"
+    },
+    {
+     "nombre": "OKDiario (8 nov, fuentes policiales)",
+     "url": "https://okdiario.com/sucesos/policia-impide-nuevos-saqueos-blocus-madrid-este-sabado-hay-200-identificados-20725339"
+    },
+    {
+     "nombre": "El Boletín (titular)",
+     "url": "https://www.elboletin.com/la-convocatoria-de-blocus-transcurre-sin-incidentes-en-madrid/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Valencia",
+   "lat": 39.4699,
+   "lon": -0.3763,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-31",
+   "detenidos": 8,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Ocho detenciones ligadas a Blocus en Valencia y su provincia (el borrador anterior daba seis). Las últimas, comunicadas por la Guardia Civil el 19 de noviembre: dos jóvenes de 19 y 20 años del círculo cercano del presunto fundador, a los que se acusa de coordinar convocatorias, proteger la identidad de los responsables y borrar mensajes; la investigación sigue abierta. El 13 de noviembre la Policía Nacional detuvo en la provincia de Castellón a un menor de 16 años, el cuarto miembro del grupo «Blocus Vlc», que pasa a la Fiscalía de Menores. En la provincia, la Guardia Civil detuvo en Picanya al presunto fundador del movimiento en España y la Policía Nacional a un joven en Alfafar; ambos están en prisión provisional. Policía Local y Nacional doblaron el dispositivo el 31 de octubre y el centro no registró incidentes reseñables. La Policía Nacional practicó 22 detenciones en el operativo general de Halloween, no todas ligadas a Blocus. El menor de 16 años detenido el 31 de octubre, acusado de difundir carteles con código QR hacia el grupo, quedó en libertad por decisión de la Fiscalía de Menores. Ese día la Policía Nacional identificó a 440 personas en la ciudad. El portal HerQles (21 nov) informó de dos nuevas detenciones de la Guardia Civil en La Pobla de Farnals y València relacionadas con Blocus, sin edades, delitos ni medidas judiciales y sin citar fuente oficial. No está claro si son las mismas detenciones anunciadas el 19 de noviembre; no se suman a las cifras.",
+   "fuentes": [
+    {
+     "nombre": "elDiario.es (directo 31 oct)",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    },
+    {
+     "nombre": "EFE vía Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+    },
+    {
+     "nombre": "Ministerio del Interior",
+     "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Detenido-en-Picanya-Valencia-el-presunto-fundador-e-impulsor-del-movimiento-Blocus-en-Espana/"
+    },
+    {
+     "nombre": "Euronews (1 nov)",
+     "url": "https://es.euronews.com/2026/11/01/blocus-halloween-espana-despliegue-policial-detenidos-barcelona-valencia"
+    },
+    {
+     "nombre": "Vozpópuli (Valencia, 1 nov)",
+     "url": "https://www.vozpopuli.com/espana/la-fiscalia-de-menores-deja-en-libertad-al-joven-de-16-anos-detenido-por-su-relacion-con-el-movimiento-blocus-en-valencia.html"
+    },
+    {
+     "nombre": "elDiario.es (Valencia, 3 nov)",
+     "url": "https://www.eldiario.es/comunitat-valenciana/lider-blocus-capto-menor-nucleo-cerrado-enfrenta-delitos-organizacion-criminal-robos-fuerza_1_13635153.html"
+    },
+    {
+     "nombre": "EFE vía elDiario.es (13 nov)",
+     "url": "https://www.eldiario.es/comunitat-valenciana/detenido-castellon-cuarto-miembro-blocus-vlc-menor-16-anos_1_13662746.html"
+    },
+    {
+     "nombre": "Guardia Civil (nota, 19 nov)",
+     "url": "https://web.guardiacivil.es/es/destacados/noticias/Detenidos-en-Valencia-dos-presuntos-dirigentes-de-la-red-que-sostenia-al-movimiento-violento-Blocus-en-Espana/"
+    },
+    {
+     "nombre": "Europa Press vía Libertad Digital (19 nov)",
+     "url": "https://www.libertaddigital.com/espana/2026-11-19/detenidos-dos-jovenes-vinculados-a-blocus-coordinaban-saqueos-y-ocultaban-a-sus-responsables-7494371/"
+    },
+    {
+     "nombre": "HerQles (21 nov)",
+     "url": "https://herqles.com/2026/11/21/guardia-civil-detiene-saqueos-blocus-valencia/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Girona (provincia)",
+   "lat": 41.9794,
+   "lon": 2.8214,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-31",
+   "detenidos": 1,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": "Un contenedor quemado en Figueres.",
+   "descripcion": "Mossos y Policía Municipal desplegaron un dispositivo en Salt ante una convocatoria de estilo Blocus e identificaron a varias personas. Según ACN, el único incidente relevante de la provincia fue la quema de un contenedor en Figueres, con un detenido.",
+   "fuentes": [
+    {
+     "nombre": "elDiario.es (directo 31 oct, citando ACN)",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "San Sebastián",
+   "lat": 43.3183,
+   "lon": -1.9812,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-31",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Comercios del centro protegieron escaparates. En Euskadi había unas veinte movilizaciones convocadas para el fin de semana; EFE no reseña incidentes en la ciudad.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+    },
+    {
+     "nombre": "Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/2026/10/31/comercios-de-varias-ciudades-se-blindan-en-halloween-por-temor-a-que-las-convocatorias-de-blocus-deriven-en-disturbios-y-saqueos-como-en-barcelona/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Lleida",
+   "lat": 41.6176,
+   "lon": 0.62,
+   "estado": "convocatoria anunciada",
+   "fecha": null,
+   "detenidos": 3,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Mossos detuvieron en la provincia (Bellmunt d'Urgell) a un menor de 16 años por promover una protesta violenta para el 31 de octubre, que no tuvo incidentes; está en libertad vigilada. El 5 de noviembre la Policía Nacional detuvo en Lleida a dos chicos de 15 años acusados de gestionar grupos y canales desde los que se animó a los disturbios del 24 de octubre en Barcelona.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (30 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+    },
+    {
+     "nombre": "Infobae (31 oct)",
+     "url": "https://www.infobae.com/espana/2026/10/31/comercios-de-varias-ciudades-se-blindan-en-halloween-por-temor-a-que-las-convocatorias-de-blocus-deriven-en-disturbios-y-saqueos-como-en-barcelona/"
+    },
+    {
+     "nombre": "Crónica Global (Lleida, 5 nov)",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261105/detenidos-menores-lleida-vinculacion-disturbios-blocus-total/1003742809450_0.html"
+    },
+    {
+     "nombre": "El Nacional (Lleida, 5 nov)",
+     "url": "https://www.elnacional.cat/es/sociedad/detenidos-lleida-menores-anos-instigar-disturbios-blocus-barcelona-octubre_1721162_102.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "Málaga",
+   "lat": 36.7213,
+   "lon": -4.4214,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-10-31",
+   "detenidos": 1,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Detenido un joven que llamaba a saquear comercios de la provincia la noche de Halloween. En la provincia hubo además dos detenidos en Fuengirola (ver ese punto). Sin datos de incidentes en la capital el 31 de octubre en las fuentes consultadas. El balance de la Policía Nacional del 5 de noviembre atribuye 4 detenidos a Málaga; no aclara si incluye a los de Fuengirola ni cuántos son menores, por eso aquí se mantiene la cifra de detenciones confirmadas en la capital.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (30 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+    },
+    {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/26/blocus-que-hay-detras-del-movimiento-que-llama-a-saquear-comercios-en-espana-en-halloween"
+    },
+    {
+     "nombre": "Europa Press vía Infobae (balance de la Policía Nacional, 5 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/05/el-balance-de-detenidos-por-actividades-relacionadas-con-blocus-asciende-a-18-en-siete-ciudades-la-mayoria-menores/"
+    },
+    {
+     "nombre": "Área Costa del Sol (5 nov)",
+     "url": "https://www.areacostadelsol.com/malaga/saqueos-disturbios-armas-cuatro-detenidos-malaga-presunta-implicacion-blocus/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Santa Cruz de Tenerife",
+   "lat": 28.4636,
+   "lon": -16.2518,
+   "estado": "convocatoria anunciada",
+   "fecha": null,
+   "detenidos": 2,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Detenidas dos personas, una menor, que usaban mensajería cifrada para organizar altercados. EFE no concreta el municipio; el punto marca la provincia. Sin datos del 31 de octubre.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (30 oct)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Santiago de Compostela",
+   "lat": 42.8782,
+   "lon": -8.5448,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-10-31",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Una cuenta de TikTok con muy pocos seguidores anunció disturbios para el 31 de octubre; las autoridades investigaban si era real. Sin datos de lo ocurrido esa noche en las fuentes consultadas.",
+   "fuentes": [
+    {
+     "nombre": "Galiciapress",
+     "url": "https://www.galiciapress.es/articulo/ultima-hora/2026-10-29/6070577-broma-pesada-desafio-blocus-frente-saqueos-barcelona-bilbao-anuncia-santiago-halloween"
+    },
+    {
+     "nombre": "El Debate",
+     "url": "https://www.eldebate.com/espana/galicia/20261031/policia-alerta-galicia-ante-posibles-altercados-dos-actos-vox-llamamiento-blocus-caos_475682.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "Vitoria-Gasteiz",
+   "lat": 42.8467,
+   "lon": -2.6716,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-10-31",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Medios locales informaron de una convocatoria detectada para Halloween. Sin datos de lo ocurrido esa noche en las fuentes consultadas.",
+   "fuentes": [
+    {
+     "nombre": "Noticias de Álava",
+     "url": "https://www.noticiasdealava.eus/gasteiz/2026/10/29/detectada-convocatoria-blocus-vitoria-halloween-11703191.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "Fuengirola (Málaga)",
+   "lat": 36.5398,
+   "lon": -4.6247,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-10-31",
+   "detenidos": 2,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "La Policía Nacional detuvo la noche del 31 de octubre a dos jóvenes, uno menor. El mayor administraba un grupo de mensajería de Blocus desde el que, según la policía, se animaba a saquear comercios de Fuengirola y Marbella. No se han publicado incidentes en la calle.",
+   "fuentes": [
+    {
+     "nombre": "El Español (1 nov)",
+     "url": "https://www.elespanol.com/espana/20261101/detenidos-jovenes-promover-disturbios-nombre-blocus-malaga-menor-edad/1003744442918_0.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "Sevilla",
+   "lat": 37.3891,
+   "lon": -5.9845,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-11-21",
+   "detenidos": 1,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Circuló por WhatsApp un aviso de disturbios para el fin de semana de Halloween que Maldita no pudo confirmar; el alcalde pidió tranquilidad y la Policía Local reforzó la vigilancia con 303 agentes. Según fuentes policiales citadas por La Voz del Sur, la madrugada del 30 al 31 terminó sin saqueos ligados a Blocus. Sin balance de la noche del 31 en las fuentes consultadas. Un informe de la consultora Golden Owl citado por Moncloa.com (4 nov) señala una nueva convocatoria en Sevilla para el 21 de noviembre; no está confirmada por la policía. El Gol Digital (1 nov) recoge que el aviso de esa fecha circuló en TikTok y coincide con el día del derbi Sevilla-Betis; tampoco cita confirmación oficial ni reacción policial. El balance de la Policía Nacional del 5 de noviembre incluye un detenido en Sevilla por actividades ligadas a Blocus; no se han publicado más detalles. El 16 de noviembre la Policía Nacional informó de que ha identificado al presunto creador y coordinador de un grupo llamado «Blocus Sevilla», de cerca de cien miembros, que preparaba saqueos en zonas comerciales y daños al mobiliario urbano coincidiendo con un gran evento deportivo. Según 101TV, fuentes policiales precisaron que el evento es el derbi del sábado 21 de noviembre. Se ordenó cerrar los perfiles del grupo, la investigación sigue abierta y no se ha comunicado ninguna detención. Canal Sur (17 nov) recoge la misma información de la Policía Nacional y añade que se cancelaron las cuentas usadas para reclutar a los miembros. Futeros (16 nov) atribuye a la Policía Nacional que el reclutamiento se hacía por redes sociales y Telegram. El 19 de noviembre la Subdelegación del Gobierno presentó el dispositivo del derbi, declarado de alto riesgo: 400 policías nacionales y 373 vigilantes privados, más Policía Local y sanitarios. La nota oficial no menciona a Blocus. A primera hora del 21 de noviembre, día del derbi, no se ha comunicado ninguna detención en la investigación sobre «Blocus Sevilla» ni ninguna novedad oficial. El derbi se jugó el 21 de noviembre y terminó en empate. Según La Voz del Sur (21 nov), la Policía Nacional sostiene que su intervención contra «Blocus Sevilla» evitó posibles incidentes violentos y que la investigación sigue abierta, sin descartar nuevas actuaciones. A primera hora del 22 de noviembre no se ha publicado ningún balance policial del dispositivo ni hay noticias de saqueos ligados a Blocus; por eso el estado se mantiene como «convocatoria anunciada» hasta que haya un balance oficial.",
+   "fuentes": [
+    {
+     "nombre": "Maldita.es (30 oct)",
+     "url": "https://maldita.es/desinfo/20261030/mensaje-de-whatsapp-advierte-que-habra-disturbios-en-centro-comercial-nervion-plaza-sevilla-el-fin-de-semana-de-halloween-2026/"
+    },
+    {
+     "nombre": "La Voz del Sur (31 oct)",
+     "url": "https://www.lavozdelsur.es/actualidad/sociedad/la-noche-de-halloween-ante-blocus-entre-controles-nuevas-detenciones-y-prision-sin-fianza-para-su-supuesto-lider.html"
+    },
+    {
+     "nombre": "Moncloa.com (1 nov)",
+     "url": "https://www.moncloa.com/2026/11/01/policia-nacional-operacion-blocus-detenidos-3459844/"
+    },
+    {
+     "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    },
+    {
+     "nombre": "Europa Press vía Infobae (balance de la Policía Nacional, 5 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/05/el-balance-de-detenidos-por-actividades-relacionadas-con-blocus-asciende-a-18-en-siete-ciudades-la-mayoria-menores/"
+    },
+    {
+     "nombre": "El Gol Digital (1 nov)",
+     "url": "https://www.elgoldigital.com/futbol/sevilla-fc/blocus-nervion-plaza-derbi-sevilla-betis-21-noviembre/"
+    },
+    {
+     "nombre": "101TV Sevilla (16 nov)",
+     "url": "https://www.101tv.es/sevilla/identificado-el-lider-de-blocus-sevilla-el-grupo-que-planeaba-saqueos-masivos-durante-el-gran-derbi/"
+    },
+    {
+     "nombre": "H50 Digital Policial (16 nov)",
+     "url": "https://www.h50.es/la-policia-nacional-desenmascara-al-presunto-cerebro-de-blocus-sevilla/"
+    },
+    {
+     "nombre": "Libertad Digital (16 nov)",
+     "url": "https://libertaddigital.com/andalucia/2026-11-16/la-policia-nacional-desarticula-blocus-sevilla-antes-de-perpetrar-saqueos-masivos-7492059"
+    },
+    {
+     "nombre": "Canal Sur (17 nov)",
+     "url": "https://www.canalsur.es/noticias/andalucia/sevilla/blocus-preparaba-actos-vandalicos-robos_1_1453308.html"
+    },
+    {
+     "nombre": "Muchodeporte (16 nov)",
+     "url": "https://www.muchodeporte.com/sevilla-fc/identificado-el-cerebro-de-blocus-sevilla-que-preparaba-saqueos-durante-el-derbi"
+    },
+    {
+     "nombre": "Futeros (16 nov)",
+     "url": "https://futeros.com/identificado-el-presunto-cerebro-de-blocus-en-sevilla-que-planeaba-una-ola-de-saqueos-durante-el-sevilla-betis/"
+    },
+    {
+     "nombre": "Europa Press vía Infobae (Subdelegación del Gobierno en Sevilla, 19 nov)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/400-agentes-de-policia-nacional-y-373-vigilantes-privados-velaran-por-la-seguridad-en-el-derbi-sevilla-betis/"
+    },
+    {
+     "nombre": "MundoBetis (19 nov)",
+     "url": "https://mundobetis.com/2026/11/19/lleno-previsto-en-nervion-y-cerca-de-mil-personas-en-el-operativo-del-derbi/"
+    },
+    {
+     "nombre": "Sevilla Actualidad (16 nov)",
+     "url": "https://www.sevillaactualidad.com/sevilla/601295-acaban-un-plan-para-saquear-zonas-comerciales-de-sevilla-durante-un-evento-deportivo/"
+    },
+    {
+     "nombre": "La Voz del Sur (21 nov)",
+     "url": "https://www.lavozdelsur.es/ediciones/sevilla/sevilla-se-blinda-ante-el-gran-derbi-y-el-mitin-de-abascal-tras-desmantelar-blocus-horario-de-los-cortes-y-autobuses-de-refuerzo.html"
+    },
+    {
+     "nombre": "COPE (crónica del derbi, 21 nov)",
+     "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-sevilla-betis-jornada-13-primera-division-21-20261121_3479673.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "Alcorcón",
+   "lat": 40.3458,
+   "lon": -3.8249,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-11-11",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Un informe de la consultora Golden Owl citado por Moncloa.com señala una convocatoria para el 11 de noviembre. No está confirmada por la policía y el informe advierte de que puede ser obra de imitadores. A 10 de noviembre no se ha publicado ningún aviso oficial ni dispositivo especial para esa fecha. A 13 de noviembre sigue sin publicarse información sobre incidentes, dispositivos ni detenciones en Alcorcón el día 11; la convocatoria sigue sin confirmación oficial. Se marca como «sin incidentes» porque, dos días después, ningún medio ni fuente oficial ha informado de concentraciones ni detenciones; no hay balance policial.",
+   "fuentes": [
+    {
+     "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    }
+   ]
+  },
+  {
+   "ciudad": "Terrassa",
+   "lat": 41.5631,
+   "lon": 2.0089,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-11-02",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Hubo convocatorias para el 30 y el 31 de octubre y el 2 de noviembre. Según el balance del Ayuntamiento, las tres jornadas pasaron sin incidentes, con 174 personas identificadas por Policía Municipal y Mossos y sin detenidos.",
+   "fuentes": [
+    {
+     "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    },
+    {
+     "nombre": "Canal Terrassa (balance del Ayuntamiento, 4 nov)",
+     "url": "https://canalterrassa.cat/loperatiu-preventiu-sobre-blocus-acaba-amb-174-persones-identificades-pero-sense-incidents"
+    }
+   ]
+  },
+  {
+   "ciudad": "San Pedro Alcántara (Marbella)",
+   "lat": 36.4853,
+   "lon": -4.9928,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-11-01",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "El informe de Golden Owl citado por Moncloa.com recogía una convocatoria para el 1 de noviembre. No se han encontrado noticias de incidentes en las fuentes consultadas.",
+   "fuentes": [
+    {
+     "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    }
+   ]
+  },
+  {
+   "ciudad": "Reus",
+   "lat": 41.1561,
+   "lon": 1.1069,
+   "estado": "convocatoria anunciada",
+   "fecha": "2026-11-06",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Comerciantes detectaron a finales de octubre carteles, difundidos por Instagram y Telegram, que llamaban a acudir con la cara tapada el 6 de noviembre. Mossos y Guardia Urbana dijeron conocer los mensajes y los investigaban para saber si eran reales; el Ayuntamiento y la policía pidieron calma y evitaron dar más detalles. Antes hubo otra convocatoria para el fin de semana de Halloween: el Ayuntamiento activó un dispositivo especial y los comercios cerraron con normalidad, sin incidentes publicados. A 10 de noviembre no hay información publicada sobre lo ocurrido el 6 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "La Ciutat (Reus, 27 oct)",
+     "url": "https://laciutat.cat/es/laciutatdetarragona/alerta-entre-tenderos-reus-por-convocatoria-blocus-6-noviembre_903808_102.html"
+    },
+    {
+     "nombre": "Canal Reus (1 nov)",
+     "url": "https://canalreus.cat/noticies/successos/comercos-normalitat-blocus-reus/"
+    },
+    {
+     "nombre": "Reusdigital (27 oct)",
+     "url": "https://reusdigital.cat/noticies/reus/el-moviment-blocus-arriba-reus-amb-una-crida-anonima-traves-de-les-xarxes-socials"
+    },
+    {
+     "nombre": "Canal Reus (28 oct)",
+     "url": "https://canalreus.cat/noticies/successos/els-cossos-policials-demanen-calma-davant-duna-nova-convocatoria-de-blocus-reus/"
+    }
+   ]
+  },
+  {
+   "ciudad": "Elche",
+   "lat": 38.2669,
+   "lon": -0.6983,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-29",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Ante una convocatoria de estilo Blocus, Policía Nacional y Policía Local montaron un dispositivo preventivo el 29 de octubre. Según el Ayuntamiento no hubo incidentes ni daños; se identificó a 15 personas y apenas se vio a gente con el perfil de la convocatoria.",
+   "fuentes": [
+    {
+     "nombre": "Alicante Plaza / EFE (Ayuntamiento de Elche, 2 nov)",
+     "url": "https://alicanteplaza.es/alicanteplaza/elcheplaza/elche-identifica-a-15-personas-en-el-dispositivo-preventivo-por-la-convocatoria-de-blocus"
+    }
+   ]
+  },
+  {
+   "ciudad": "Tarragona",
+   "lat": 41.1189,
+   "lon": 1.2445,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-28",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "Hubo una convocatoria con la etiqueta Blocus para el 28 de octubre. Mossos y Guardia Urbana patrullaron el centro e hicieron identificaciones al azar; no acudió nadie y no hubo incidentes. No se publicaron cifras.",
+   "fuentes": [
+    {
+     "nombre": "Diari de Tarragona (28 oct)",
+     "url": "https://www.diaridetarragona.com/tarragona/274311/mossos-guardia-urbana-despliegan-tarragona-convocatoria-acaba-disturbios.html"
+    },
+    {
+     "nombre": "Diari de Tarragona (28 oct)",
+     "url": "https://www.diaridetarragona.com/tarragona/274199/vinuales-sobre-blocus-permitiremos-actos-vandalicos-atenten-orden-publico.html"
+    }
+   ]
+  },
+  {
+   "ciudad": "El Vendrell (Tarragona)",
+   "lat": 41.2186,
+   "lon": 1.535,
+   "estado": "convocatoria sin incidentes",
+   "fecha": "2026-10-29",
+   "detenidos": null,
+   "heridos_agentes": null,
+   "heridos_otros": null,
+   "danos": null,
+   "descripcion": "El temor a una convocatoria el 29 de octubre llevó a desplegar decenas de agentes de Mossos y Policía Local. Los grupos convocados no aparecieron; algunos comercios cerraron por precaución. No se dieron cifras oficiales.",
+   "fuentes": [
+    {
+     "nombre": "Diari de Tarragona (30 oct)",
+     "url": "https://www.diaridetarragona.com/costa/274495/temor-accion-blocus-vendrell-motiva-espectacular-despliegue-policial.html"
+    }
+   ]
+  }
+ ],
+ "ciudades_nota": "Estados a la mañana del 22 de noviembre de 2026. «Convocatoria anunciada» significa que hubo una llamada, un aviso o detenciones por organizarla, no que vaya a ocurrir nada; varias de las nuevas proceden de un informe privado (Golden Owl) que la policía no ha confirmado. «Convocatoria sin incidentes» se basa en balances policiales y en lo publicado por agencias y medios. Las cifras de detenidos de cada ciudad cuentan detenciones ligadas a Blocus, no las del operativo general. No se publican lugares ni horas de convocatorias.",
+ "cronologia": [
+  {
+   "fecha": "2026-10-18",
+   "hora_o_null": null,
+   "titulo": "Aparecen las cuentas de TikTok con la etiqueta Blocus",
+   "texto": "Maldita detecta que varias cuentas se crearon o renombraron entre el 18 y el 20 de octubre y remitían a grupos de Telegram y WhatsApp.",
+   "fuentes": [
+    {
+     "nombre": "Maldita.es",
+     "url": "https://maldita.es/investigaciones/20261026/convocatoria-fallida-madrid-cuentas-tiktok-blocus-espana/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-21",
+   "hora_o_null": null,
+   "titulo": "Disturbios tras una protesta estudiantil en Manresa",
+   "texto": "Tres días antes de los saqueos de Barcelona, una protesta estudiantil en Manresa acabó con daños en la sede territorial de Educación, barricadas y robos en un supermercado. Según Ara (5 nov), Mossos han detenido a 14 jóvenes, 13 de ellos menores, y uno de ellos volvió a ser detenido en Barcelona el 24 de octubre. Ara no atribuye esta protesta a Blocus.",
+   "fuentes": [
+    {
+     "nombre": "Ara (5 nov)",
+     "url": "https://es.ara.cat/sociedad/sucesos/catorce-detenidos-protesta-estudiantil-manresa-dias-saqueos-blocus_1_5901032.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-24",
+   "hora_o_null": "tarde-noche",
+   "titulo": "Saqueos y disturbios en el centro de Barcelona",
+   "texto": "Tras convocatorias en redes, grupos de jóvenes saquean comercios, levantan barricadas y provocan incendios. Más de un centenar de detenidos, la mayoría menores.",
+   "fuentes": [
+    {
+     "nombre": "Telemadrid",
+     "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Sanchez-calla-ante-los-disturbios-de-Barcelona-y-Feijoo-avisa-Han-perdido-la-calle-y-quieren-incendiarla-2-2937926190--20261025033621.amp.html"
+    },
+    {
+     "nombre": "Público",
+     "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-24",
+   "hora_o_null": null,
+   "titulo": "La convocatoria de Madrid no tiene seguimiento",
+   "texto": "Maldita constata que la llamada en Madrid para ese día no tuvo repercusión.",
+   "fuentes": [
+    {
+     "nombre": "Maldita.es",
+     "url": "https://maldita.es/investigaciones/20261026/convocatoria-fallida-madrid-cuentas-tiktok-blocus-espana/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-25",
+   "hora_o_null": null,
+   "titulo": "Primeras reacciones políticas",
+   "texto": "El PP y Vox culpan al Gobierno y a la izquierda; el president Illa dice que la violencia no tiene cabida en Cataluña.",
+   "fuentes": [
+    {
+     "nombre": "Telemadrid",
+     "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Sanchez-calla-ante-los-disturbios-de-Barcelona-y-Feijoo-avisa-Han-perdido-la-calle-y-quieren-incendiarla-2-2937926190--20261025033621.amp.html"
+    },
+    {
+     "nombre": "Público",
+     "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-26",
+   "hora_o_null": null,
+   "titulo": "Collboni anuncia un fondo de 500.000 euros",
+   "texto": "El Ayuntamiento de Barcelona crea un fondo de emergencia para comercios afectados. La consellera Parlon anuncia que pedirá cerrar los grupos de mensajería por vía judicial.",
+   "fuentes": [
+    {
+     "nombre": "Público",
+     "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-26",
+   "hora_o_null": "noche",
+   "titulo": "Incidentes en Bilbao",
+   "texto": "Quema de contenedores y vehículos en Deusto y Abando. La Ertzaintza detiene a 17 personas, 10 menores. El Gobierno Vasco los atribuye a grupos organizados vascos.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/27/los-disturbios-de-bilbao-se-saldan-con-17-detenidos-10-de-ellos-menores-de-edad/"
+    },
+    {
+     "nombre": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/27/altercados-bilbao-gobierno-vasco-ertzaintza-3456600/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-27",
+   "hora_o_null": null,
+   "titulo": "La jueza de guardia prohíbe a detenidos acudir a protestas",
+   "texto": "Un juzgado de Barcelona impone medidas a detenidos adultos, entre ellas no participar en nuevas manifestaciones, y describe la protesta como vacía de contenido y destinada a saquear. La Fiscalía de Menores pide internar a seis adolescentes. Mossos identifican a otras 230 personas en convocatorias posteriores en Granollers, Mataró y Barcelona.",
+   "fuentes": [
+    {
+     "nombre": "Ara (EFE)",
+     "url": "https://en.ara.cat/society/the-justice-system-says-that-blocus-is-protest-empty-of-content-with-the-sole-purpose-of-looting_1_5892284.html"
+    },
+    {
+     "nombre": "Onda Vasca",
+     "url": "https://www.ondavasca.com/los-mossos-identifican-a-otras-230-personas-tras-las-convocatorias-de-blocus/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-27",
+   "hora_o_null": null,
+   "titulo": "Mossos piden ayuda al CITCO para cerrar grupos",
+   "texto": "Los Mossos solicitan al Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (Interior) ayuda para bloquear grupos de Telegram. Telegram ya había cerrado al menos un canal.",
+   "fuentes": [
+    {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/27/los-mossos-piden-ayuda-al-centro-de-inteligencia-contra-el-terrorismo-para-bloquear-los-gr"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-27",
+   "hora_o_null": null,
+   "titulo": "El Govern se personará como acusación particular",
+   "texto": "La portavoz del Govern, Sílvia Paneque, anuncia que la Generalitat se personará en la causa por los disturbios de Barcelona y plantea regular las plataformas para evitar la impunidad.",
+   "fuentes": [
+    {
+     "nombre": "Diari de Tarragona / ACN (27 oct)",
+     "url": "https://www.diaridetarragona.com/catalunya/274141/govern-personara-acusacion-particular-disturbios-sabado-barcelona-blocus.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-28",
+   "hora_o_null": null,
+   "titulo": "Mossos actualizan el balance a 133 detenidos",
+   "texto": "En el Parlament, el director de Mossos avanza más detenciones; el balance sube a 133 detenidos, 85 menores.",
+   "fuentes": [
+    {
+     "nombre": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html"
+    },
+    {
+     "nombre": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/29/disturbios-blocus-barcelona-31-octubre-3457427/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-28",
+   "hora_o_null": null,
+   "titulo": "Detenido en Valencia un menor que creó canales de saqueo",
+   "texto": "La Policía Nacional detiene a un joven de 17 años por crear dos canales para coordinar saqueos en Halloween. La Fiscalía de Menores decreta su internamiento cautelar.",
+   "fuentes": [
+    {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/29/blocus-valencia-detenido-menor-17-anos-organizar-saqueos-halloween"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-28",
+   "hora_o_null": null,
+   "titulo": "Convocatoria sin asistentes en Tarragona",
+   "texto": "Mossos y Guardia Urbana se despliegan en el centro de Tarragona ante una convocatoria con la etiqueta Blocus. No acude nadie y no hay incidentes. El alcalde asegura que no se tolerarán actos vandálicos.",
+   "fuentes": [
+    {
+     "nombre": "Diari de Tarragona (28 oct)",
+     "url": "https://www.diaridetarragona.com/tarragona/274311/mossos-guardia-urbana-despliegan-tarragona-convocatoria-acaba-disturbios.html"
+    },
+    {
+     "nombre": "Diari de Tarragona (28 oct)",
+     "url": "https://www.diaridetarragona.com/tarragona/274199/vinuales-sobre-blocus-permitiremos-actos-vandalicos-atenten-orden-publico.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-29",
+   "hora_o_null": null,
+   "titulo": "Junta Local de Seguridad extraordinaria en Barcelona",
+   "texto": "Collboni y Parlon acuerdan máxima coordinación ante la convocatoria del 31 de octubre. Comercios del centro protegen sus escaparates.",
+   "fuentes": [
+    {
+     "nombre": "Metrópoli Abierta",
+     "url": "https://metropoliabierta.elespanol.com/sucesos/20261030/alerta-barcelona-convocatoria-blocus-sabado-directo-comercios-blindan-posibles-ataques/1003742807609_10.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-29",
+   "hora_o_null": null,
+   "titulo": "Gran despliegue sin incidentes en El Vendrell",
+   "texto": "Decenas de agentes de Mossos y Policía Local vigilan El Vendrell por el temor a una acción de Blocus. Los convocados no aparecen y algunos comercios cierran por precaución.",
+   "fuentes": [
+    {
+     "nombre": "Diari de Tarragona (30 oct)",
+     "url": "https://www.diaridetarragona.com/costa/274495/temor-accion-blocus-vendrell-motiva-espectacular-despliegue-policial.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-30",
+   "hora_o_null": null,
+   "titulo": "Diez detenidos en 24 horas por instigar disturbios",
+   "texto": "Policía Nacional, Guardia Civil y Mossos detienen a diez personas, cuatro menores, en Valencia, Barcelona, Tenerife, Lleida, Bilbao y Málaga. La Guardia Civil detiene en Picanya (Valencia) al presunto fundador de Blocus en España.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+    },
+    {
+     "nombre": "Ministerio del Interior",
+     "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Detenido-en-Picanya-Valencia-el-presunto-fundador-e-impulsor-del-movimiento-Blocus-en-Espana/"
+    },
+    {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/30/detenido-tercer-menor-blocus-canales-saqueos-disturbios-barcelona"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-30",
+   "hora_o_null": null,
+   "titulo": "Mossos activan el nivel máximo de alerta",
+   "texto": "Dispositivo de más de 300 agentes en Barcelona para el 31 de octubre, nivel de riesgo 4.",
+   "fuentes": [
+    {
+     "nombre": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261030/dispositivo-maximos-blocus-mossos-blindan-accesos-barcelona/1003742807638_0.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-30",
+   "hora_o_null": "noche",
+   "titulo": "Tensión en el centro de Palma",
+   "texto": "Tras una convocatoria atribuida a Blocus Mallorca, hay enfrentamientos verbales entre grupos de signo político opuesto. La policía se interpone; Euronews informa de un menor detenido.",
+   "fuentes": [
+    {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/31/noche-disturbios-palma-espana-protestas-halloween-blocus"
+    },
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/10/31/comercios-de-varias-ciudades-se-blindan-en-halloween-por-temor-a-que-las-convocatorias-de-blocus-deriven-en-disturbios-y-saqueos-como-en-barcelona/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora_o_null": "tarde",
+   "titulo": "Prisión provisional para el presunto fundador de Blocus",
+   "texto": "Un juzgado de Torrent envía a prisión provisional sin fianza al joven detenido en Picanya, con prohibición de usar dispositivos y redes sociales en prisión. Un juzgado de Catarroja decide lo mismo para un joven de 18 años detenido en Alfafar, investigado por integración en grupo criminal.",
+   "fuentes": [
+    {
+     "nombre": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    },
+    {
+     "nombre": "EFE vía Infobae",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora_o_null": "tarde",
+   "titulo": "Nuevas detenciones en Cataluña y Valencia",
+   "texto": "Mossos detienen en Cabrera d'Anoia a un joven de 21 años considerado instigador del grupo de saqueos de Barcelona; es el cuarto detenido en Cataluña ligado a los organizadores. En Valencia, un menor es la quinta detención ligada al canal local de Blocus. Un juzgado de menores de Barcelona interna en régimen cerrado a un menor detenido en Sant Sadurní d'Anoia.",
+   "fuentes": [
+    {
+     "nombre": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora_o_null": "noche",
+   "titulo": "La noche de Halloween transcurre sin incidentes relevantes",
+   "texto": "Con grandes dispositivos policiales y muchos comercios cerrados o protegidos, las convocatorias en Madrid, Barcelona, Valencia y Bilbao terminan sin incidentes reseñables. En la provincia de Girona solo se registra la quema de un contenedor en Figueres, con un detenido. En Fuengirola (Málaga) la Policía Nacional detiene a dos jóvenes, uno menor, por alentar saqueos desde un grupo de Blocus.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+    },
+    {
+     "nombre": "Telemadrid (1 nov)",
+     "url": "https://www.telemadrid.es/noticias/sociedad/llamada-blocus-saquear-vandalizar-comercios_1_2786065.html"
+    },
+    {
+     "nombre": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+    },
+    {
+     "nombre": "El Español (1 nov)",
+     "url": "https://www.elespanol.com/espana/20261101/detenidos-jovenes-promover-disturbios-nombre-blocus-malaga-menor-edad/1003744442918_0.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora_o_null": null,
+   "titulo": "Libertad provisional para el detenido en Bilbao",
+   "texto": "El juzgado de guardia de Bilbao deja en libertad provisional sin fianza, con obligación de comparecer, al joven de 20 años detenido como presunto administrador de una cuenta de Blocus. Está investigado por conspiración para desórdenes y delitos contra la propiedad y por pertenencia a grupo organizado.",
+   "fuentes": [
+    {
+     "nombre": "Vozpópuli / agencias (31 oct)",
+     "url": "https://www.vozpopuli.com/espana/libertad-provisional-sin-fianza-para-el-presunto-administrador-de-blocus-en-bilbao.html"
+    },
+    {
+     "nombre": "EITB / Orain (31 oct)",
+     "url": "https://orain.eus/en/current-events/society-and-social-news-now/2026/10/31/provisional-release-without-bail-for-the-man-arrested-in-bilbao-in-connection-with-the-blocus-movement/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-01",
+   "hora_o_null": "mañana",
+   "titulo": "Balance de Mossos: 1.440 identificados y 3 detenidos en Barcelona",
+   "texto": "Mossos cierran el balance de la noche del 31 en Barcelona con 1.440 personas identificadas, 127 actas por objetos peligrosos y 3 detenidos. Las autoridades catalanas elevan después a 2.264 las identificaciones en toda Cataluña. En Valencia, la Policía Nacional suma 22 detenidos en el operativo general de Halloween, no todos ligados a Blocus.",
+   "fuentes": [
+    {
+     "nombre": "CatalunyaPress (balance de Mossos, 1 nov)",
+     "url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona"
+    },
+    {
+     "nombre": "Euronews (1 nov)",
+     "url": "https://es.euronews.com/2026/11/01/blocus-halloween-espana-despliegue-policial-detenidos-barcelona-valencia"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-01",
+   "hora_o_null": "tarde",
+   "titulo": "Prisión provisional para un joven de 18 años en Barcelona",
+   "texto": "El Juzgado de Instrucción 14 de Barcelona envía a prisión provisional sin fianza a un joven detenido el 30 de octubre, señalado como ideólogo del grupo de Blocus en la ciudad. El juez ve indicios de conspiración para cometer desórdenes y de pertenencia a grupo criminal. Es el primero de los cuatro detenidos en Cataluña que entra en prisión, y el tercero en España.",
+   "fuentes": [
+    {
+     "nombre": "Públic / ACN (1 nov)",
+     "url": "https://www.diaripublic.cat/societat/preso-provisional-sense-fianca-per-dels-detinguts-com-ideoleg-blocus-barcelona.html"
+    },
+    {
+     "nombre": "3CatInfo (1 nov)",
+     "url": "https://www.3cat.cat/3catinfo/preso-sense-fianca-per-al-jove-de-18-anys-detingut-a-barcelona-per-vincles-amb-blocus/noticia/3437235/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-01",
+   "hora_o_null": null,
+   "titulo": "Libertad para un menor detenido en Valencia",
+   "texto": "La Fiscalía de Menores deja en libertad a un chico de 16 años detenido el 31 de octubre en Valencia, señalado por la Policía Nacional como quien difundió los carteles con código QR hacia el grupo local.",
+   "fuentes": [
+    {
+     "nombre": "Vozpópuli (Valencia, 1 nov)",
+     "url": "https://www.vozpopuli.com/espana/la-fiscalia-de-menores-deja-en-libertad-al-joven-de-16-anos-detenido-por-su-relacion-con-el-movimiento-blocus-en-valencia.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora_o_null": null,
+   "titulo": "Prisión para el detenido en Cabrera d'Anoia y dos menores detenidas",
+   "texto": "El Juzgado de Instrucción 20 de Barcelona envía a prisión provisional sin fianza al joven de 21 años detenido en Cabrera d'Anoia; es el cuarto encarcelado en España. Mossos, con la Policía Nacional, detienen a dos menores de 14 y 17 años en el Maresme y el Bages por administrar grupos que alentaron los saqueos del 24 de octubre; quedan en libertad vigilada.",
+   "fuentes": [
+    {
+     "nombre": "Demócrata / agencias (2 nov)",
+     "url": "https://www.democrata.es/en/courts/the-arrested-man-in-cabrera-d-anoia-is-sent-to-provisional-prison-for-his-alleged-link-with-blocus/"
+    },
+    {
+     "nombre": "Última Hora / Europa Press (2 nov)",
+     "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/02/2741735/detenidos-dos-menores-por-presuntamente-promover-saqueos-barcelona-canales-blocus.html"
+    },
+    {
+     "nombre": "El Debate (4 nov)",
+     "url": "https://www.eldebate.com/espana/cataluna/20261104/detenida-otra-joven-vinculada-blocus-coordinar-saqueos-barcelona-traves-whatsapp_477134.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora_o_null": null,
+   "titulo": "Balance judicial de los menores del 24 de octubre",
+   "texto": "Según Ara, 79 menores han pasado ante el juez: 5 internados, 72 en libertad vigilada y 2 sin medidas. El president Illa pide a los servicios jurídicos estudiar acciones contra las plataformas.",
+   "fuentes": [
+    {
+     "nombre": "Ara (2 nov)",
+     "url": "https://en.ara.cat/society/only-two-of-the-79-minors-arrested-for-the-riots-in-barcelona-remain-without-precautionary-measures_1_5897718.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora_o_null": null,
+   "titulo": "Detenida una joven de 18 años por coordinar grupos de WhatsApp",
+   "texto": "La Policía Nacional y Mossos detienen a una joven señalada como administradora de varios grupos usados para movilizar a participantes en los saqueos de Barcelona, a los que se accedía con códigos QR difundidos en TikTok.",
+   "fuentes": [
+    {
+     "nombre": "El Debate (4 nov)",
+     "url": "https://www.eldebate.com/espana/cataluna/20261104/detenida-otra-joven-vinculada-blocus-coordinar-saqueos-barcelona-traves-whatsapp_477134.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora_o_null": null,
+   "titulo": "Parlon pide analizar Blocus más allá de la policía",
+   "texto": "En el Parlament, la consellera de Interior defiende el dispositivo del 31 de octubre, pide un análisis social y educativo del fenómeno y acusa al PP de usarlo con fines electorales.",
+   "fuentes": [
+    {
+     "nombre": "VilaWeb / ACN (4 nov)",
+     "url": "https://vilaweb.cat/noticies/parlon-demana-analitzar-fons-fenomen-blocus-mes-enlla-resposta-policial"
+    },
+    {
+     "nombre": "Demócrata / agencias (Parlament, 4 nov)",
+     "url": "https://www.democrata.es/en/catalunya/let-s-talk-parlon-backs-the-operation-against-blocus-and-accuses-the-pp-of-using-it-for-electoral-purposes/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora_o_null": null,
+   "titulo": "Un informe privado habla de nuevas convocatorias en noviembre",
+   "texto": "Moncloa.com publica un informe de la consultora Golden Owl: Telegram cerró cinco grupos de Barcelona y TikTok siete cuentas organizadoras, pero surgieron sustitutos. Señala convocatorias para el 11 (Alcorcón), 20 (europea), 21 (Sevilla) y 30 de noviembre (estatal), sin confirmación policial.",
+   "fuentes": [
+    {
+     "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora_o_null": null,
+   "titulo": "Terrassa cierra sin incidentes sus tres convocatorias",
+   "texto": "El Ayuntamiento de Terrassa informa de que las convocatorias del 30 y 31 de octubre y del 2 de noviembre pasaron sin incidentes, con 174 personas identificadas y sin detenidos.",
+   "fuentes": [
+    {
+     "nombre": "Canal Terrassa (balance del Ayuntamiento, 4 nov)",
+     "url": "https://canalterrassa.cat/loperatiu-preventiu-sobre-blocus-acaba-amb-174-persones-identificades-pero-sense-incidents"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora_o_null": null,
+   "titulo": "Detenidos dos menores de 15 años en Lleida",
+   "texto": "La Policía Nacional detiene en Lleida a dos chicos de 15 años acusados de gestionar grupos y canales desde los que se animó a los disturbios del 24 de octubre en Barcelona. Con ellos, son nueve los detenidos en Cataluña por instigar los altercados, seis menores, según Crónica Global.",
+   "fuentes": [
+    {
+     "nombre": "Crónica Global (Lleida, 5 nov)",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261105/detenidos-menores-lleida-vinculacion-disturbios-blocus-total/1003742809450_0.html"
+    },
+    {
+     "nombre": "El Nacional (Lleida, 5 nov)",
+     "url": "https://www.elnacional.cat/es/sociedad/detenidos-lleida-menores-anos-instigar-disturbios-blocus-barcelona-octubre_1721162_102.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora_o_null": null,
+   "titulo": "Cuatro menores detenidos en Palma",
+   "texto": "La Policía Nacional detiene en Palma a cuatro menores señalados como integrantes de Blocus, acusados de tener material para artefactos incendiarios, desórdenes públicos y organización criminal. La Fiscalía de Menores lleva el caso.",
+   "fuentes": [
+    {
+     "nombre": "Última Hora (Palma, 5 nov)",
+     "url": "https://www.ultimahora.es/noticias/local/2026/11/05/2744033/policia-nacional-detiene-cuatro-integrantes-blocus-palma-les-acusa-tenencia-artefactos-incendiarios.html"
+    },
+    {
+     "nombre": "Ara Balears (5 nov)",
+     "url": "https://en.arabalears.cat/society/four-arrested-from-blocus-for-riots-and-looting-in-palma_1_5901593.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora_o_null": null,
+   "titulo": "La Policía Nacional eleva a 18 sus detenidos en siete ciudades",
+   "texto": "Un comunicado de la Policía Nacional cifra en 18 los detenidos en una semana por actividades ligadas a Blocus: Palma 4, Málaga 4, Valencia 3, Barcelona 3, Lleida 2, Bilbao 1 y Sevilla 1. Trece son menores. La policía no descarta más detenciones.",
+   "fuentes": [
+    {
+     "nombre": "Europa Press vía Infobae (balance de la Policía Nacional, 5 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/05/el-balance-de-detenidos-por-actividades-relacionadas-con-blocus-asciende-a-18-en-siete-ciudades-la-mayoria-menores/"
+    },
+    {
+     "nombre": "Área Costa del Sol (5 nov)",
+     "url": "https://www.areacostadelsol.com/malaga/saqueos-disturbios-armas-cuatro-detenidos-malaga-presunta-implicacion-blocus/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-06",
+   "hora_o_null": null,
+   "titulo": "Mossos detienen a otro menor en el Vallès Occidental",
+   "texto": "Los Mossos detienen a un menor acusado de difundir y coordinar la convocatoria del 24 de octubre en Barcelona desde un perfil de TikTok y grupos de mensajería. Le atribuyen desórdenes públicos y pertenencia a grupo criminal. Con él son diez los detenidos en Cataluña por organizar los disturbios, siete de ellos menores.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (comunicado de Mossos, 6 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/06/los-mossos-detienen-en-barcelona-a-otro-menor-por-alentar-las-protestas-de-blocus/"
+    },
+    {
+     "nombre": "Crónica Global (6 nov)",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261106/detenido-participacion-difusion-coordinacion-convocatoria-blocus-barcelona/1003742809787_0.html"
+    },
+    {
+     "nombre": "Moncloa.com (comunicado de Mossos, 8 nov)",
+     "url": "https://www.moncloa.com/2026/11/08/detencion-menor-disturbios-blocus-barcelona-3463876/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora_o_null": null,
+   "titulo": "Nueva convocatoria en Madrid, sin detenidos",
+   "texto": "Según OKDiario, que cita fuentes policiales, la Policía Nacional frena una convocatoria en el centro de Madrid, identifica a unos 200 jóvenes y requisa objetos peligrosos; no hay detenidos. No hay balance oficial publicado.",
+   "fuentes": [
+    {
+     "nombre": "OKDiario (8 nov, fuentes policiales)",
+     "url": "https://okdiario.com/sucesos/policia-impide-nuevos-saqueos-blocus-madrid-este-sabado-hay-200-identificados-20725339"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-09",
+   "hora_o_null": null,
+   "titulo": "Mossos dan por debilitado a Blocus ante la huelga del 11N",
+   "texto": "Según Ara, los Mossos creen que Blocus ya no tiene fuerza tras la detención de diez agitadores en una semana y no prevén que afecte a la huelga general del 11 de noviembre, para la que despliegan más de 9.000 agentes. Ese dispositivo no es específico de Blocus.",
+   "fuentes": [
+    {
+     "nombre": "Ara (9 nov)",
+     "url": "https://es.ara.cat/sociedad/vivienda/mossos-destinan-mitad-agentes-huelga-avisan-sera-dificil-moverse_1_5905459.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "hora_o_null": null,
+   "titulo": "La defensa de un menor internado pide investigar los algoritmos de TikTok",
+   "texto": "Según elDiario.es, la abogada de un menor de 17 años internado como presunto promotor de los disturbios del 24 de octubre pide a la Fiscalía de Menores que investigue cómo TikTok e Instagram difundieron la convocatoria. El juez acordó el internamiento en contra de la propuesta del equipo técnico, que pedía libertad vigilada. El diario cifra en cinco los menores internados en Cataluña por Blocus y en cuatro los adultos en prisión provisional (Valencia y Barcelona).",
+   "fuentes": [
+    {
+     "nombre": "elDiario.es (9-10 nov)",
+     "url": "https://www.eldiario.es/catalunya/menor-internado-blocus-pide-investigar-sistemas-algoritmicos-tiktok-viralizaron-convocatoria_1_13650600.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora_o_null": null,
+   "titulo": "Sin noticias de incidentes en la convocatoria citada para Alcorcón",
+   "texto": "Un informe privado citaba una convocatoria en Alcorcón para el 11 de noviembre. A 14 de noviembre no hay ninguna información publicada sobre concentraciones, dispositivos ni detenciones ligadas a Blocus en esa ciudad. Ese día coincidió con la huelga general; los disturbios de esa noche en Barcelona se tratan en la entrada siguiente.",
+   "fuentes": [
+    {
+     "nombre": "Moncloa.com (4 nov, informe privado)",
+     "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "hora_o_null": null,
+   "titulo": "Disturbios en Barcelona tras la manifestación de la huelga general",
+   "texto": "Tras desconvocarse la manifestación de la huelga general hubo cargas, pirotecnia contra los agentes, contenedores quemados y daños en entre seis y diez comercios, según el alcalde Jaume Collboni. Mossos detuvieron a 52 personas (6 menores, según Ara) y 36 agentes resultaron heridos. Las fuentes no atribuyen estos hechos a Blocus.",
+   "fuentes": [
+    {
+     "nombre": "Ara (11-12 nov)",
+     "url": "https://es.ara.cat/sociedad/noche-vandalismo-disturbios-despues-manifestacion_1_5907813.html"
+    },
+    {
+     "nombre": "Catalan News / ACN (11 nov)",
+     "url": "https://www.catalannews.com/society-science/item/disturbances-in-barcelona-city-centre-following-the-end-of-the-general-strike-march"
+    },
+    {
+     "nombre": "Ara (12 nov)",
+     "url": "https://es.ara.cat/sociedad/mossos-atribuyen-disturbios-movimientos-radicales-antisistema-desvinculan-blocus_1_5907956.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-12",
+   "hora_o_null": null,
+   "titulo": "Interior desvincula de Blocus los disturbios del 11N",
+   "texto": "La consellera Núria Parlon dice que los detenidos no tienen relación con Blocus; los Mossos atribuyen los hechos a grupos radicales antisistema. Según Ara, la policía catalana cree que Blocus está prácticamente desarticulado. EFE informa de que dos de los detenidos ya lo habían sido por el 24 de octubre; Ara habla de uno y lo considera residual.",
+   "fuentes": [
+    {
+     "nombre": "Ara (12 nov)",
+     "url": "https://es.ara.cat/sociedad/mossos-atribuyen-disturbios-movimientos-radicales-antisistema-desvinculan-blocus_1_5907956.html"
+    },
+    {
+     "nombre": "EFE vía Infobae (12 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/12/fiscalia-pide-carcel-a-6-detenidos-por-los-disturbios-de-barcelona-e-internar-a-un-menor/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-12",
+   "hora_o_null": null,
+   "titulo": "La Fiscalía pide internar a un menor ya detenido por Blocus",
+   "texto": "Según EFE, la Fiscalía de Barcelona pide el internamiento de un menor detenido antes por Blocus que estaba entre los arrestados el 11 de noviembre, por incumplir la prohibición de acudir a manifestaciones. Para el resto de detenidos del 11N pide prisión para seis adultos y otras medidas para el resto.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (12 nov)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/12/fiscalia-pide-carcel-a-6-detenidos-por-los-disturbios-de-barcelona-e-internar-a-un-menor/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-13",
+   "hora_o_null": null,
+   "titulo": "Detenido en Castellón un cuarto miembro de «Blocus Vlc»",
+   "texto": "La Policía Nacional detuvo en la provincia de Castellón a un menor de 16 años, el cuarto miembro detenido del grupo que llamó a saquear comercios del centro de Valencia el 31 de octubre. Se le acusa de conspiración para desórdenes públicos y contra el patrimonio y de pertenencia a grupo organizado, y pasa a disposición de la Fiscalía de Menores.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía elDiario.es (13 nov)",
+     "url": "https://www.eldiario.es/comunitat-valenciana/detenido-castellon-cuarto-miembro-blocus-vlc-menor-16-anos_1_13662746.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-14",
+   "hora_o_null": null,
+   "titulo": "La seguridad privada explica su papel durante las alertas",
+   "texto": "Según Crónica Global, la patronal catalana de seguridad privada (ACAES) explica que durante las alertas por Blocus los Mossos informaron de forma continua a los vigilantes y que las centrales de alarmas tuvieron un teléfono directo para incidencias. El sector pide una nueva ley de seguridad privada.",
+   "fuentes": [
+    {
+     "nombre": "Crónica Global (14 nov)",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261114/patronal-seguridad-privada-reivindica-blocus-grandes-desconocidos/1003742810479_0.html"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-15",
+   "hora_o_null": null,
+   "titulo": "Un informe de Mossos describe cómo se planificaron los saqueos del 24 de octubre",
+   "texto": "Según EFE, que ha tenido acceso al informe enviado al juzgado que investiga a los impulsores, los chats de la convocatoria se dividieron en subgrupos temáticos (ropa, joyerías y otros) en los que se elegían comercios como objetivo, sobre todo joyerías, tiendas de lujo y de tecnología. Para Mossos, la finalidad principal no era protestar sino aprovechar la concentración para robar. La mayoría de esos canales ya no están activos y, según la policía catalana, Blocus apenas da señales en redes desde el 31 de octubre. Según 20minutos, que publica la misma información, Mossos detectaron el grupo de WhatsApp el 21 de octubre, y en los chats también se habló de cómo esquivar los controles policiales, cómo desplazarse y dónde guardar lo robado.",
+   "fuentes": [
+    {
+     "nombre": "EFE vía Infobae (15 nov)",
+     "url": "https://infobae.com/espana/agencias/2026/11/15/vestimenta-o-joyerias-los-subgrupos-de-blocus-para-planificar-el-pillaje-en-barcelona"
+    },
+    {
+     "nombre": "20minutos vía Headtopics (15 nov)",
+     "url": "https://es.headtopics.com/news/los-mossos-desmontan-una-red-digital-para-organizar-saqueos-89875100"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "hora_o_null": null,
+   "titulo": "La Policía Nacional identifica al presunto responsable de «Blocus Sevilla»",
+   "texto": "Según la Policía Nacional, recogida por medios locales, un joven creó y coordinaba un grupo de cerca de cien miembros que preparaba saqueos y daños en Sevilla coincidiendo con un gran evento deportivo; 101TV, citando fuentes policiales, lo sitúa en el derbi del 21 de noviembre. Se han cerrado los perfiles del grupo y la investigación sigue abierta. No se ha comunicado ninguna detención. Canal Sur y Muchodeporte confirman estos datos; según este último, la Policía no descarta nuevas actuaciones.",
+   "fuentes": [
+    {
+     "nombre": "101TV Sevilla (16 nov)",
+     "url": "https://www.101tv.es/sevilla/identificado-el-lider-de-blocus-sevilla-el-grupo-que-planeaba-saqueos-masivos-durante-el-gran-derbi/"
+    },
+    {
+     "nombre": "H50 Digital Policial (16 nov)",
+     "url": "https://www.h50.es/la-policia-nacional-desenmascara-al-presunto-cerebro-de-blocus-sevilla/"
+    },
+    {
+     "nombre": "Libertad Digital (16 nov)",
+     "url": "https://libertaddigital.com/andalucia/2026-11-16/la-policia-nacional-desarticula-blocus-sevilla-antes-de-perpetrar-saqueos-masivos-7492059"
+    },
+    {
+     "nombre": "Canal Sur (17 nov)",
+     "url": "https://www.canalsur.es/noticias/andalucia/sevilla/blocus-preparaba-actos-vandalicos-robos_1_1453308.html"
+    },
+    {
+     "nombre": "Muchodeporte (16 nov)",
+     "url": "https://www.muchodeporte.com/sevilla-fc/identificado-el-cerebro-de-blocus-sevilla-que-preparaba-saqueos-durante-el-derbi"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
+   "hora_o_null": null,
+   "titulo": "Un detenido más en Bizkaia por los incidentes de Bilbao del 26 de octubre",
+   "texto": "La Ertzaintza detuvo en Arrigorriaga a un joven de 19 años por desórdenes públicos durante los incidentes del 26 de octubre en Bilbao, e investiga a un hombre de 28 años por daños y amenazas. La nota no menciona a Blocus ni actualiza el balance total de detenidos.",
+   "fuentes": [
+    {
+     "nombre": "Orain/EITB (balance de la Ertzaintza, 17 nov)",
+     "url": "https://orain.eus/en/current-events/society-and-social-news-now/2026/11/17/one-man-has-been-arrested-in-arrigorriaga-and-another-investigated-in-bilbao-for-incidents-in-the-byzantine-capital-on-26-october/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-19",
+   "hora_o_null": null,
+   "titulo": "La Guardia Civil detiene a dos jóvenes del entorno del presunto fundador",
+   "texto": "La Guardia Civil informó de la detención en Valencia de dos jóvenes de 19 y 20 años a los que considera parte del círculo más cercano del presunto fundador de Blocus, detenido el 30 de octubre. Según la nota, uno habría dirigido un grupo para coordinar convocatorias y el otro tenía funciones de seguridad; también se les atribuye ocultar la identidad de los responsables y borrar mensajes. Según la Guardia Civil, uno de ellos difundía enlaces que simulaban llevar a vídeos de una red social y que, al abrirlos, activaban la cámara del móvil y enviaban una foto del usuario sin que lo supiera; no se ha explicado cómo funcionaba ni a cuántas personas afectó. La Guardia Civil añade que, desde la detención del fundador, Blocus no ha llevado a cabo ninguna de las movilizaciones violentas que tenía convocadas. No se han detallado los delitos ni las medidas judiciales. La investigación sigue abierta.",
+   "fuentes": [
+    {
+     "nombre": "Guardia Civil (nota, 19 nov)",
+     "url": "https://web.guardiacivil.es/es/destacados/noticias/Detenidos-en-Valencia-dos-presuntos-dirigentes-de-la-red-que-sostenia-al-movimiento-violento-Blocus-en-Espana/"
+    },
+    {
+     "nombre": "Europa Press vía Libertad Digital (19 nov)",
+     "url": "https://www.libertaddigital.com/espana/2026-11-19/detenidos-dos-jovenes-vinculados-a-blocus-coordinaban-saqueos-y-ocultaban-a-sus-responsables-7494371/"
+    },
+    {
+     "nombre": "El Constitucional (19 nov)",
+     "url": "https://www.elconstitucional.es/es/masquesucesos/sucesos/detenidos-en-valencia-dos-jovenes-presuntamente-vinculados-circulo-mas-cercano-fundador-blocus-en-espana_10367_102.html"
+    },
+    {
+     "nombre": "Europa Press TV (19 nov)",
+     "url": "https://www.europapress.tv/sucesos/1135316/1/detenidos-valencia-dos-presuntos-dirigentes-red-sostenia-blocus"
+    },
+    {
+     "nombre": "EFE vía Infobae (19 nov)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/detenidos-dos-supuestos-dirigentes-de-la-red-que-sostenia-blocus-en-espana/"
+    },
+    {
+     "nombre": "Estrella Digital (nota de la Guardia Civil, 19 nov)",
+     "url": "https://www.estrelladigital.es/sociedad/sucesos/detenidos-dos-presuntos-dirigentes-blocus-usaban-enlaces-falsos-activar-camaras-moviles/20261119114629453602.html"
+    },
+    {
+     "nombre": "Moncloa.com (20 nov)",
+     "url": "https://www.moncloa.com/2026/11/20/detenidos-plataforma-blocus-valencia-3471469"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-19",
+   "hora_o_null": null,
+   "titulo": "Presentado el dispositivo de seguridad del derbi de Sevilla",
+   "texto": "La Subdelegación del Gobierno en Sevilla anunció 400 policías nacionales y 373 vigilantes privados para el derbi Sevilla-Betis del 21 de noviembre, declarado de alto riesgo, con lleno previsto. La nota no menciona a Blocus, aunque la Policía Nacional había vinculado días antes un grupo de Blocus en Sevilla a un gran evento deportivo.",
+   "fuentes": [
+    {
+     "nombre": "Europa Press vía Infobae (Subdelegación del Gobierno en Sevilla, 19 nov)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/400-agentes-de-policia-nacional-y-373-vigilantes-privados-velaran-por-la-seguridad-en-el-derbi-sevilla-betis/"
+    },
+    {
+     "nombre": "MundoBetis (19 nov)",
+     "url": "https://mundobetis.com/2026/11/19/lleno-previsto-en-nervion-y-cerca-de-mil-personas-en-el-operativo-del-derbi/"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-21",
+   "hora_o_null": null,
+   "titulo": "El derbi de Sevilla se juega sin saqueos conocidos ligados a Blocus",
+   "texto": "El Sevilla-Betis, declarado de alto riesgo y con el que la Policía Nacional había relacionado un grupo de Blocus ya desactivado, se jugó el 21 de noviembre y terminó en empate. La Policía Nacional mantiene abierta la investigación sobre «Blocus Sevilla» y no descarta nuevas actuaciones, según La Voz del Sur. A primera hora del 22 de noviembre no hay balance policial publicado ni noticias de saqueos relacionados con Blocus. El mismo día Vox celebró en Sevilla un acto de la campaña de las elecciones generales del 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "La Voz del Sur (21 nov)",
+     "url": "https://www.lavozdelsur.es/ediciones/sevilla/sevilla-se-blinda-ante-el-gran-derbi-y-el-mitin-de-abascal-tras-desmantelar-blocus-horario-de-los-cortes-y-autobuses-de-refuerzo.html"
+    },
+    {
+     "nombre": "COPE (crónica del derbi, 21 nov)",
+     "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-sevilla-betis-jornada-13-primera-division-21-20261121_3479673.html"
+    }
+   ]
+  }
+ ],
+ "precedentes": [
+  {
+   "nombre": "Protestas por el encarcelamiento de Pablo Hasél",
+   "lugar": "Barcelona y otras ciudades",
+   "fecha": "2021-02",
+   "texto": "Disturbios durante varias noches tras la entrada en prisión del rapero. Mossos lo usan como referencia: fue la única vez anterior en que activaron el nivel de riesgo 4.",
+   "cifras": "Mossos citan 17 menores detenidos entonces, frente a más de 80 ahora",
+   "fuentes": [
+    {
+     "nombre": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Protests_against_the_imprisonment_of_Pablo_Has%C3%A9l"
+    },
+    {
+     "nombre": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261030/dispositivo-maximos-blocus-mossos-blindan-accesos-barcelona/1003742807638_0.html"
+    }
+   ]
+  },
+  {
+   "nombre": "Disturbios en Francia tras la muerte de Nahel M.",
+   "lugar": "Francia",
+   "fecha": "2023-06",
+   "texto": "Fuentes policiales citadas por EFE hablan de un posible efecto espejo de las protestas francesas, convocadas también en buena parte por redes sociales.",
+   "cifras": null,
+   "fuentes": [
+    {
+     "nombre": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_French_riots"
+    },
+    {
+     "nombre": "EFE vía Infobae",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+    }
+   ]
+  }
+ ],
+ "investigacion_general": [
+  {
+   "texto": "Las convocatorias empiezan en cuentas abiertas de TikTok que llevan a grupos cerrados de Telegram y WhatsApp; Maldita ve indicios de coordinación entre cuentas, pero no un mando único demostrado.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/investigaciones/20261026/convocatoria-fallida-madrid-cuentas-tiktok-blocus-espana/"
+   }
+  },
+  {
+   "texto": "Maldita identifica convocatorias para el 31 de octubre en 46 ciudades de al menos 9 países europeos, aunque no todas son de Blocus ni todas llaman a saquear.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa/"
+   }
+  },
+  {
+   "texto": "Fuentes policiales citadas por EFE no ven, por ahora, ninguna ideología ni organización extremista detrás de Blocus.",
+   "fuente": {
+    "nombre": "EFE vía Infobae",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+   }
+  },
+  {
+   "texto": "La comisaria jefa de Mossos describe un fenómeno nuevo de violencia juvenil y señala que la convocatoria del 31 de octubre en Barcelona la impulsa un actor externo aún sin identificar.",
+   "fuente": {
+    "nombre": "Crónica Global",
+    "url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html"
+   }
+  },
+  {
+   "texto": "No está demostrado que la red responda a una operación dirigida desde el extranjero, según el informe de Golden Owl recogido por Moncloa.com.",
+   "fuente": {
+    "nombre": "Moncloa.com",
+    "url": "https://www.moncloa.com/2026/10/28/blocus-red-disturbios-espana-3456469/"
+   }
+  },
+  {
+   "texto": "La Guardia Civil investiga al presunto fundador por organización criminal dedicada a incitar desórdenes públicos, robos con fuerza en comercios y daños; según Telemadrid, le atribuye la intención de dirigir los saqueos en tiempo real.",
+   "fuente": {
+    "nombre": "Telemadrid",
+    "url": "https://www.telemadrid.es/noticias/sociedad/llamada-blocus-saquear-vandalizar-comercios_1_2786065.html"
+   }
+  },
+  {
+   "texto": "Según Mossos, las convocatorias posteriores al 24 de octubre se difundieron con carteles hechos con inteligencia artificial.",
+   "fuente": {
+    "nombre": "Onda Vasca",
+    "url": "https://www.ondavasca.com/los-mossos-identifican-a-otras-230-personas-tras-las-convocatorias-de-blocus/"
+   }
+  },
+  {
+   "texto": "Según elDiario.es, la Guardia Civil identificó las direcciones IP de las cuentas con las que el presunto fundador creó los grupos de Telegram; habría usado IA para los carteles y creado grupos privados en Signal, con un núcleo cerrado que incluía al menos a un menor.",
+   "fuente": {
+    "nombre": "elDiario.es (Valencia, 3 nov)",
+    "url": "https://www.eldiario.es/comunitat-valenciana/lider-blocus-capto-menor-nucleo-cerrado-enfrenta-delitos-organizacion-criminal-robos-fuerza_1_13635153.html"
+   }
+  },
+  {
+   "texto": "El informe de Golden Owl (corte a 30 de octubre) detecta 21 cuentas nuevas o renombradas con la marca Blocus en 15 localidades entre el 25 y el 29 de octubre, y carteles hechos con las mismas plantillas. Advierte de que no pudo entrar en los grupos privados y de que algunas cuentas pueden ser imitadoras.",
+   "fuente": {
+    "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+    "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+   }
+  },
+  {
+   "texto": "Mossos explicaron en el Parlament que valoran el riesgo de una convocatoria con cinco indicadores generales: quién la promueve y su historial, lo concreta que es, el crecimiento de seguidores del canal, la posibilidad de choques con contraconvocatorias y los llamamientos explícitos a la violencia.",
+   "fuente": {
+    "nombre": "Crónica Global (indicadores de Mossos, 6 nov)",
+    "url": "https://cronicaglobal.elespanol.com/vida/20261106/indicadores-utilizaron-mossos-detectar-convocatorias-blocus/1003742809132_0.html"
+   }
+  },
+  {
+   "texto": "Mossos investigan los disturbios tras una protesta estudiantil en Manresa el 21 de octubre: 14 detenidos (13 menores) y dos niños de 12 y 13 años identificados pero inimputables. Uno de los menores fue detenido de nuevo en los saqueos de Barcelona del 24 de octubre e internado en un centro. La investigación sigue abierta. No se ha establecido que Blocus convocara esa protesta.",
+   "fuente": {
+    "nombre": "Ara (5 nov)",
+    "url": "https://es.ara.cat/sociedad/sucesos/catorce-detenidos-protesta-estudiantil-manresa-dias-saqueos-blocus_1_5901032.html"
+   }
+  },
+  {
+   "texto": "Un informe de la Comisaría General de Información de Mossos, remitido al juzgado, describe los chats de la convocatoria del 24 de octubre como un espacio de coordinación para el pillaje: antes de esa fecha se compartió información sobre comercios objetivo y sobre el dispositivo policial. Un agente pudo acceder a uno de los grupos, que era público, y extraer su contenido. Según 20minutos (15 nov), el grupo se detectó el 21 de octubre, un día después de crearse.",
+   "fuente": {
+    "nombre": "EFE vía Infobae (15 nov)",
+    "url": "https://infobae.com/espana/agencias/2026/11/15/vestimenta-o-joyerias-los-subgrupos-de-blocus-para-planificar-el-pillaje-en-barcelona"
+   }
+  }
+ ],
+ "reacciones": [
+  {
+   "quien": "Pedro Sánchez",
+   "cargo_o_partido": "Presidente del Gobierno (PSOE)",
+   "resumen": "Calificó los hechos de vandalismo instigado desde las redes y pidió que los responsables respondan ante la Justicia.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Mundiario",
+    "url": "https://www.mundiario.com/politica/moncloa-culpa-extrema-derecha-caos-barcelona-violencia-caldea-29-n/20261027080436449235.html"
+   }
+  },
+  {
+   "quien": "Elma Saiz",
+   "cargo_o_partido": "Portavoz del Gobierno (PSOE)",
+   "resumen": "Planteó que quien sale ganando con el caos es la extrema derecha, sin atribuir la organización a ningún partido.",
+   "fecha": "2026-10-26",
+   "fuente": {
+    "nombre": "Público",
+    "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+   }
+  },
+  {
+   "quien": "Alberto Núñez Feijóo",
+   "cargo_o_partido": "Presidente del PP",
+   "resumen": "Acusó a Sánchez de jugar con fuego y dijo que la izquierda ha perdido la calle y quiere incendiarla. Público señala que lo vinculó sin pruebas. El 31 de octubre lo describió como un nuevo intento de intimidación de la izquierda violenta y prometió orden y seguridad, según Público.",
+   "fecha": "2026-10-25",
+   "fuente": {
+    "nombre": "Telemadrid",
+    "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Sanchez-calla-ante-los-disturbios-de-Barcelona-y-Feijoo-avisa-Han-perdido-la-calle-y-quieren-incendiarla-2-2937926190--20261025033621.amp.html"
+   }
+  },
+  {
+   "quien": "Miguel Tellado",
+   "cargo_o_partido": "Secretario general del PP",
+   "resumen": "Acusó al Gobierno de pasividad y a la extrema izquierda de estar detrás.",
+   "fecha": "2026-10-26",
+   "fuente": {
+    "nombre": "Mundiario",
+    "url": "https://www.mundiario.com/politica/moncloa-culpa-extrema-derecha-caos-barcelona-violencia-caldea-29-n/20261027080436449235.html"
+   }
+  },
+  {
+   "quien": "Juanma Moreno",
+   "cargo_o_partido": "Presidente de la Junta de Andalucía (PP)",
+   "resumen": "Mostró preocupación por posibles protestas violentas en Andalucía y lo calificó de delincuencia.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Canal Sur",
+    "url": "https://www.canalsur.es/noticias/espana/graves-disturbios-bilbao-20-detenidos_1_1447154.html"
+   }
+  },
+  {
+   "quien": "Santiago Abascal",
+   "cargo_o_partido": "Presidente de Vox",
+   "resumen": "Dijo que Vox llevaba tiempo avisando de que lo ocurrido en Francia o Italia llegaría a España; Vox pide expulsar a detenidos de origen extranjero. El 31 de octubre habló de «las hordas de Sánchez» y prometió ley, orden y deportaciones, según Público.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Mundiario",
+    "url": "https://www.mundiario.com/politica/moncloa-culpa-extrema-derecha-caos-barcelona-violencia-caldea-29-n/20261027080436449235.html"
+   }
+  },
+  {
+   "quien": "Ignacio Garriga",
+   "cargo_o_partido": "Secretario general de Vox en Cataluña",
+   "resumen": "Responsabilizó a Illa y a Sánchez y atribuyó los saqueos a jóvenes de origen extranjero.",
+   "fecha": "2026-10-25",
+   "fuente": {
+    "nombre": "Público",
+    "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+   }
+  },
+  {
+   "quien": "Salvador Illa",
+   "cargo_o_partido": "President de la Generalitat (PSC)",
+   "resumen": "El 25 de octubre afirmó que la violencia no tiene cabida en Cataluña. El 31, tras la cuarta detención en Cataluña, insistió en que no habrá impunidad y agradeció el trabajo de Mossos. El 2 de noviembre pidió a los servicios jurídicos estudiar acciones para exigir responsabilidades a las plataformas y a sus directivos.",
+   "fecha": "2026-11-02",
+   "fuente": {
+    "nombre": "Ara (2 nov)",
+    "url": "https://en.ara.cat/society/only-two-of-the-79-minors-arrested-for-the-riots-in-barcelona-remain-without-precautionary-measures_1_5897718.html"
+   }
+  },
+  {
+   "quien": "Núria Parlon",
+   "cargo_o_partido": "Consellera de Interior de la Generalitat (PSC)",
+   "resumen": "Dijo que no hubo reivindicación social sino delincuencia y pidió implicación a las familias. Tras el 31 de octubre afirmó que se logró evitar nuevos disturbios y respondió a la CUP que los controles se ajustaron a los perfiles de los organizadores. El 4 de noviembre, en el Parlament, pidió un análisis social y educativo del fenómeno y acusó al PP de usarlo con fines electorales.",
+   "fecha": "2026-11-04",
+   "fuente": {
+    "nombre": "Demócrata / agencias (Parlament, 4 nov)",
+    "url": "https://www.democrata.es/en/catalunya/let-s-talk-parlon-backs-the-operation-against-blocus-and-accuses-the-pp-of-using-it-for-electoral-purposes/"
+   }
+  },
+  {
+   "quien": "Jaume Collboni",
+   "cargo_o_partido": "Alcalde de Barcelona (PSC)",
+   "resumen": "El 26 de octubre anunció tolerancia cero y un fondo para comercios, y rechazó que la izquierda promoviera los disturbios. El 31 habló de una jornada tranquila gracias al trabajo de los cuerpos de seguridad.",
+   "fecha": "2026-10-31",
+   "fuente": {
+    "nombre": "EFE vía Infobae",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+   }
+  },
+  {
+   "quien": "Míriam Nogueras",
+   "cargo_o_partido": "Portavoz de Junts en el Congreso",
+   "resumen": "Dio 48 horas al Govern para dar explicaciones y reclamó ceses.",
+   "fecha": "2026-10-26",
+   "fuente": {
+    "nombre": "Público",
+    "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+   }
+  },
+  {
+   "quien": "Isaac Albert",
+   "cargo_o_partido": "Portavoz de ERC",
+   "resumen": "Dijo que Generalitat y Ayuntamiento no estuvieron a la altura, que estos hechos benefician a la extrema derecha y pidió la comparecencia de Parlon.",
+   "fecha": "2026-10-26",
+   "fuente": {
+    "nombre": "Público",
+    "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+   }
+  },
+  {
+   "quien": "Sílvia Orriols",
+   "cargo_o_partido": "Presidenta de Aliança Catalana",
+   "resumen": "Vinculó los saqueos a la inmigración y al llamado islamoizquierdismo.",
+   "fecha": "2026-10-24",
+   "fuente": {
+    "nombre": "Público",
+    "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+   }
+  },
+  {
+   "quien": "Imanol Pradales",
+   "cargo_o_partido": "Lehendakari (PNV)",
+   "resumen": "Condenó los incidentes de Bilbao la misma noche y rechazó a sus autores.",
+   "fecha": "2026-10-26",
+   "fuente": {
+    "nombre": "Moncloa.com",
+    "url": "https://www.moncloa.com/2026/10/27/altercados-bilbao-gobierno-vasco-ertzaintza-3456600/"
+   }
+  },
+  {
+   "quien": "Bingen Zupiria",
+   "cargo_o_partido": "Consejero de Seguridad del Gobierno Vasco (PNV)",
+   "resumen": "Atribuyó los incidentes de Bilbao a grupos organizados vascos y pidió pedagogía con los jóvenes.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Moncloa.com",
+    "url": "https://www.moncloa.com/2026/10/27/altercados-bilbao-gobierno-vasco-ertzaintza-3456600/"
+   }
+  },
+  {
+   "quien": "Sílvia Paneque",
+   "cargo_o_partido": "Portavoz del Govern (PSC)",
+   "resumen": "Anunció que la Generalitat será acusación particular, planteó regular las plataformas y calificó de oportunismo las acusaciones del PP. Evitó vincular los hechos con la extrema derecha mientras no acabe la investigación.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Diari de Tarragona / ACN (27 oct)",
+    "url": "https://www.diaridetarragona.com/catalunya/274141/govern-personara-acusacion-particular-disturbios-sabado-barcelona-blocus.html"
+   }
+  },
+  {
+   "quien": "Josep Rius",
+   "cargo_o_partido": "Portavoz de Junts",
+   "resumen": "Pidió la dimisión de la consellera Parlon por los altercados del 24 de octubre.",
+   "fecha": "2026-11-01",
+   "fuente": {
+    "nombre": "Crónica Global (1 nov)",
+    "url": "https://cronicaglobal.elespanol.com/politica/20261101/silencio-operativo-blocus-oposicion-valoraciones-dimision-parlon/1003742808078_0.html"
+   }
+  },
+  {
+   "quien": "CUP",
+   "cargo_o_partido": "Partido (comunicado)",
+   "resumen": "Pidió explicaciones urgentes a Interior y la comparecencia de la consellera, y denunció identificaciones indiscriminadas a jóvenes, también por perfil racial.",
+   "fecha": "2026-10-31",
+   "fuente": {
+    "nombre": "Crónica Global (1 nov)",
+    "url": "https://cronicaglobal.elespanol.com/politica/20261101/silencio-operativo-blocus-oposicion-valoraciones-dimision-parlon/1003742808078_0.html"
+   }
+  },
+  {
+   "quien": "PP de Cataluña",
+   "cargo_o_partido": "Partido",
+   "resumen": "Criticó al Govern por no proteger al comercio; su diputada Lorena Roldán llevó el asunto a la sesión de control del Parlament el 4 de noviembre.",
+   "fecha": "2026-11-04",
+   "fuente": {
+    "nombre": "Demócrata / agencias (Parlament, 4 nov)",
+    "url": "https://www.democrata.es/en/catalunya/let-s-talk-parlon-backs-the-operation-against-blocus-and-accuses-the-pp-of-using-it-for-electoral-purposes/"
+   }
+  },
+  {
+   "quien": "Juan María Aburto",
+   "cargo_o_partido": "Alcalde de Bilbao (PNV)",
+   "resumen": "Condenó los altercados del 26 de octubre.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Euronews (Bilbao, 27 oct)",
+    "url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos"
+   }
+  },
+  {
+   "quien": "PP del País Vasco",
+   "cargo_o_partido": "Partido",
+   "resumen": "Responsabilizó al Gobierno Vasco de no anticiparse a los incidentes de Bilbao y pidió la dimisión del consejero de Seguridad.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Euronews (Bilbao, 27 oct)",
+    "url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos"
+   }
+  },
+  {
+   "quien": "PSOE (Euskadi)",
+   "cargo_o_partido": "Partido",
+   "resumen": "Rechazó la violencia en Bilbao y pidió evitar una escalada de tensión política.",
+   "fecha": "2026-10-27",
+   "fuente": {
+    "nombre": "Euronews (Bilbao, 27 oct)",
+    "url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos"
+   }
+  },
+  {
+   "quien": "Rubén Viñuales",
+   "cargo_o_partido": "Alcalde de Tarragona (PSC)",
+   "resumen": "Dijo que el Ayuntamiento coordina con Mossos y no permitirá actos vandálicos.",
+   "fecha": "2026-10-28",
+   "fuente": {
+    "nombre": "Diari de Tarragona (28 oct)",
+    "url": "https://www.diaridetarragona.com/tarragona/274199/vinuales-sobre-blocus-permitiremos-actos-vandalicos-atenten-orden-publico.html"
+   }
+  },
+  {
+   "quien": "Núria Parlon",
+   "cargo_o_partido": "Consellera de Interior de la Generalitat (PSC)",
+   "resumen": "Calificó de inadmisibles los disturbios del 11 de noviembre, pidió a los sindicatos que condenen la violencia y afirmó que los detenidos no tienen vínculo con Blocus.",
+   "fecha": "2026-11-12",
+   "fuente": {
+    "nombre": "Ara (12 nov)",
+    "url": "https://es.ara.cat/sociedad/mossos-atribuyen-disturbios-movimientos-radicales-antisistema-desvinculan-blocus_1_5907956.html"
+   }
+  }
+ ],
+ "reacciones_nota": "Las acusaciones son de quien las hace y no están probadas. Sin declaraciones localizadas aún de Sumar, Podemos ni Comuns. Algunos medios informan de que EH Bildu no se sumó a una condena municipal de los incidentes de Bilbao; está pendiente de verificar en fuentes de agencia. Según Crónica Global, tras el 31 de octubre la mayoría de la oposición no valoró el dispositivo.",
+ "que_se_sabe": [
+  "El 24 de octubre hubo saqueos e incendios en el centro de Barcelona tras convocatorias en redes.",
+  "La mayoría de los detenidos en Barcelona son menores de edad; según Telemadrid, la Fiscalía pidió 8 internamientos y 70 libertades vigiladas.",
+  "Las convocatorias pasan de TikTok a grupos cerrados de Telegram y WhatsApp.",
+  "Telegram ha cerrado varios canales y muchas cuentas de TikTok han sido desactivadas.",
+  "Una jueza de Barcelona ha prohibido a detenidos adultos acudir a nuevas protestas.",
+  "Al menos 11 personas fueron detenidas en la semana de Halloween por instigar disturbios en canales de Blocus; después la cifra ha seguido subiendo (ver balances de Policía Nacional y Mossos).",
+  "El presunto fundador de Blocus en España, detenido por la Guardia Civil en Picanya, está en prisión provisional sin fianza desde el 31 de octubre.",
+  "La noche del 31 de octubre no hubo concentraciones significativas: en Barcelona hubo 3 detenidos y 1.440 identificados, y en Cataluña más de 2.200 identificaciones, según Mossos y ACN.",
+  "Cuatro detenidos por organizar o alentar los disturbios están en prisión provisional: el presunto fundador (Torrent), un joven detenido en Alfafar (Catarroja) y dos jóvenes en Barcelona (de 18 y 21 años).",
+  "De los 79 menores del 24 de octubre que han pasado por el juez, 72 están en libertad vigilada y 5 internados, según Ara.",
+  "La convocatoria del 31 de octubre en Bilbao no tuvo asistentes; el detenido como administrador de la cuenta de Bilbao está en libertad provisional.",
+  "Las detenciones de administradores de grupos continúan después de Halloween: dos menores el 2 de noviembre y una joven de 18 años el 4 de noviembre en Cataluña.",
+  "La Policía Nacional cifra en 18 sus detenidos por actividades ligadas a Blocus en la semana anterior al 5 de noviembre, en siete ciudades; 13 son menores.",
+  "En Cataluña ya son diez los detenidos por organizar o alentar los disturbios del 24 de octubre, siete de ellos menores (EFE y Crónica Global, 6 nov).",
+  "Las convocatorias posteriores al 24 de octubre en otras ciudades, como Tarragona (28 de octubre), El Vendrell y Elche (29 de octubre), Terrassa (30 y 31 de octubre y 2 de noviembre) o Reus (fin de semana de Halloween), pasaron sin incidentes, según sus ayuntamientos y la prensa local.",
+  "La defensa de uno de los menores internados ha pedido a la Fiscalía de Menores que investigue el papel de los algoritmos de TikTok e Instagram en la difusión de la convocatoria (elDiario.es, 10 nov).",
+  "Los Mossos creen que Blocus ha perdido fuerza y, tras el 11 de noviembre, lo consideran prácticamente desarticulado (Ara, 9 y 12 nov).",
+  "Los disturbios del 11 de noviembre en Barcelona, tras la manifestación de la huelga general, no se atribuyen a Blocus según la consellera de Interior y los Mossos, que los achacan a grupos radicales antisistema (Ara, 12 nov).",
+  "Según un informe de Mossos enviado al juzgado (EFE y 20minutos, 15 nov), los chats de la convocatoria del 24 de octubre se organizaron en subgrupos para elegir comercios que saquear, y la policía concluye que el objetivo principal era robar, no protestar.",
+  "La Policía Nacional ha identificado al presunto creador de un grupo de Blocus en Sevilla de unos cien miembros que preparaba saqueos coincidiendo con un gran evento deportivo, y ha ordenado cerrar sus perfiles (101TV y H50, 16 nov).",
+  "La Guardia Civil ha detenido en Valencia a dos jóvenes de 19 y 20 años del círculo cercano del presunto fundador de Blocus, por coordinar convocatorias y proteger a los responsables; con el fundador, son tres sus detenidos en esta investigación (nota del 19 nov).",
+  "Según la Guardia Civil, uno de los dos jóvenes detenidos el 19 de noviembre difundía enlaces falsos que activaban la cámara del móvil de quien los abría y enviaban su foto sin su conocimiento (nota recogida por EFE y Estrella Digital). La Guardia Civil afirma también que, desde la detención del fundador el 30 de octubre, Blocus no ha llegado a realizar ninguna de las movilizaciones violentas que había convocado."
+ ],
+ "que_no_se_sabe": [
+  "Quién está detrás de Blocus en su conjunto y si existe una organización única.",
+  "Si los incidentes de Bilbao del 26 de octubre fueron convocados por Blocus, y cuántos detenidos suman en total tras la nueva detención del 17 de noviembre.",
+  "El total de daños económicos a comercios en Barcelona y Bilbao.",
+  "Cuántas personas no policías resultaron heridas el 24 de octubre.",
+  "Si hay actores extranjeros implicados.",
+  "Un balance oficial único de la noche del 31 de octubre para toda España: hay cifras de Mossos y de la Policía Nacional por ciudades, pero no un recuento conjunto.",
+  "Qué pasó la noche del 31 en ciudades como Sevilla, Málaga, Santiago o Vitoria, de las que no hay un balance contrastado.",
+  "Si son reales las convocatorias que un informe privado sitúa el 20 (europea) y el 30 de noviembre (estatal); la policía no las ha confirmado. En Sevilla, la Policía Nacional sí ha confirmado la existencia de un grupo que planeaba saqueos coincidiendo con un gran evento deportivo (21 de noviembre, según 101TV), pero no si la convocatoria sigue activa tras cerrar sus perfiles. De la cita de Alcorcón (11 nov) no se ha publicado, a 21 de noviembre, ninguna noticia de incidentes ni de dispositivo.",
+  "Qué pasó con la convocatoria citada para San Pedro Alcántara (1 nov); no hay noticias de incidentes. (Terrassa ya tiene balance: sin incidentes.)",
+  "Cuántas personas han sido detenidas en total en España por organizar o alentar los disturbios: la Policía Nacional daba 18 a 5 de noviembre y después ha detenido al menos a un menor más en Castellón; Mossos suman diez en Cataluña; la Guardia Civil, tres en Valencia (el fundador y dos jóvenes detenidos el 19 de noviembre). No está claro cuántas se solapan.",
+  "Qué ocurrió con la convocatoria detectada en Reus para el 6 de noviembre: a 11 de noviembre no hay información publicada.",
+  "Qué pasó exactamente en la convocatoria del 7 de noviembre en Madrid: solo OKDiario da cifras (unos 200 identificados, sin detenidos) y no hay balance oficial.",
+  "Si la Fiscalía de Menores abrirá alguna investigación sobre el papel de los algoritmos de las redes sociales, como pide la defensa de un menor.",
+  "Si existe alguna relación entre Blocus y los disturbios tras la protesta estudiantil de Manresa del 21 de octubre, más allá de que uno de los detenidos fue arrestado también en Barcelona el 24.",
+  "Cuántos de los 52 detenidos del 11 de noviembre en Barcelona habían sido arrestados antes por Blocus: EFE dice dos y Ara uno.",
+  "Qué decidirá el juez sobre la petición de internar al menor ya detenido por Blocus que fue arrestado de nuevo el 11 de noviembre.",
+  "Si habrá detenciones en la investigación sobre «Blocus Sevilla»: a 21 de noviembre solo se ha identificado al presunto responsable.",
+  "Qué delitos se imputan a los dos jóvenes detenidos por la Guardia Civil el 19 de noviembre y qué medidas ha tomado el juez: a 21 de noviembre no se ha informado. Tampoco se sabe cuántas personas abrieron los enlaces que, según la Guardia Civil, activaban la cámara del móvil.",
+  "Si el dispositivo del derbi de Sevilla del 21 de noviembre tuvo algún incidente ligado a Blocus: a primera hora del 22 no hay balance oficial, aunque tampoco noticias de saqueos.",
+  "Si la Guardia Civil ha hecho nuevas detenciones en La Pobla de Farnals y València, como publicó HerQles el 21 de noviembre sin citar fuente oficial, o si se trata de las dos detenciones anunciadas el 19."
+ ],
+ "bulos": [
+  {
+   "afirmacion": "Blocus está organizando disturbios en Barcelona para el 31 de octubre.",
+   "estado": "confirmado",
+   "explicacion": "Maldita comprobó que existían mensajes en un grupo de Telegram que llamaban a saquear ese día. La convocatoria existió, pero esa noche transcurrió con tranquilidad según el alcalde y EFE.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261029/blocus-esta-organizando-disturbios-para-el-31-de-octubre-en-plaza-catalunya-en-barcelona/"
+   }
+  },
+  {
+   "afirmacion": "Blocus convoca concentraciones en Madrid el 31 de octubre.",
+   "estado": "sin confirmar",
+   "explicacion": "Maldita lo tiene registrado como caso abierto, sin verificar. Telemadrid informa de que la llamada en Madrid ese día pasó sin incidentes.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/buloteca/claim/blocus-convoca-concentraciones-en-madrid-el-31-de-octubre"
+   }
+  },
+  {
+   "afirmacion": "Hay convocatorias de Blocus en 46 ciudades de 9 países europeos.",
+   "estado": "sin confirmar",
+   "explicacion": "Maldita localizó convocatorias en 46 ciudades, pero no todas son de Blocus ni todas llaman a saquear.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa/"
+   }
+  },
+  {
+   "afirmacion": "Los disturbios los organizó la extrema izquierda (o la extrema derecha).",
+   "estado": "sin confirmar",
+   "explicacion": "Son acusaciones políticas. Fuentes policiales citadas por EFE no ven, por ahora, ideología ni organización extremista detrás.",
+   "fuente": {
+    "nombre": "EFE vía Infobae",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+   }
+  },
+  {
+   "afirmacion": "La policía ha avisado de que habrá disturbios en centros comerciales de Sevilla el fin de semana de Halloween, como en Barcelona.",
+   "estado": "sin confirmar",
+   "explicacion": "Es una cadena de WhatsApp. Maldita explica que la Policía Nacional no confirmó ni desmintió la convocatoria y que la Policía Local reforzó la vigilancia; el alcalde habló de rumores y pidió calma. No se han publicado incidentes ligados a Blocus en Sevilla.",
+   "fuente": {
+    "nombre": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261030/mensaje-de-whatsapp-advierte-que-habra-disturbios-en-centro-comercial-nervion-plaza-sevilla-el-fin-de-semana-de-halloween-2026/"
+   }
+  },
+  {
+   "afirmacion": "Blocus ha convocado nuevos saqueos en varias ciudades para noviembre.",
+   "estado": "sin confirmar",
+   "explicacion": "Lo recoge un informe privado (Golden Owl) a partir de cuentas abiertas; el propio informe advierte de que no todas se celebrarán y de que puede haber imitadores. No hay confirmación policial ni de verificadores. Actualización (16 nov): la Policía Nacional confirma que un grupo de Sevilla preparaba saqueos para un gran evento deportivo (el derbi del 21 de noviembre, según 101TV) y ha cerrado sus perfiles; el resto de fechas sigue sin confirmar.",
+   "fuente": {
+    "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+    "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+   }
+  }
+ ],
+ "consejos": {
+  "seguridad": [
+   {
+    "texto": "Si hay disturbios cerca, aléjate de la zona y sigue las indicaciones de la policía.",
+    "fuente": {
+     "nombre": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/vida/20261030/dispositivo-maximos-blocus-mossos-blindan-accesos-barcelona/1003742807638_0.html"
+    }
+   },
+   {
+    "texto": "Las autoridades piden a las familias que hablen con sus hijos y estén atentas a si participan en estos grupos.",
+    "fuente": {
+     "nombre": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/29/disturbios-blocus-barcelona-31-octubre-3457427/"
+    }
+   },
+   {
+    "texto": "No abras enlaces de grupos o cuentas desconocidas: la Guardia Civil investiga enlaces que, al abrirlos, activaban la cámara del móvil sin permiso.",
+    "fuente": {
+     "nombre": "Estrella Digital (nota de la Guardia Civil, 19 nov)",
+     "url": "https://www.estrelladigital.es/sociedad/sucesos/detenidos-dos-presuntos-dirigentes-blocus-usaban-enlaces-falsos-activar-camaras-moviles/20261119114629453602.html"
+    }
+   }
+  ],
+  "verificar_convocatoria": [
+   "Desconfía de carteles o vídeos sin fuente: un mensaje no basta para saber si habrá altercados.",
+   "Mira si la cuenta es nueva o tiene pocos seguidores.",
+   "Consulta las cuentas oficiales de la policía y los verificadores (Maldita, Newtral, EFE Verifica) antes de compartir.",
+   "No reenvíes la convocatoria, aunque sea para criticarla."
+  ],
+  "denunciar": [
+   {
+    "texto": "Denuncia el contenido en la propia plataforma (TikTok, Telegram, WhatsApp) con la opción de reportar.",
+    "fuente": {
+     "nombre": "Euronews",
+     "url": "https://es.euronews.com/2026/10/27/los-mossos-piden-ayuda-al-centro-de-inteligencia-contra-el-terrorismo-para-bloquear-los-gr"
+    }
+   },
+   {
+    "texto": "Si tienes información, comunícala a la policía; en emergencias, llama al 112.",
+    "fuente": {
+     "nombre": "Ministerio del Interior",
+     "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Detenido-en-Picanya-Valencia-el-presunto-fundador-e-impulsor-del-movimiento-Blocus-en-Espana/"
+    }
+   }
+  ],
+  "nota": "Consejos generales basados en lo que dicen las autoridades citadas. No sustituyen a las indicaciones oficiales en cada momento."
+ },
+ "imagenes_libres": [],
+ "imagenes_nota": "No se ha localizado en Wikimedia Commons ninguna imagen con licencia libre comprobada de estos hechos. No se usan fotos de prensa.",
+ "fuentes": [
+  {
+   "nombre": "Crónica Global (balance de Mossos, 28 oct)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261028/mossos-anticipan-nuevos-disturbios-barcelona-convocatoria-blocus/1003742807101_0.html"
+  },
+  {
+   "nombre": "Crónica Global (dispositivo 31 oct)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261030/dispositivo-maximos-blocus-mossos-blindan-accesos-barcelona/1003742807638_0.html"
+  },
+  {
+   "nombre": "Público",
+   "url": "https://www.publico.es/sociedad/organizadores-voluntad-desestabilizar-dificiles-rastrear-claves-altercados-barcelona-derecha-instrumentaliza.html"
+  },
+  {
+   "nombre": "Maldita.es (convocatorias en Europa)",
+   "url": "https://maldita.es/investigaciones/20261026/tiktok-manifestaciones-halloween-europa/"
+  },
+  {
+   "nombre": "Maldita.es (convocatoria fallida en Madrid)",
+   "url": "https://maldita.es/investigaciones/20261026/convocatoria-fallida-madrid-cuentas-tiktok-blocus-espana/"
+  },
+  {
+   "nombre": "Maldita.es (Buloteca, Madrid 31 oct)",
+   "url": "https://maldita.es/buloteca/claim/blocus-convoca-concentraciones-en-madrid-el-31-de-octubre"
+  },
+  {
+   "nombre": "Maldita.es (Barcelona 31 oct)",
+   "url": "https://maldita.es/desinfo/20261029/blocus-esta-organizando-disturbios-para-el-31-de-octubre-en-plaza-catalunya-en-barcelona/"
+  },
+  {
+   "nombre": "Canal Sur",
+   "url": "https://www.canalsur.es/noticias/espana/graves-disturbios-bilbao-20-detenidos_1_1447154.html"
+  },
+  {
+   "nombre": "EFE vía Infobae (Bilbao, 27 oct)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/27/los-disturbios-de-bilbao-se-saldan-con-17-detenidos-10-de-ellos-menores-de-edad/"
+  },
+  {
+   "nombre": "EFE vía Infobae (diez detenidos, 30 oct)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/30/diez-detenidos-por-instigar-disturbios-en-las-calles-vinculados-a-blocus/"
+  },
+  {
+   "nombre": "EFE vía Infobae (ciudades blindadas, 31 oct)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/31/varias-ciudades-se-blindan-ante-posibles-disturbios-de-blocus-cuyo-lider-esta-en-prision/"
+  },
+  {
+   "nombre": "Infobae (comercios blindados, 31 oct)",
+   "url": "https://www.infobae.com/espana/2026/10/31/comercios-de-varias-ciudades-se-blindan-en-halloween-por-temor-a-que-las-convocatorias-de-blocus-deriven-en-disturbios-y-saqueos-como-en-barcelona/"
+  },
+  {
+   "nombre": "elDiario.es (directo 31 oct)",
+   "url": "https://www.eldiario.es/politica/ultima-hora-disturbios-blocus-directo_133_13628997.html"
+  },
+  {
+   "nombre": "Telemadrid (1 nov)",
+   "url": "https://www.telemadrid.es/noticias/sociedad/llamada-blocus-saquear-vandalizar-comercios_1_2786065.html"
+  },
+  {
+   "nombre": "Telemadrid (25 oct)",
+   "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Sanchez-calla-ante-los-disturbios-de-Barcelona-y-Feijoo-avisa-Han-perdido-la-calle-y-quieren-incendiarla-2-2937926190--20261025033621.amp.html"
+  },
+  {
+   "nombre": "OKDiario (31 oct)",
+   "url": "https://okdiario.com/espana/concentraciones-blocus-transcurren-sin-incidentes-madrid-barcelona-despliegue-policial-detencion-sus-lideres-20677245"
+  },
+  {
+   "nombre": "Euronews (Palma y Halloween, 31 oct)",
+   "url": "https://es.euronews.com/2026/10/31/noche-disturbios-palma-espana-protestas-halloween-blocus"
+  },
+  {
+   "nombre": "Euronews (qué hay detrás, 26 oct)",
+   "url": "https://es.euronews.com/2026/10/26/blocus-que-hay-detras-del-movimiento-que-llama-a-saquear-comercios-en-espana-en-halloween"
+  },
+  {
+   "nombre": "Euronews (CITCO, 27 oct)",
+   "url": "https://es.euronews.com/2026/10/27/los-mossos-piden-ayuda-al-centro-de-inteligencia-contra-el-terrorismo-para-bloquear-los-gr"
+  },
+  {
+   "nombre": "Euronews (Valencia, 29 oct)",
+   "url": "https://es.euronews.com/2026/10/29/blocus-valencia-detenido-menor-17-anos-organizar-saqueos-halloween"
+  },
+  {
+   "nombre": "Euronews (tercer menor, 30 oct)",
+   "url": "https://es.euronews.com/2026/10/30/detenido-tercer-menor-blocus-canales-saqueos-disturbios-barcelona"
+  },
+  {
+   "nombre": "Onda Vasca",
+   "url": "https://www.ondavasca.com/los-mossos-identifican-a-otras-230-personas-tras-las-convocatorias-de-blocus/"
+  },
+  {
+   "nombre": "Ministerio del Interior",
+   "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Detenido-en-Picanya-Valencia-el-presunto-fundador-e-impulsor-del-movimiento-Blocus-en-Espana/"
+  },
+  {
+   "nombre": "Informe de Golden Owl citado por Moncloa.com",
+   "url": "https://www.moncloa.com/2026/10/28/blocus-red-disturbios-espana-3456469/"
+  },
+  {
+   "nombre": "Moncloa.com (Bilbao)",
+   "url": "https://www.moncloa.com/2026/10/27/altercados-bilbao-gobierno-vasco-ertzaintza-3456600/"
+  },
+  {
+   "nombre": "Moncloa.com (Barcelona 31 oct)",
+   "url": "https://www.moncloa.com/2026/10/29/disturbios-blocus-barcelona-31-octubre-3457427/"
+  },
+  {
+   "nombre": "Galiciapress",
+   "url": "https://www.galiciapress.es/articulo/ultima-hora/2026-10-29/6070577-broma-pesada-desafio-blocus-frente-saqueos-barcelona-bilbao-anuncia-santiago-halloween"
+  },
+  {
+   "nombre": "El Debate",
+   "url": "https://www.eldebate.com/espana/galicia/20261031/policia-alerta-galicia-ante-posibles-altercados-dos-actos-vox-llamamiento-blocus-caos_475682.html"
+  },
+  {
+   "nombre": "Noticias de Álava",
+   "url": "https://www.noticiasdealava.eus/gasteiz/2026/10/29/detectada-convocatoria-blocus-vitoria-halloween-11703191.html"
+  },
+  {
+   "nombre": "Ara (EFE)",
+   "url": "https://en.ara.cat/society/the-justice-system-says-that-blocus-is-protest-empty-of-content-with-the-sole-purpose-of-looting_1_5892284.html"
+  },
+  {
+   "nombre": "Mundiario",
+   "url": "https://www.mundiario.com/politica/moncloa-culpa-extrema-derecha-caos-barcelona-violencia-caldea-29-n/20261027080436449235.html"
+  },
+  {
+   "nombre": "Metrópoli Abierta",
+   "url": "https://metropoliabierta.elespanol.com/sucesos/20261030/alerta-barcelona-convocatoria-blocus-sabado-directo-comercios-blindan-posibles-ataques/1003742807609_10.html"
+  },
+  {
+   "nombre": "Wikipedia (protestas por Pablo Hasél)",
+   "url": "https://en.wikipedia.org/wiki/Protests_against_the_imprisonment_of_Pablo_Has%C3%A9l"
+  },
+  {
+   "nombre": "Wikipedia (disturbios en Francia 2023)",
+   "url": "https://en.wikipedia.org/wiki/2023_French_riots"
+  },
+  {
+   "nombre": "The Olive Press",
+   "url": "https://www.theolivepress.es/spain-news/2026/10/27/what-is-blocus-barcelona-protests/"
+  },
+  {
+   "nombre": "Demócrata",
+   "url": "https://www.democrata.es/en/catalunya/what-is-blocus-from-tiktok-videos-to-the-private-groups-investigated-after-the-looting-in-barcelona/"
+  },
+  {
+   "nombre": "CatalunyaPress (balance de Mossos, 1 nov)",
+   "url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-01/6073784-balance-final-convocatoria-blocus-mossos-identifican-1440-personas-barcelona"
+  },
+  {
+   "nombre": "Euronews (1 nov)",
+   "url": "https://es.euronews.com/2026/11/01/blocus-halloween-espana-despliegue-policial-detenidos-barcelona-valencia"
+  },
+  {
+   "nombre": "Públic / ACN (1 nov)",
+   "url": "https://www.diaripublic.cat/societat/preso-provisional-sense-fianca-per-dels-detinguts-com-ideoleg-blocus-barcelona.html"
+  },
+  {
+   "nombre": "3CatInfo (1 nov)",
+   "url": "https://www.3cat.cat/3catinfo/preso-sense-fianca-per-al-jove-de-18-anys-detingut-a-barcelona-per-vincles-amb-blocus/noticia/3437235/"
+  },
+  {
+   "nombre": "El Español (1 nov)",
+   "url": "https://www.elespanol.com/espana/20261101/detenidos-jovenes-promover-disturbios-nombre-blocus-malaga-menor-edad/1003744442918_0.html"
+  },
+  {
+   "nombre": "Maldita.es (30 oct)",
+   "url": "https://maldita.es/desinfo/20261030/mensaje-de-whatsapp-advierte-que-habra-disturbios-en-centro-comercial-nervion-plaza-sevilla-el-fin-de-semana-de-halloween-2026/"
+  },
+  {
+   "nombre": "La Voz del Sur (31 oct)",
+   "url": "https://www.lavozdelsur.es/actualidad/sociedad/la-noche-de-halloween-ante-blocus-entre-controles-nuevas-detenciones-y-prision-sin-fianza-para-su-supuesto-lider.html"
+  },
+  {
+   "nombre": "Moncloa.com (1 nov)",
+   "url": "https://www.moncloa.com/2026/11/01/policia-nacional-operacion-blocus-detenidos-3459844/"
+  },
+  {
+   "nombre": "Demócrata / agencias (2 nov)",
+   "url": "https://www.democrata.es/en/courts/the-arrested-man-in-cabrera-d-anoia-is-sent-to-provisional-prison-for-his-alleged-link-with-blocus/"
+  },
+  {
+   "nombre": "Última Hora / Europa Press (2 nov)",
+   "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/02/2741735/detenidos-dos-menores-por-presuntamente-promover-saqueos-barcelona-canales-blocus.html"
+  },
+  {
+   "nombre": "El Debate (4 nov)",
+   "url": "https://www.eldebate.com/espana/cataluna/20261104/detenida-otra-joven-vinculada-blocus-coordinar-saqueos-barcelona-traves-whatsapp_477134.html"
+  },
+  {
+   "nombre": "Ara (2 nov)",
+   "url": "https://en.ara.cat/society/only-two-of-the-79-minors-arrested-for-the-riots-in-barcelona-remain-without-precautionary-measures_1_5897718.html"
+  },
+  {
+   "nombre": "Euronews (Bilbao, 27 oct)",
+   "url": "https://es.euronews.com/2026/10/27/el-balance-de-los-disturbios-en-bilbao-17-detenidos-y-55000-euros-en-danos"
+  },
+  {
+   "nombre": "Vozpópuli / agencias (31 oct)",
+   "url": "https://www.vozpopuli.com/espana/libertad-provisional-sin-fianza-para-el-presunto-administrador-de-blocus-en-bilbao.html"
+  },
+  {
+   "nombre": "Demócrata (Bilbao, 1 nov)",
+   "url": "https://www.democrata.es/actualidad/bilbao-se-blindo-pero-nadie-acudio-paso-con-convocatoria-blocus/"
+  },
+  {
+   "nombre": "Vozpópuli (Valencia, 1 nov)",
+   "url": "https://www.vozpopuli.com/espana/la-fiscalia-de-menores-deja-en-libertad-al-joven-de-16-anos-detenido-por-su-relacion-con-el-movimiento-blocus-en-valencia.html"
+  },
+  {
+   "nombre": "Moncloa.com (informe de Golden Owl, 4 nov)",
+   "url": "https://www.moncloa.com/2026/11/04/blocus-nuevas-convocatorias-3460926"
+  },
+  {
+   "nombre": "elDiario.es (Valencia, 3 nov)",
+   "url": "https://www.eldiario.es/comunitat-valenciana/lider-blocus-capto-menor-nucleo-cerrado-enfrenta-delitos-organizacion-criminal-robos-fuerza_1_13635153.html"
+  },
+  {
+   "nombre": "Diari de Tarragona / ACN (27 oct)",
+   "url": "https://www.diaridetarragona.com/catalunya/274141/govern-personara-acusacion-particular-disturbios-sabado-barcelona-blocus.html"
+  },
+  {
+   "nombre": "Crónica Global (1 nov)",
+   "url": "https://cronicaglobal.elespanol.com/politica/20261101/silencio-operativo-blocus-oposicion-valoraciones-dimision-parlon/1003742808078_0.html"
+  },
+  {
+   "nombre": "Demócrata / agencias (Parlament, 4 nov)",
+   "url": "https://www.democrata.es/en/catalunya/let-s-talk-parlon-backs-the-operation-against-blocus-and-accuses-the-pp-of-using-it-for-electoral-purposes/"
+  },
+  {
+   "nombre": "VilaWeb / ACN (4 nov)",
+   "url": "https://vilaweb.cat/noticies/parlon-demana-analitzar-fons-fenomen-blocus-mes-enlla-resposta-policial"
+  },
+  {
+   "nombre": "Público (31 oct)",
+   "url": "https://www.publico.es/politica/blocus-rabia-miedo-descifrar-disturbios-violentos-derecha-quiere-convertir-votos-29n.html"
+  },
+  {
+   "nombre": "EITB / Orain (31 oct)",
+   "url": "https://orain.eus/en/current-events/society-and-social-news-now/2026/10/31/provisional-release-without-bail-for-the-man-arrested-in-bilbao-in-connection-with-the-blocus-movement/"
+  },
+  {
+   "nombre": "Europa Press vía Infobae (balance de la Policía Nacional, 5 nov)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/05/el-balance-de-detenidos-por-actividades-relacionadas-con-blocus-asciende-a-18-en-siete-ciudades-la-mayoria-menores/"
+  },
+  {
+   "nombre": "Última Hora (Palma, 5 nov)",
+   "url": "https://www.ultimahora.es/noticias/local/2026/11/05/2744033/policia-nacional-detiene-cuatro-integrantes-blocus-palma-les-acusa-tenencia-artefactos-incendiarios.html"
+  },
+  {
+   "nombre": "Ara Balears (5 nov)",
+   "url": "https://en.arabalears.cat/society/four-arrested-from-blocus-for-riots-and-looting-in-palma_1_5901593.html"
+  },
+  {
+   "nombre": "Crónica Global (Lleida, 5 nov)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261105/detenidos-menores-lleida-vinculacion-disturbios-blocus-total/1003742809450_0.html"
+  },
+  {
+   "nombre": "El Nacional (Lleida, 5 nov)",
+   "url": "https://www.elnacional.cat/es/sociedad/detenidos-lleida-menores-anos-instigar-disturbios-blocus-barcelona-octubre_1721162_102.html"
+  },
+  {
+   "nombre": "Área Costa del Sol (5 nov)",
+   "url": "https://www.areacostadelsol.com/malaga/saqueos-disturbios-armas-cuatro-detenidos-malaga-presunta-implicacion-blocus/"
+  },
+  {
+   "nombre": "La Ciutat (Reus, 27 oct)",
+   "url": "https://laciutat.cat/es/laciutatdetarragona/alerta-entre-tenderos-reus-por-convocatoria-blocus-6-noviembre_903808_102.html"
+  },
+  {
+   "nombre": "Crónica Global (indicadores de Mossos, 6 nov)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261106/indicadores-utilizaron-mossos-detectar-convocatorias-blocus/1003742809132_0.html"
+  },
+  {
+   "nombre": "EFE vía Infobae (comunicado de Mossos, 6 nov)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/06/los-mossos-detienen-en-barcelona-a-otro-menor-por-alentar-las-protestas-de-blocus/"
+  },
+  {
+   "nombre": "Crónica Global (6 nov)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261106/detenido-participacion-difusion-coordinacion-convocatoria-blocus-barcelona/1003742809787_0.html"
+  },
+  {
+   "nombre": "Ministerio del Interior (nota de la Policía Nacional)",
+   "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/La-Policia-Nacional-ha-detenido-a-un-total-de-18-personas-por-su-participacion-en-distintas-actividades-criminales-relacionadas-con-el-grupo-Blocus/"
+  },
+  {
+   "nombre": "Canal Terrassa (balance del Ayuntamiento, 4 nov)",
+   "url": "https://canalterrassa.cat/loperatiu-preventiu-sobre-blocus-acaba-amb-174-persones-identificades-pero-sense-incidents"
+  },
+  {
+   "nombre": "Alicante Plaza / EFE (Ayuntamiento de Elche, 2 nov)",
+   "url": "https://alicanteplaza.es/alicanteplaza/elcheplaza/elche-identifica-a-15-personas-en-el-dispositivo-preventivo-por-la-convocatoria-de-blocus"
+  },
+  {
+   "nombre": "Canal Reus (1 nov)",
+   "url": "https://canalreus.cat/noticies/successos/comercos-normalitat-blocus-reus/"
+  },
+  {
+   "nombre": "El Gol Digital",
+   "url": "https://www.elgoldigital.com/futbol/sevilla-fc/blocus-nervion-plaza-derbi-sevilla-betis-21-noviembre/"
+  },
+  {
+   "nombre": "Reusdigital",
+   "url": "https://reusdigital.cat/noticies/reus/el-moviment-blocus-arriba-reus-amb-una-crida-anonima-traves-de-les-xarxes-socials"
+  },
+  {
+   "nombre": "Canal Reus (28 oct)",
+   "url": "https://canalreus.cat/noticies/successos/els-cossos-policials-demanen-calma-davant-duna-nova-convocatoria-de-blocus-reus/"
+  },
+  {
+   "nombre": "Moncloa.com (8 nov)",
+   "url": "https://www.moncloa.com/2026/11/08/detencion-menor-disturbios-blocus-barcelona-3463876/"
+  },
+  {
+   "nombre": "OKDiario",
+   "url": "https://okdiario.com/sucesos/policia-impide-nuevos-saqueos-blocus-madrid-este-sabado-hay-200-identificados-20725339"
+  },
+  {
+   "nombre": "Diari de Tarragona",
+   "url": "https://www.diaridetarragona.com/tarragona/274311/mossos-guardia-urbana-despliegan-tarragona-convocatoria-acaba-disturbios.html"
+  },
+  {
+   "nombre": "Diari de Tarragona",
+   "url": "https://www.diaridetarragona.com/tarragona/274199/vinuales-sobre-blocus-permitiremos-actos-vandalicos-atenten-orden-publico.html"
+  },
+  {
+   "nombre": "Diari de Tarragona",
+   "url": "https://www.diaridetarragona.com/costa/274495/temor-accion-blocus-vendrell-motiva-espectacular-despliegue-policial.html"
+  },
+  {
+   "nombre": "El Boletín",
+   "url": "https://www.elboletin.com/la-convocatoria-de-blocus-transcurre-sin-incidentes-en-madrid/"
+  },
+  {
+   "nombre": "elDiario.es (9-10 nov)",
+   "url": "https://www.eldiario.es/catalunya/menor-internado-blocus-pide-investigar-sistemas-algoritmicos-tiktok-viralizaron-convocatoria_1_13650600.html"
+  },
+  {
+   "nombre": "Ara (9 nov)",
+   "url": "https://es.ara.cat/sociedad/vivienda/mossos-destinan-mitad-agentes-huelga-avisan-sera-dificil-moverse_1_5905459.html"
+  },
+  {
+   "nombre": "Ara",
+   "url": "https://es.ara.cat/sociedad/sucesos/catorce-detenidos-protesta-estudiantil-manresa-dias-saqueos-blocus_1_5901032.html"
+  },
+  {
+   "nombre": "EFE vía Infobae (12 nov)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/12/fiscalia-pide-carcel-a-6-detenidos-por-los-disturbios-de-barcelona-e-internar-a-un-menor/"
+  },
+  {
+   "nombre": "Ara (12 nov)",
+   "url": "https://es.ara.cat/sociedad/mossos-atribuyen-disturbios-movimientos-radicales-antisistema-desvinculan-blocus_1_5907956.html"
+  },
+  {
+   "nombre": "Ara (11-12 nov)",
+   "url": "https://es.ara.cat/sociedad/noche-vandalismo-disturbios-despues-manifestacion_1_5907813.html"
+  },
+  {
+   "nombre": "Catalan News / ACN (11 nov)",
+   "url": "https://www.catalannews.com/society-science/item/disturbances-in-barcelona-city-centre-following-the-end-of-the-general-strike-march"
+  },
+  {
+   "nombre": "Crónica Global (14 nov)",
+   "url": "https://cronicaglobal.elespanol.com/vida/20261114/patronal-seguridad-privada-reivindica-blocus-grandes-desconocidos/1003742810479_0.html"
+  },
+  {
+   "nombre": "EFE vía Infobae (15 nov)",
+   "url": "https://infobae.com/espana/agencias/2026/11/15/vestimenta-o-joyerias-los-subgrupos-de-blocus-para-planificar-el-pillaje-en-barcelona"
+  },
+  {
+   "nombre": "20minutos vía Headtopics (15 nov)",
+   "url": "https://es.headtopics.com/news/los-mossos-desmontan-una-red-digital-para-organizar-saqueos-89875100"
+  },
+  {
+   "nombre": "EFE vía elDiario.es (13 nov)",
+   "url": "https://www.eldiario.es/comunitat-valenciana/detenido-castellon-cuarto-miembro-blocus-vlc-menor-16-anos_1_13662746.html"
+  },
+  {
+   "nombre": "101TV Sevilla (16 nov)",
+   "url": "https://www.101tv.es/sevilla/identificado-el-lider-de-blocus-sevilla-el-grupo-que-planeaba-saqueos-masivos-durante-el-gran-derbi/"
+  },
+  {
+   "nombre": "H50 Digital Policial (16 nov)",
+   "url": "https://www.h50.es/la-policia-nacional-desenmascara-al-presunto-cerebro-de-blocus-sevilla/"
+  },
+  {
+   "nombre": "Libertad Digital (16 nov)",
+   "url": "https://libertaddigital.com/andalucia/2026-11-16/la-policia-nacional-desarticula-blocus-sevilla-antes-de-perpetrar-saqueos-masivos-7492059"
+  },
+  {
+   "nombre": "Canal Sur (17 nov)",
+   "url": "https://www.canalsur.es/noticias/andalucia/sevilla/blocus-preparaba-actos-vandalicos-robos_1_1453308.html"
+  },
+  {
+   "nombre": "Muchodeporte (16 nov)",
+   "url": "https://www.muchodeporte.com/sevilla-fc/identificado-el-cerebro-de-blocus-sevilla-que-preparaba-saqueos-durante-el-derbi"
+  },
+  {
+   "nombre": "Futeros (16 nov)",
+   "url": "https://futeros.com/identificado-el-presunto-cerebro-de-blocus-en-sevilla-que-planeaba-una-ola-de-saqueos-durante-el-sevilla-betis/"
+  },
+  {
+   "nombre": "Guardia Civil (nota, 19 nov)",
+   "url": "https://web.guardiacivil.es/es/destacados/noticias/Detenidos-en-Valencia-dos-presuntos-dirigentes-de-la-red-que-sostenia-al-movimiento-violento-Blocus-en-Espana/"
+  },
+  {
+   "nombre": "Europa Press vía Libertad Digital (19 nov)",
+   "url": "https://www.libertaddigital.com/espana/2026-11-19/detenidos-dos-jovenes-vinculados-a-blocus-coordinaban-saqueos-y-ocultaban-a-sus-responsables-7494371/"
+  },
+  {
+   "nombre": "El Constitucional (19 nov)",
+   "url": "https://www.elconstitucional.es/es/masquesucesos/sucesos/detenidos-en-valencia-dos-jovenes-presuntamente-vinculados-circulo-mas-cercano-fundador-blocus-en-espana_10367_102.html"
+  },
+  {
+   "nombre": "Europa Press TV (19 nov)",
+   "url": "https://www.europapress.tv/sucesos/1135316/1/detenidos-valencia-dos-presuntos-dirigentes-red-sostenia-blocus"
+  },
+  {
+   "nombre": "Europa Press vía Infobae (Subdelegación del Gobierno en Sevilla, 19 nov)",
+   "url": "https://www.infobae.com/america/agencias/2026/11/19/400-agentes-de-policia-nacional-y-373-vigilantes-privados-velaran-por-la-seguridad-en-el-derbi-sevilla-betis/"
+  },
+  {
+   "nombre": "MundoBetis (19 nov)",
+   "url": "https://mundobetis.com/2026/11/19/lleno-previsto-en-nervion-y-cerca-de-mil-personas-en-el-operativo-del-derbi/"
+  },
+  {
+   "nombre": "Sevilla Actualidad (16 nov)",
+   "url": "https://www.sevillaactualidad.com/sevilla/601295-acaban-un-plan-para-saquear-zonas-comerciales-de-sevilla-durante-un-evento-deportivo/"
+  },
+  {
+   "nombre": "Orain/EITB (balance de la Ertzaintza, 17 nov)",
+   "url": "https://orain.eus/en/current-events/society-and-social-news-now/2026/11/17/one-man-has-been-arrested-in-arrigorriaga-and-another-investigated-in-bilbao-for-incidents-in-the-byzantine-capital-on-26-october/"
+  },
+  {
+   "nombre": "Estrella Digital (nota de la Guardia Civil, 19 nov)",
+   "url": "https://www.estrelladigital.es/sociedad/sucesos/detenidos-dos-presuntos-dirigentes-blocus-usaban-enlaces-falsos-activar-camaras-moviles/20261119114629453602.html"
+  },
+  {
+   "nombre": "EFE vía Infobae (19 nov)",
+   "url": "https://www.infobae.com/america/agencias/2026/11/19/detenidos-dos-supuestos-dirigentes-de-la-red-que-sostenia-blocus-en-espana/"
+  },
+  {
+   "nombre": "Moncloa.com (20 nov)",
+   "url": "https://www.moncloa.com/2026/11/20/detenidos-plataforma-blocus-valencia-3471469"
+  },
+  {
+   "nombre": "La Voz del Sur (21 nov)",
+   "url": "https://www.lavozdelsur.es/ediciones/sevilla/sevilla-se-blinda-ante-el-gran-derbi-y-el-mitin-de-abascal-tras-desmantelar-blocus-horario-de-los-cortes-y-autobuses-de-refuerzo.html"
+  },
+  {
+   "nombre": "COPE (crónica del derbi, 21 nov)",
+   "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-sevilla-betis-jornada-13-primera-division-21-20261121_3479673.html"
+  },
+  {
+   "nombre": "HerQles (21 nov)",
+   "url": "https://herqles.com/2026/11/21/guardia-civil-detiene-saqueos-blocus-valencia/"
+  }
+ ]
+}
