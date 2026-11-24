@@ -1,6 +1,6 @@
 {
   "versio": 1,
-  "actualitzat": "2026-11-23T08:39:12+01:00",
+  "actualitzat": "2026-11-24T08:40:55+01:00",
   "seguiments": [
     {
       "slug": "aldarulls-placa-catalunya",
@@ -1433,11 +1433,71 @@
               "url": "https://www.vilaweb.cat/noticies/centenars-barcelona-llibertat-vaguistes/"
             }
           ]
+        },
+        {
+          "data": "2026-11-24",
+          "titol": "Aldarulls a plaça Catalunya: actualització del 24 de novembre",
+          "resum": "Més d’un centenar de personalitats de la cultura, el periodisme i el món jurídic han signat un manifest per demanar la llibertat dels 3 adults a presó provisional per l’11-N.",
+          "seccions": [
+            {
+              "titol": "Què hi ha de nou",
+              "text": "",
+              "items": [
+                "Més d’un centenar de persones de la cultura, el periodisme, la política i el món jurídic han signat un manifest per demanar la llibertat dels 3 adults a presó provisional pels aldarulls de l’11-N. Es va presentar dilluns 23 de novembre en una roda de premsa a Barcelona (<a href=\"https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/\">betevé</a>, <a href=\"https://naciodigital.cat/societat/mes-dun-centenar-de-persones-signen-un-manifest-reclament-la-llibertat-dels-vaguistes-empresonats.html\">NacióDigital</a>, <a href=\"https://www.vilaweb.cat/noticies/alliberament-vaguistes-empresonats-11-n/\">VilaWeb</a>).",
+                "Entre els signants hi ha actors, escriptors, músics, humoristes i periodistes, i polítics de la CUP, els Comuns i ERC. La junta directiva de l’Associació Catalana de Juristes Demòcrates també hi ha donat suport. El manifest continua obert a noves signatures (<a href=\"https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/\">betevé</a>, <a href=\"https://naciodigital.cat/societat/mes-dun-centenar-de-persones-signen-un-manifest-reclament-la-llibertat-dels-vaguistes-empresonats.html\">NacióDigital</a>).",
+                "El grup de suport de les famílies considera la presó provisional sense fiança desproporcionada i rebutja el risc de fuga que va argumentar el jutge, segons recullen els mitjans (<a href=\"https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/\">betevé</a>, <a href=\"https://www.vilaweb.cat/noticies/alliberament-vaguistes-empresonats-11-n/\">VilaWeb</a>).",
+                "Els impulsors del manifest i les famílies han convocat una manifestació a Barcelona per al dissabte 28 de novembre (<a href=\"https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/\">betevé</a>, <a href=\"https://naciodigital.cat/societat/mes-dun-centenar-de-persones-signen-un-manifest-reclament-la-llibertat-dels-vaguistes-empresonats.html\">NacióDigital</a>, <a href=\"https://elnacional.cat/ca/societat/exigeixen-llibertat-tres-vaguistes-11n-empresonats-convoquen-manifestacio-dissabte_1729757_102.html\">ElNacional</a>)."
+              ]
+            },
+            {
+              "titol": "Balanç oficial",
+              "text": "",
+              "items": [
+                "11 de novembre: 52 detinguts, 46 adults i 6 menors, i 36 agents dels Mossos ferits, segons els Mossos i Interior (balanç del 12 de novembre). No n’hi ha cap de nou.",
+                "Aldarulls del 24 d’octubre: el balanç continua en 133 detinguts, 85 menors i 48 adults (Mossos al Parlament, 28 d’octubre)."
+              ]
+            },
+            {
+              "titol": "Seguiment judicial",
+              "text": "",
+              "items": [
+                "Detinguts de l’11 de novembre: 48 de 52 han passat pel jutjat, segons el TSJC. 3 adults són a presó provisional sense fiança, 39 en llibertat i els 6 menors en llibertat vigilada.",
+                "Recurs contra les 3 presons: presentat davant l’Audiència de Barcelona. Fins ara els mitjans no n’han publicat cap resolució ni la resposta de la Fiscalia.",
+                "Menors del 24 d’octubre: dels 79 que han passat pel jutjat, 5 estan internats, 72 en llibertat vigilada i 2 sense mesures, segons el TSJC. Cap xifra nova."
+              ]
+            },
+            {
+              "titol": "Què no se sap encara",
+              "text": "",
+              "items": [
+                "Quan resoldrà l’Audiència el recurs i què hi ha dit la Fiscalia.",
+                "Si hi haurà més detencions."
+              ]
+            }
+          ],
+          "fonts": [
+            {
+              "nom": "betevé: un centenar de personalitats demanen l’alliberament dels empresonats per l’11-N",
+              "url": "https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/"
+            },
+            {
+              "nom": "NacióDigital: més d’un centenar de personalitats signen un manifest",
+              "url": "https://naciodigital.cat/societat/mes-dun-centenar-de-persones-signen-un-manifest-reclament-la-llibertat-dels-vaguistes-empresonats.html"
+            },
+            {
+              "nom": "VilaWeb: reclamen l’alliberament dels tres vaguistes empresonats",
+              "url": "https://www.vilaweb.cat/noticies/alliberament-vaguistes-empresonats-11-n/"
+            },
+            {
+              "nom": "ElNacional: exigeixen la llibertat dels tres vaguistes i convoquen una manifestació",
+              "url": "https://elnacional.cat/ca/societat/exigeixen-llibertat-tres-vaguistes-11n-empresonats-convoquen-manifestacio-dissabte_1729757_102.html"
+            }
+          ]
         }
       ],
       "fonts": [],
       "context": "\n<p class=\"wp-block-paragraph\">Dissabte 24 d’octubre a la tarda, una concentració de joves convocada per xarxes socials va acabar amb aldarulls, botigues saquejades i contenidors cremats al voltant de plaça Catalunya. Dels aldarulls a plaça Catalunya, aquí recollim només el que confirmen les autoritats i els mitjans, i ho actualitzem cada matí.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Les xifres</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Uns 100 detinguts</strong>, una quarta part menors d’edat, segons el primer balanç. És una xifra provisional: la consellera d’Interior no descarta més detencions.</li>\n\n\n\n<li><strong>14 botigues saquejades</strong>, segons la consellera d’Interior, Núria Parlon.</li>\n\n\n\n<li><strong>33 focs</strong> apagats pels Bombers.</li>\n\n\n\n<li><strong>Unes 500 persones</strong> en el moment de més gent, sense cap organització al darrere, segons Interior.</li>\n\n\n\n<li><strong>Uns 200 agents</strong> de la Brigada Mòbil dels Mossos i d’unitats de paisà, amb el suport de la Guàrdia Urbana.</li>\n\n\n\n<li><strong>Almenys 10 agents ferits</strong> dels Mossos i de la Guàrdia Urbana, la majoria lleus, segons ElNacional.cat. Interior encara no n’ha donat el balanç oficial, ni dels civils.</li>\n</ul>\n\n\n\n<figure class=\"ca-figure\"><svg viewBox=\"0 0 420 200\" role=\"img\" aria-label=\"Detinguts i agents ferits per jornada d’aldarulls al centre de Barcelona, octubre de 2026: 13 detinguts i uns 30 mossos ferits el 5 d’octubre; uns 100 detinguts i almenys 10 agents ferits el 24 d’octubre\" style=\"font-family:Inter,system-ui,sans-serif\"><line x1=\"2.0\" x2=\"2.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"2.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">0</text><line x1=\"126.0\" x2=\"126.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"126.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">50</text><line x1=\"250.0\" x2=\"250.0\" y1=\"0\" y2=\"178\" stroke=\"#dfe5e9\"/><text x=\"250.0\" y=\"194\" font-size=\"11\" fill=\"#68727f\" text-anchor=\"middle\">100</text><text x=\"0\" y=\"18\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">5 oct · Habitatge</text><rect x=\"2\" y=\"26\" width=\"32.2\" height=\"22\" rx=\"4\" fill=\"#16a99b\"/><text x=\"42.2\" y=\"41.5\" font-size=\"13\" fill=\"#111820\">13 detinguts</text><rect x=\"2\" y=\"54\" width=\"74.4\" height=\"22\" rx=\"4\" fill=\"#e98a4c\"/><text x=\"84.4\" y=\"69.5\" font-size=\"13\" fill=\"#111820\">~30 ferits</text><text x=\"0\" y=\"108\" font-size=\"14\" font-weight=\"600\" fill=\"#111820\">24 oct · Pl. Catalunya</text><rect x=\"2\" y=\"116\" width=\"248.0\" height=\"22\" rx=\"4\" fill=\"#16a99b\"/><text x=\"258.0\" y=\"131.5\" font-size=\"13\" fill=\"#111820\">~100 detinguts</text><rect x=\"2\" y=\"144\" width=\"24.8\" height=\"22\" rx=\"4\" fill=\"#e98a4c\"/><text x=\"34.8\" y=\"159.5\" font-size=\"13\" fill=\"#111820\">≥10 agents ferits (provisional)</text></svg><div class=\"ca-legend\"><span><i style=\"background:#16a99b\"></i>Detinguts</span><span><i style=\"background:#e98a4c\"></i>Agents ferits</span></div><figcaption>Balanç per jornada d’aldarulls al centre, octubre de 2026. Dades dels Mossos i d’Interior recollides per la premsa. La del 24 d’octubre és provisional.</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Què va passar: cronologia dels aldarulls a plaça Catalunya</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Divendres i dissabte al matí.</strong> L’Ajuntament retira contenidors i altres objectes del centre després de veure les crides a les xarxes.</li>\n\n\n\n<li><strong>17 h.</strong> Centenars de joves, molts encaputxats, es concentren a plaça Catalunya. La crida havia circulat a TikTok com una «convocatòria internacional de vaga i mobilitzacions estudiantils i juvenils». Els Mossos la consideren no autoritzada perquè no s’havia comunicat.</li>\n\n\n\n<li><strong>Tarda.</strong> Llançament d’objectes contra el cordó policial i primeres càrregues. Contenidors i papereres cremats, motos tombades, un semàfor, marquesines i part de la terrassa del Bar Zúrich destrossats. Diverses botigues abaixen la persiana amb clients a dins.</li>\n\n\n\n<li><strong>Vespre.</strong> Saquejos de botigues. La Guàrdia Urbana tanca els accessos a la plaça entre Urquinaona i Universitat, i es tanca l’estació de metro de Catalunya. Dos helicòpters sobrevolen la zona.</li>\n\n\n\n<li><strong>Nit.</strong> Primer balanç: uns 100 detinguts.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Què diuen les autoritats</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El president Salvador Illa i la consellera d’Interior, Núria Parlon, van condemnar la violència. Parlon va dir que els fets van ser obra de grups no organitzats i que no formaven part de cap manifestació.</p>\n\n\n\n<p class=\"wp-block-paragraph\">L’alcalde Jaume Collboni va anunciar que l’Ajuntament es personarà a la causa per defensar els béns públics, que reclamarà els danys i que demanarà responsabilitats als pares dels menors. També va desvincular els fets de l’acampada per l’habitatge que fa setmanes que hi ha a la mateixa plaça.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Què no se sap encara</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Qui va fer la crida inicial i amb quin objectiu.</li>\n\n\n\n<li>Quantes persones han resultat ferides, agents i civils.</li>\n\n\n\n<li>Quants detinguts passen a disposició judicial, quants queden en llibertat amb càrrecs i quants en presó provisional.</li>\n\n\n\n<li>Si hi haurà noves convocatòries els pròxims dies.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Les dades de les persones detingudes, només en xifres agregades: no publiquem noms, cares ni orígens de persones concretes.</p>\n\n\n\n<h2 class=\"wp-block-heading\">No és l’acampada</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Els aldarulls van passar a la mateixa plaça que l’acampada per l’habitatge, però els mitjans i l’alcalde els descriuen com una concentració diferent. En fem un <a href=\"/la-ciutat-avui/\">seguiment a part</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Abans de compartir un vídeo</h2>\n\n\n\n<p class=\"wp-block-paragraph\">En aldarulls anteriors van circular vídeos d’altres anys presentats com a actuals. Mira la data i la font, i comprova l’<a href=\"/arxiu-de-bulos/\">arxiu de bulos</a>. Si no entens algun terme, com ara «presó provisional» o «desordres públics», el tens al <a href=\"/glossari/\">glossari</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">No és la primera vegada aquest mes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El 5 d’octubre, la manifestació per l’habitatge també va acabar amb aldarulls al centre: 13 detinguts, una trentena de mossos ferits lleus, 28 barricades i 22 incendis apagats pels Bombers.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Preguntes freqüents sobre els aldarulls a plaça Catalunya</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Quantes persones van ser detingudes?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Uns 100, segons el primer balanç dels Mossos i d’Interior. Una quarta part eren menors d’edat. La xifra pot créixer: la consellera Parlon no descarta més detencions.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Els aldarulls tenen relació amb l’acampada per l’habitatge?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No, segons l’alcalde Jaume Collboni i la consellera d’Interior. La concentració es va convocar per TikTok i Interior diu que no tenia cap organització al darrere. L’acampada per l’habitatge, que fa setmanes que és a la plaça, no la va convocar. En parlem a <a href=\"/acampada-habitatge-placa-catalunya/\">l’acampada per l’habitatge de plaça Catalunya</a>.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Quants danys hi va haver?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">14 botigues saquejades i 33 focs apagats pels Bombers, sobretot contenidors. L’Ajuntament es personarà a la causa i reclamarà els danys.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Fonts</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/\" target=\"_blank\" rel=\"noopener\">VilaWeb</a>, 25 d’octubre de 2026: balanç i declaracions de Collboni i Parlon</li>\n\n\n\n<li><a href=\"https://www.elnacional.cat/es/sociedad/tension-en-centro-barcelona-concentracion-jovenes-provoca-estampidas-cierre-comercios_1714510_102.html\" target=\"_blank\" rel=\"noopener\">ElNacional.cat</a>, 24 d’octubre de 2026: la convocatòria a TikTok</li>\n\n\n\n<li><a href=\"https://www.ara.cat/societat/tensio-centre-barcelona-manifestacio-convocada-xarxes-socials_1_5889607.html\" target=\"_blank\" rel=\"noopener\">Ara</a>, 24 d’octubre de 2026</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/el-pols-de-la-ciutat/20261024/manifestacio-destudiants-acaba-aldarulls-centre-barcelona-carregues-policials-barricades-incendiades-destrosses-mobiliari-urba/1003742805849_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 24 d’octubre de 2026: destrosses</li>\n\n\n\n<li><a href=\"https://www.metropoliabierta.cat/mobilitat/20261024/tanquen-lestacio-catalunya-metro-barcelona-aldarulls-centre/1003742805876_0.html\" target=\"_blank\" rel=\"noopener\">Metròpoli Abierta</a>, 24 d’octubre de 2026: tancament del metro</li>\n\n\n\n<li><a href=\"https://www.infobae.com/espana/2026/10/24/una-protesta-juvenil-en-barcelona-deriva-en-saqueos-incendios-y-choques-con-los-mossos/\" target=\"_blank\" rel=\"noopener\">Infobae / EFE</a>, 24 d’octubre de 2026: talls d’accés</li>\n\n\n\n<li><a href=\"https://www.cronicaglobal.cat/vida/20261006/trentena-mossos-detinguts-disturbis-despres-manifestacio-lhabitatge/1003742800184_0.html\" target=\"_blank\" rel=\"noopener\">Crònica Global</a>, 6 d’octubre de 2026: balanç del 5 d’octubre</li>\n\n\n\n<li><a href=\"https://www.elnacional.cat/ca/societat/caos-barcelona-500-encaputxats-saquejar-botigues-incendis-centre_1714573_102.html\" target=\"_blank\" rel=\"noopener\">ElNacional.cat</a>, 25 d’octubre de 2026: agents ferits i botigues saquejades</li>\n</ul>\n",
-      "resum": "Centenars de persones han demanat a Sant Jaume la llibertat dels 3 adults a presó provisional per l’11-N, mentre l’Audiència estudia el recurs. De 52 detinguts aquell dia, 48 han passat pel jutjat, segons el TSJC.",
+      "resum": "Més d’un centenar de personalitats han signat un manifest per demanar la llibertat dels 3 adults a presó provisional per l’11-N, mentre l’Audiència estudia el recurs. De 52 detinguts aquell dia, 48 han passat pel jutjat, segons el TSJC.",
       "fonts_context": [
         {
           "nom": "VilaWeb",
@@ -3934,10 +3994,10 @@
     {
       "data": "2026-11-28",
       "titol": "Manifestació pels empresonats de l’11-N",
-      "text": "Els sindicats d’habitatge han anunciat una nova manifestació a Barcelona per demanar la llibertat dels 3 adults a presó provisional.",
+      "text": "Els impulsors d’un manifest per la llibertat dels 3 adults a presó provisional per l’11-N i el grup de suport de les famílies han convocat una manifestació a Barcelona.",
       "font": {
-        "nom": "Ara",
-        "url": "https://www.ara.cat/societat/educacio/centenars-persones-reclamen-des-sant-jaume-llibertat-dels-vaguistes_25_5917827.html"
+        "nom": "betevé",
+        "url": "https://beteve.cat/societat/centenar-personalitats-manifest-llibertat-vaguistes-presos-11-n/"
       }
     }
   ],
