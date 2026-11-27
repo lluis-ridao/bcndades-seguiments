@@ -1,6 +1,6 @@
 {
   "versio": 1,
-  "actualitzat": "2026-11-26T08:41:29+01:00",
+  "actualitzat": "2026-11-27T08:40:12+01:00",
   "seguiments": [
     {
       "slug": "aldarulls-placa-catalunya",
@@ -4041,15 +4041,6 @@
     }
   ],
   "calendari": [
-    {
-      "data": "2026-11-26",
-      "titol": "Vaga a l’educació",
-      "text": "Vaga educativa del personal docent i laboral convocada per USTEC·STEs dins del marc unitari de sindicats i assemblees. Reclamen més pressupost, salaris i ràtios més baixes.",
-      "font": {
-        "nom": "USTEC·STEs",
-        "url": "https://www.sindicat.net/2026/10/28/aquest-novembre-blindem-la-publica/"
-      }
-    },
     {
       "data": "2026-11-28",
       "titol": "Manifestació pels empresonats de l’11-N",
